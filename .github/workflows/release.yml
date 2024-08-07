@@ -1,0 +1,51 @@
+name: Release Translation
+
+on:
+   workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          submodules: recursive
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+
+      - name: Make Translation
+        run: python -m scripts.make_dist
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Release translation
+        env:
+          TARGET_REPO: git@github.com:kimght/LimbusLocalizeRU.git
+          TARGET_BRANCH: release
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git clone --branch $TARGET_BRANCH $TARGET_REPO release
+          rm -rf release/*
+          cp -R dist/* release/
+          cd release
+          git add .
+          git commit -m "feat: build translation (automated commit message)"
+          git push origin $TARGET_BRANCH
+
+          echo Add other actions to build,
+          echo test, and deploy your project.
