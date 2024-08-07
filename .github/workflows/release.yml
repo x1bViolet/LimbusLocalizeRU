@@ -1,7 +1,10 @@
 name: Release Translation
 
 on:
-   workflow_dispatch:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Версия'   
 
 jobs:
 
@@ -22,6 +25,8 @@ jobs:
           python-version: 3.12
 
       - name: Make Translation
+        env:
+          LOCALIZATION_VERSION: ${{ github.event.inputs.version }}
         run: python -m scripts.make_dist
 
       - name: Configure git
