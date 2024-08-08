@@ -1,3 +1,4 @@
+import datetime
 import json
 import typing
 import pydantic
@@ -61,14 +62,14 @@ class ReadmeBody(pydantic.BaseModel):
 class ReadmeData(pydantic.BaseModel):
     title: str
     text: ReadmeBody
-    start_date: str = "2023-08-31T00:00:00.000Z"
+    start_date: datetime.datetime = datetime.datetime.fromisoformat("2023-08-31T00:00:00.000Z")
 
     def export(self, id_: int, type_: int = 0) -> dict:
         return {
             "id": id_,
             "version": 0,
             "type": type_,
-            "startDate": self.start_date,
+            "startDate": self.start_date.isoformat(timespec="milliseconds").replace("+00:00", "Z"),
             "endDate": "2024-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": self.title,
@@ -79,7 +80,7 @@ class ReadmeData(pydantic.BaseModel):
 class GitHubRelease(pydantic.BaseModel):
     name: str
     body: str
-    published_at: str
+    published_at: datetime.datetime
 
     def make_readme(self) -> ReadmeData:
         readme_text: list[ReadmeBodyElement] = []
