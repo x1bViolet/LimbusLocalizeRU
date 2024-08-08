@@ -10,7 +10,7 @@ def get_file_checksum(file_path: pathlib.Path, algorithm: str = "md5") -> str:
     with file_path.open("rb") as file:
         for chunk in iter(lambda: file.read(4096), b""):
             hash_alg.update(chunk)
-    return hash_alg.hexdigest()
+    return hash_alg.hexdigest().upper()
 
 
 def validate_json_file(file_path: pathlib.Path) -> bool:
