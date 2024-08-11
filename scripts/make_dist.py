@@ -29,7 +29,7 @@ def dist_localization_data(metadata: MetaData, dist_path: pathlib.Path) -> None:
     invalid_files = []
 
     localization_path = pathlib.Path(__file__).parents[1] / "localize"
-    for file in localization_path.glob("**/*.json"):
+    for file in (localization_path / "RU").glob("**/*.json"):
         if not file.is_file():
             continue
 
