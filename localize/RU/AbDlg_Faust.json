@@ -5,7 +5,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Разумнее всего было бы позволить мне самой разобраться с этим.",
+      "dialog": "The rational choice would be to allow me to handle this.",
       "usage": "(800101, VERY_HIGH), (800102, VERY_HIGH), (800104, VERY_HIGH), (800105, VERY_HIGH)"
     },
     {
@@ -13,7 +13,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Мой анализ показывает, что эта задача будет относительно легкой.",
+      "dialog": "The rational choice would be to allow me to handle this.",
       "usage": "(800101, HIGH), (800102, HIGH), (800104, HIGH), (800105, HIGH) "
     },
     {
@@ -21,7 +21,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Я не могу гарантировать результат. Это будет зависеть от хаоса во вселенной.",
+      "dialog": "I can’t guarantee the results. It will be up to the chaos of the universe.",
       "usage": "(800101, NORMAL), (800102, NORMAL), (800104, NORMAL), (800105, NORMAL)"
     },
     {
@@ -29,7 +29,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "На вашем месте, я бы поручила это задание кому-нибудь другому.",
+      "dialog": "If I were you, I would assign someone else to this task.",
       "usage": "(800101, LOW), (800102, LOW), (800104, LOW), (800105, LOW)"
     },
     {
@@ -37,7 +37,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Из-за такого выбора решение назначить вас нашим менеджером было бы достойным сожаления.",
+      "dialog": "This choice would make the decision to place you as our manager a regrettable one.",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -45,7 +45,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Постарайтесь не цепляться за этот успех.",
+      "dialog": "Try not to cling to this success.",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
@@ -53,7 +53,7 @@
       "personalityid": 10202,
       "voicefile": 0,
       "teller": "W. Faust",
-      "dialog": "Постарайтесь не зацикливаться на этой неудаче.",
+      "dialog": "Try not to dwell on this failure.",
       "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {
