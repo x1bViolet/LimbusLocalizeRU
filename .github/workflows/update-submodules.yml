@@ -9,13 +9,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          submodules: recursive
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: 3.12
+          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install httpx
+        run: pip install -r requirements.txt
 
       - name: Update Submodules
         env:
