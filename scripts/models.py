@@ -37,7 +37,7 @@ class ReadmeImage(ReadmeBodyElement):
 class ReadmeLink(ReadmeBodyElement):
     url: str
     value: str | None = None
-    key: typing.Literal["Link"] = "Link"
+    key: typing.Literal["HyperLink"] = "HyperLink"
 
     def export(self) -> dict:
         if self.value is None:
