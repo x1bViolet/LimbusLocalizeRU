@@ -5,7 +5,7 @@ import json
 import shutil
 
 from .models import MetaData, FileMetaData
-from .utils import get_github_releases
+from .utils import get_github_releases, make_readme_contributors, make_readme_extra
 
 
 def get_file_checksum(file_path: pathlib.Path, algorithm: str = "md5") -> str:
@@ -97,6 +97,16 @@ def dist_readme(metadata: MetaData, dist_path: pathlib.Path) -> None:
 
     with open(readme_path / "readme_template.json", "r", encoding="utf-8-sig") as file:
         readme_template = json.load(file)
+
+    contributors = make_readme_contributors([
+        "kimght/LimbusStory",
+        "kimght/LimbusLocalizeRU",
+    ])
+
+    readme_template["noticeList"].append(contributors.export(1193, 1))
+
+    extra = make_readme_extra()
+    readme_template["noticeList"].append(extra.export(1194, 1))
 
     releases_info = get_github_releases("kimght/LimbusCompanyRuMTL")
     releases_notices = []
