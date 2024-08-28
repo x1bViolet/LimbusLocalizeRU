@@ -50,7 +50,7 @@ def parse_gitmodules(gitmodules_content: str) -> dict[str, dict[str, str]]:
     return submodules
 
 
-def get_latest_commit_sha(submodule_info, github_token):
+def get_latest_commit_sha(submodule_info: dict[str, str], github_token: str) -> str:
     url = submodule_info["url"]
     branch = submodule_info["branch"]
 
@@ -76,8 +76,12 @@ def get_latest_commit_sha(submodule_info, github_token):
 
 
 def create_tree_with_submodule_updates(
-    submodules, base_tree_sha, github_token, repo_owner, repo_name
-):
+    submodules: dict[str, dict[str, str]],
+    base_tree_sha: str,
+    github_token: str,
+    repo_owner: str,
+    repo_name: str,
+) -> str:
     tree = []
     for path, submodule_info in submodules.items():
         latest_commit_sha = get_latest_commit_sha(submodule_info, github_token)
@@ -106,7 +110,9 @@ def create_tree_with_submodule_updates(
     return response.json()["sha"]
 
 
-def create_commit(tree_sha, parent_sha, github_token, repo_owner, repo_name):
+def create_commit(
+    tree_sha: str, parent_sha: str, github_token: str, repo_owner: str, repo_name: str
+):
     api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/git/commits"
     headers = {
         "Authorization": f"token {github_token}",
@@ -130,7 +136,11 @@ def create_commit(tree_sha, parent_sha, github_token, repo_owner, repo_name):
 
 
 def update_branch_to_commit(
-    commit_sha, github_token, repo_owner, repo_name, branch="main"
+    commit_sha: str,
+    github_token: str,
+    repo_owner: str,
+    repo_name: str,
+    branch: str = "main",
 ):
     api_url = (
         f"https://api.github.com/repos/{repo_owner}/{repo_name}/git/refs/heads/{branch}"
