@@ -4,7 +4,7 @@ import httpx
 from base64 import b64decode
 
 
-def get_env_variables():
+def get_env_variables() -> tuple[str, str, str]:
     github_token = os.getenv("GITHUB_TOKEN")
     repo_owner = os.getenv("REPO_OWNER")
     repo_name = os.getenv("REPO_NAME")
@@ -112,7 +112,7 @@ def create_tree_with_submodule_updates(
 
 def create_commit(
     tree_sha: str, parent_sha: str, github_token: str, repo_owner: str, repo_name: str
-):
+) -> str:
     api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/git/commits"
     headers = {
         "Authorization": f"token {github_token}",
@@ -158,7 +158,7 @@ def update_branch_to_commit(
         )
 
 
-def main():
+def main() -> None:
     github_token, repo_owner, repo_name = get_env_variables()
 
     gitmodules_content = fetch_gitmodules(github_token, repo_owner, repo_name)
