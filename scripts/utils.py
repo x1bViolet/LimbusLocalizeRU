@@ -37,7 +37,8 @@ def make_readme_contributors(repos: list[str]) -> ReadmeData:
         ReadmeText(value=f"- {contributor}")
         for contributor in contributors
     ] + [
-        ReadmeLink(url="https://github.com/kimght/LimbusStory", value="Помочь в переводе"),
+        ReadmeSubTitle(value="Помочь в переводе", size=49),
+        ReadmeLink(url="https://github.com/kimght/LimbusStory", value="GitHub"),
     ]
 
     return ReadmeData(
@@ -52,7 +53,8 @@ def make_readme_extra() -> ReadmeData:
         text=ReadmeBody(
             list=[
                 ReadmeSubTitle(value="Дополнительно", size=49),
-                ReadmeLink(url="https://kimght.github.io", value="Онлайн читалочка"),
+                ReadmeText(value=f"Онлайн читалочка:"),
+                ReadmeLink(url="https://kimght.github.io", value="kimght.github.io"),
             ]
         )
     )
