@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "AaCeSeBa",
-      "name": "HO! HO! HO!",
-      "desc": "Turn End: Gain {1} Poise Count next turn.\nExpires at 0 Charge Count.",
+      "name": "ХОУ! ХОУ! ХОУ!",
+      "desc": "Конец хода: Получает {1} счетчика дыхания в следующем ходу.\nИстекает при 0 счетчике Заряда.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AaCeSeBb",
-      "name": "I'll Gift-wrap You",
-      "desc": "Gain 3 Poise every turn.\nTurn End: Heal 3 SP for every Attack Skill that dealt damage",
+      "name": "Заверну-тебя в Подарок",
+      "desc": "Получает 3 Дыхания каждый ход.\nКонец хода: Исцеляет 3 СД за каждый атакующий навык нанесший урон",
       "summary": "",
       "undefined": "-"
     }
