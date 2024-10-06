@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "CleanUp_LowMorale",
-      "name": "Organization Compulsion",
-      "desc": "- Low Morale\n- Lose 5 SP on Clash Lose. Gain 1 Haste next turn when hit (max 2)",
-      "summary": "Lose 5 SP on Clash Lose. Gain 1 Haste next turn when hit",
+      "name": "Принуждение к организации",
+      "desc": "- Низкая сила духа\n- Теряет 5 СД при проигрыше в столкновении. Получает 1 Спешку в следующем ходу при получении удара (макс. 2)",
+      "summary": "Теряет 5 СД при проигрыше в столкновении. Получает 1 Спешку в следующем ходу при получении удара",
       "undefined": "-"
     },
     {
       "id": "CleanUp_Panic",
-      "name": "Organization Compulsion",
-      "desc": "- Panic\n- Gain 2 Fragile. Gain 1 Haste next turn when hit (max 3)",
-      "summary": "Gain 3 Fragile. Gain 1 Haste next turn when hit",
+      "name": "Принуждение к организации",
+      "desc": "- Паника\n- Получает 2 Уязвимости. Получает 1 Спешку в следующем ходу при получении удара (макс. 3)",
+      "summary": "Получает 3 Уязвимости. Получает 1 Спешку в следующем ходу при получении удара",
       "undefined": "-"
     },
     {
       "id": "Acclamation_LowMorale",
-      "name": "Echoes of the Manor",
-      "desc": "- Low Morale\n- Clash Power -1 on self. Deal +10% more damage on Heads Hit",
-      "summary": "Clash Power -1 on self. Deal +10% more damage on Heads Hit",
+      "name": "Эхо Особняка",
+      "desc": "- Низкая сила духа\n- Сила столкновения -1 для себя. Наносит на 10% больше урона при выпадении монеты Орлом",
+      "summary": "Сила столкновения -1 для себя. Наносит на 10% больше урона при выпадении монеты Орлом",
       "undefined": "-"
     },
     {
       "id": "Acclamation_Panic",
-      "name": "Echoes of the Manor",
-      "desc": "- Panic\n- Clash Power -2 on self. Gain 1 Damage Up",
-      "summary": "Clash Power -2 on self. Gain 1 Damage Up",
+      "name": "Эхо Особняка",
+      "desc": "- Паника\n- Сила столкновения -2 для себя. Получает 1 Усиление урона",
+      "summary": "Сила столкновения -2 для себя. Получает 1 Усиление урона",
       "undefined": "-"
     },
     {
       "id": "Unstable_LowMorale",
-      "name": "Splitting",
-      "desc": "- Low Morale\n- Lose 2 HP on self with every Clash. Gain 1 Offense Level Up at Turn Start.",
-      "summary": "Lose 2 HP on self with every Clash",
+      "name": "Раскол",
+      "desc": "- Низкая сила духа\n- Теряет 2 ОЗ при каждом столкновении. Получает 1 Повышение уровня атаки в начале хода.",
+      "summary": "Теряет 2 ОЗ при каждом столкновении",
       "undefined": "-"
     },
     {
       "id": "Unstable_Panic",
-      "name": "Splitting",
-      "desc": "- Panic\n- Lose 3 HP on self with every Clash. Gain 2 Offense Level Up at Turn Start.",
-      "summary": "Lose 3 HP on self with every Clash",
+      "name": "Раскол",
+      "desc": "- Паника\n- Теряет 3 ОЗ при каждом столкновении. Получает 2 Повышения уровня атаки в начале хода.",
+      "summary": "Теряет 3 ОЗ при каждом столкновении",
       "undefined": "-"
     },
     {
       "id": "AaCfPaBa",
-      "name": "Bereavement",
-      "desc": "Turn End: at -15 or higher SP, lose 10 SP.\nWhen hit, lose 2 SP and gain 1 Offense Level Up next turn. (3 times per turn)\nTurn Start: at less than 0 SP, gain 3 Attack Power Up.",
-      "summary": "When hit, lose SP and gain 1 Offense Level Up next turn.\nTurn Start: at less than 0 SP, gain 3 Attack Power Up.",
+      "name": "Скорбь",
+      "desc": "Конец хода: при -15 или более СД, теряет 10 СД.\nПри получении удара, теряет 2 СД и получает 1 Повышение уровня атаки в следующем ходу. (3 раза за ход)\nНачало хода: при менее 0 СД, получает 3 Усиления силы атаки.",
+      "summary": "При получении удара, теряет СД и получает 1 Повышение уровня атаки в следующем ходу.\nНачало хода: при менее 0 СД, получает 3 Усиления силы атаки.",
       "undefined": "-"
     }
   ]
