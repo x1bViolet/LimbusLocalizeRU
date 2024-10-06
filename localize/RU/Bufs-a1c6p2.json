@@ -2,82 +2,82 @@
   "dataList": [
     {
       "id": "Vengeance_LowMorale",
-      "name": "Revenge",
-      "desc": "- Low Morale\n- Gain 3 Defense Level Down and 3 Damage Up",
-      "summary": "Gain 3 Defense Level Down and 3 Damage Up",
+      "name": "Месть",
+      "desc": "- Низкая сила духа\n- Получает 3 Понижения Уровня Защиты и 3 Усиления Урона",
+      "summary": "Получает 3 Понижения Уровня Защиты и 3 Усиления Урона",
       "undefined": "-"
     },
     {
       "id": "Vengeance_Panic",
-      "name": "Revenge",
-      "desc": "- Panic\n- Gain 6 Defense Level Down and 5 Damage Up",
-      "summary": "Gain 6 Defense Level Down and 5 Damage Up",
+      "name": "Месть",
+      "desc": "- Паника\n- Получает 6 Понижений Уровня Защиты и 5 Усилений Урона",
+      "summary": "Получает 6 Понижений Уровня Защиты и 5 Усилений Урона",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBe",
-      "name": "Marked Prey",
-      "desc": "- With every hit this unit takes, take bonus Slash damage equal to 10% of the HP damage taken. Expires next turn.\n- If this unit does not take damage during this turn, inflict 1 Inferiority Complex after attack then expires\n- Max Value: 1",
-      "summary": "Take bonus Slash damage equal to 10% of the HP damage taken",
+      "name": "Отмеченная Цель",
+      "desc": "- С каждым ударом по этому юниту, получает дополнительный Режущий урон, равный 10% от полученного урона по ОЗ. Истекает в следующем ходу.\n- Если этот юнит не получает урон в течение этого хода, накладывает 1 Комплекс Неполноценности после атаки, затем истекает\n- Макс. счетчик: 1",
+      "summary": "Получает дополнительный Режущий урон, равный 10% от полученного урона по ОЗ",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBf",
-      "name": "Inferiority Complex",
-      "desc": "- Every time this unit is hit, take ((20% of HP damage taken) * {0}) damage\n- Max Value: 5",
-      "summary": "Take ((20% of HP damage taken) * {0}) damage",
+      "name": "Комплекс Неполноценности",
+      "desc": "- Каждый раз, когда этот юнит получает удар, получает ((20% от урона по ОЗ) * {0}) урона\n- Макс. счетчик: 5",
+      "summary": "Получает ((20% от урона по ОЗ) * {0}) урона",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBa",
-      "name": "Explosive Gloom",
-      "desc": "- Gloom Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Offense Level Up next turn (9 times per turn)",
-      "summary": "Resistance to Gloom(and only Gloom) becomes Fatal.\nWhen hit: Inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Offense Level Up next turn.",
+      "name": "Взрывное Уныние",
+      "desc": "- Сопротивление Греху Уныния +0.3\n- Сопротивление другим Грехам -0.5\n- При получении удара: накладывает 3 урона по СД на атакующего, получает 1 счетчик Утопания и получает 1 Повышение Уровня Атаки в следующем ходу (9 раз за ход)",
+      "summary": "Сопротивление Унынию (и только Унынию) становится Фатальным.\nПри получении удара: Накладывает 3 урона по СД на атакующего, получает 1 счетчик Утопания и получает 1 Повышение Уровня Атаки в следующем ходу.",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBb",
-      "name": "Explosive Envy",
-      "desc": "- Envy Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: apply 1 Offense Level Up, inflict 2 Bleed, and 2 Bleed Count on attacker, and gain 1 Defense Level Down next turn (9 times per turn)",
-      "summary": "Resistance to Envy(and only Envy) becomes Fatal\nWhen hit: apply 1 Offense Level Up, 2 Bleed, and 2 Bleed Count on target, and gain 1 Defense Level Down next turn",
+      "name": "Взрывная Зависть",
+      "desc": "- Сопротивление Греху Зависти +0.3\n- Сопротивление другим Грехам -0.5\n- При получении удара: применяет 1 Повышение Уровня Атаки, накладывает 2 Кровотечения и 2 счетчика Кровотечения на атакующего, и получает 1 Понижение Уровня Защиты в следующем ходу (9 раз за ход)",
+      "summary": "Сопротивление Зависти (и только Зависти) становится Фатальным\nПри получении удара: применяет 1 Повышение Уровня Атаки, 2 Кровотечения и 2 счетчика Кровотечения на цель, и получает 1 Понижение Уровня Защиты в следующем ходу",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBc",
-      "name": "Explosive Wrath",
-      "desc": "- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: Gain 1 Offense Level Up and 1 Defense Level Down next turn (9 times per turn)",
-      "summary": "Resistance to Wrath(and only Wrath) becomes Fatal.\nWhen hit, gain 1 Offense Level Up and 1 Defense Level Down.",
+      "name": "Взрывной Гнев",
+      "desc": "- Сопротивление Греху Гнева +0.3\n- Сопротивление другим Грехам -0.5\n- При получении удара: Получает 1 Повышение Уровня Атаки и 1 Понижение Уровня Защиты в следующем ходу (9 раз за ход)",
+      "summary": "Сопротивление Гневу (и только Гневу) становится Фатальным.\nПри получении удара, получает 1 Повышение Уровня Атаки и 1 Понижение Уровня Защиты.",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBd",
-      "name": "Deep Bereavement",
-      "desc": "Turn Start: Lose 5 Speed and gain 5 Defense Level Down",
+      "name": "Глубокая Скорбь",
+      "desc": "Начало Хода: Теряет 5 Скорости и получает 5 Понижений Уровня Защиты",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBg",
-      "name": "Misshapen Painting",
-      "desc": "- Low Morale\n- Gain 1 Attack Power Up & 1 Fragile",
+      "name": "Искаженная Картина",
+      "desc": "- Низкая сила духа\n- Получает 1 Усиление Силы Атаки и 1 Уязвимость",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBh",
-      "name": "Misshapen Painting",
-      "desc": "- Panic\n- Gain 1 Plus Coin Boost & 3 Fragile",
+      "name": "Искаженная Картина",
+      "desc": "- Паника\n- Получает 1 Усиление Бонусных Монет и 3 Уязвимости",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBi",
-      "name": "Hatred",
-      "desc": "- Low Morale\n- Clash Win: Gain 1 Offense Level Up next turn. (max 3 per turn)\nClash Lose: Gain 1 Defense Level Up. (max 3 per turn)",
+      "name": "Ненависть",
+      "desc": "- Низкая сила духа\n- Победа в Столкновении: Получает 1 Повышение Уровня Атаки в следующем ходу. (макс. 3 за ход)\nПоражение в Столкновении: Получает 1 Повышение Уровня Защиты. (макс. 3 за ход)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBj",
       "iconID": "Vengeanse_LowMoral",
-      "name": "Hatred",
-      "desc": "- Panic\n- Clash Win: Gain 1 Offense Level Up this turn and next turn. (max 3 per turn)\nClash Lose: Gain 1 Defense Level Up. (max 3 per turn)\nTurn End: Gain 2 Haste next turn",
+      "name": "Ненависть",
+      "desc": "- Паника\n- Победа в Столкновении: Получает 1 Повышение Уровня Атаки в этом ходу и в следующем. (макс. 3 за ход)\nПоражение в Столкновении: Получает 1 Повышение Уровня Защиты. (макс. 3 за ход)\nКонец хода: Получает 2 Спешки в следующем ходу",
       "undefined": "-"
     }
   ]
