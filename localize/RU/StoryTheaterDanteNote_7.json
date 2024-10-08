@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "ButlerAssoc",
-      "content": "Butlers"
+      "content": "Дворецкие"
     },
     {
       "id": "CityDirection",
-      "content": "Districts"
+      "content": "Районы"
     },
     {
       "id": "Line4",
@@ -14,7 +14,7 @@
     },
     {
       "id": "PDA",
-      "content": "PDA Device"
+      "content": "Личный КПК"
     }
   ]
 }
