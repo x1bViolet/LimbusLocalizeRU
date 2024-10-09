@@ -2,183 +2,183 @@
   "dataList": [
     {
       "id": "UnitKeyword_BLADE_LINEAGE",
-      "content": "Blade Lineage"
+      "content": "Родословная Клинка"
     },
     {
       "id": "UnitKeyword_BLACK_CLOUD",
-      "content": "Kurokumo Clan"
+      "content": "Клан Курокумо"
     },
     {
       "id": "UnitKeyword_YURODIVY",
-      "content": "Yurodiviye"
+      "content": "Юродивые"
     },
     {
       "id": "UnitKeyword_MACHINE_BOUND_ORGANISM",
-      "content": "Mechanical Amalgam"
+      "content": "Механическая амальгама"
     },
     {
       "id": "UnitKeyword_ON_THE_LAKE",
-      "content": "Lake Entity"
+      "content": "Существо Озера"
     },
     {
       "id": "UnitKeyword_N_CORP",
-      "content": "N Corp."
+      "content": "Корп. N"
     },
     {
       "id": "UnitKeyword_K_CORP",
-      "content": "K Corp."
+      "content": "Корп. K"
     },
     {
       "id": "UnitKeyword_G_CORP",
-      "content": "G Corp."
+      "content": "Корп. G"
     },
     {
       "id": "UnitKeyword_W_CORP",
-      "content": "W Corp."
+      "content": "Корп. W"
     },
     {
       "id": "UnitKeyword_R_CORP",
-      "content": "R Corp."
+      "content": "Корп. R"
     },
     {
       "id": "UnitKeyword_T_CORP",
-      "content": "T Corp."
+      "content": "Корп. T"
     },
     {
       "id": "UnitKeyword_SEVEN",
-      "content": "Seven Association"
+      "content": "Ассоциация Севен"
     },
     {
       "id": "UnitKeyword_CINQ",
-      "content": "Cinq Association"
+      "content": "Ассоциация Сэнк"
     },
     {
       "id": "UnitKeyword_ZWEI",
-      "content": "Zwei Association"
+      "content": "Ассоциация Цвай"
     },
     {
       "id": "UnitKeyword_LIU",
-      "content": "Liu Association"
+      "content": "Ассоциация Лю"
     },
     {
       "id": "UnitKeyword_SHI",
-      "content": "Shi Association"
+      "content": "Ассоциация Ши"
     },
     {
       "id": "UnitKeyword_DIECI",
-      "content": "Dieci Association"
+      "content": "Ассоциация Дьечи"
     },
     {
       "id": "UnitKeyword_OUFI",
-      "content": "Öufi Association"
+      "content": "Ассоциация Эуфи"
     },
     {
       "id": "UnitKeyword_TROUBLE_SHOOTER",
-      "content": "Rosespanner Workshop"
+      "content": "Мастерская Ключа и Розы"
     },
     {
       "id": "UnitKeyword_ATL",
-      "content": "Technology Liberation Alliance"
+      "content": "Альянс Освобождения Технологий"
     },
     {
       "id": "UnitKeyword_MOLAR",
-      "content": "Molar Office"
+      "content": "Офис Коренного"
     },
     {
       "id": "UnitKeyword_MIDDLE_FINGER",
-      "content": "The Middle"
+      "content": "Средний палец"
     },
     {
       "id": "UnitKeyword_RING_FINGER",
-      "content": "The Ring"
+      "content": "Безымянный палец"
     },
     {
       "id": "UnitKeyword_PEQUOD_CREW",
-      "content": "The Pequod"
+      "content": "Член Пекода"
     },
     {
       "id": "UnitKeyword_WUTHERING_HEIGHTS",
-      "content": "Wuthering Heights"
+      "content": "Грозовой Перевал"
     },
     {
       "id": "UnitKeyword_DEAD_RABBITS",
-      "content": "The Dead Rabbits"
+      "content": "Мертвые Кролики"
     },
     {
       "id": "UnitKeyword_WILD_HUNT",
-      "content": "The Wild Hunt"
+      "content": "Дикая Охота"
     },
     {
       "id": "UnitKeyword_LIMBUS_COMPANY",
-      "content": "Limbus Company"
+      "content": "Компания Лимбус"
     },
     {
       "id": "UnitKeyword_KONG_KONG",
-      "content": "Tingtang Gang"
+      "content": "Банда Бом-Боб"
     },
     {
       "id": "UnitKeyword_MARIACHI",
-      "content": "Los Mariachis"
+      "content": "Лос Мариачис"
     },
     {
       "id": "UnitKeyword_HOOK_OFFICE",
-      "content": "Hook Office"
+      "content": "Офис Крюка"
     },
     {
       "id": "UnitKeyword_DUAL_HOOK_PIRATE",
-      "content": "Twinhook Pirates"
+      "content": "Пираты Двукрюки"
     },
     {
       "id": "UnitKeyword_DAWN",
-      "content": "Dawn Office"
+      "content": "Офис Рассвета"
     },
     {
       "id": "UnitKeyword_MULTI_CRACK",
-      "content": "MultiCrack Office"
+      "content": "Офис МультиРазлома"
     },
     {
       "id": "UnitKeyword_BACKSTREET_COOK",
-      "content": "R.B."
+      "content": "БуР"
     },
     {
       "id": "UnitKeyword_TIEQIU",
-      "content": "Tieqiu Crew"
+      "content": "Банда Железного Шара"
     },
     {
       "id": "UnitKeyword_LINTON",
-      "content": "Edgar Family"
+      "content": "Род Эдгар"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_HEAD",
-      "content": "Lobotomy Corp. Headquarters"
+      "content": "Штаб-Квартира Корпорации Лоботомия"
     },
     {
       "id": "UnitKeyword_LOBOTOMY_BRANCH",
-      "content": "Lobotomy Corp. Branch"
+      "content": "Филиал Корпорации Лоботомия"
     },
     {
       "id": "UnitKeyword_FIXER",
-      "content": "Fixer"
+      "content": "Корректировщик"
     },
     {
       "id": "UnitKeyword_CLAN",
-      "content": "Syndicate"
+      "content": "Синдикат"
     },
     {
       "id": "UnitKeyword_WHITE_PARASITE",
-      "content": "Pallidified"
+      "content": "Обледненный"
     },
     {
       "id": "UnitKeyword_N_CORP_FNATIC",
-      "content": "N Corp. Fanatic"
+      "content": "Фанатик Корп. N"
     },
     {
       "id": "UnitKeyword_BACK_STREET",
-      "content": "The Backstreets"
+      "content": "Подворотни"
     },
     {
       "id": "UnitKeyword_DEVYAT",
-      "content": "Devyat' Association"
+      "content": "Ассоциация Девять"
     }
   ]
 }
