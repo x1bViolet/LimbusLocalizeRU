@@ -2,275 +2,275 @@
   "dataList": [
     {
       "id": "tutorial_mainui_01_selection",
-      "content": "Creating your Team"
+      "content": "Создание вашей команды"
     },
     {
       "id": "tutorial_mainui_01_selection_page_01_desc_01",
-      "content": "You can configure a Team from your 12 Sinners and their Identities."
+      "content": "Вы можете настроить Команду из ваших 12 Грешников и их Личностей."
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_title_01",
-      "content": "Team (Sinners Window)"
+      "content": "Команда (Окно Грешников)"
     },
     {
       "id": "tutorial_mainui_01_selection_page_02_desc_01",
-      "content": "In 'Sinners' window, selecting a Sinner's Identity portrait will show a list of their Identities. From there, you can choose an Identity to deploy."
+      "content": "В окне 'Грешники', выбор портрета Личности Грешника покажет список их Личностей. Оттуда вы можете выбрать Личность для развертывания."
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_title_01",
-      "content": "Team (Before Battles)"
+      "content": "Команда (Перед Боями)"
     },
     {
       "id": "tutorial_mainui_01_selection_page_03_desc_01",
-      "content": "Selecting the top part of a Sinner's Identity portrait will show a list of their Identities. From there, you can select an Identity to deploy."
+      "content": "Выбор верхней части портрета Личности Грешника покажет список их Личностей. Оттуда вы можете выбрать Личность для развертывания."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_01",
-      "content": "Selecting the bottom part of a Sinner's Identity portrait will deploy that Identity to this battle."
+      "content": "Выбор нижней части портрета Личности Грешника развернет эту Личность для этого боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_04_desc_02",
-      "content": "This shows the total number of deployable Identities for this battle."
+      "content": "Это показывает общее количество развертываемых Личностей для этого боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_05_desc_01",
-      "content": "You will not be able to edit your Team in certain battle encounters. In those cases, selecting a Sinner's Identity portrait will deploy that Identity to battle."
+      "content": "Вы не сможете редактировать свою Команду в определенных боевых столкновениях. В таких случаях, выбор портрета Личности Грешника развернет эту Личность для боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_title_01",
-      "content": "Team - Identity Details"
+      "content": "Команда - Детали Личности"
     },
     {
       "id": "tutorial_mainui_01_selection_page_06_desc_01",
-      "content": "In all Team menus, you can press and hold on an Identity portrait to view detailed information on that Sinner's currently equipped Identity & E.G.O."
+      "content": "Во всех меню Команды вы можете нажать и удерживать портрет Личности, чтобы просмотреть подробную информацию о текущей экипированной Личности и E.G.O этого Грешника."
     },
     {
       "id": "tutorial_mainui_01_selection_page_07_title_01",
-      "content": "Select Battle Announcer"
+      "content": "Выбор Комментатора Боя"
     },
     {
       "id": "tutorial_mainui_01_selection_page_07_desc_01",
-      "content": "Select this button to view your Battle Announcers list."
+      "content": "Выберите эту кнопку, чтобы просмотреть список ваших Комментаторов Боя."
     },
     {
       "id": "tutorial_mainui_01_selection_page_07_desc_02",
-      "content": "You can choose which Battle Announcers to accompany you in battle."
+      "content": "Вы можете выбрать, какие Комментаторы Боя будут сопровождать вас в бою."
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_title_01",
-      "content": "TEAMS"
+      "content": "КОМАНДЫ"
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_desc_01",
-      "content": "Select from the list of keywords to choose a name for your Team."
+      "content": "Выберите из списка ключевых слов, чтобы дать имя вашей Команде."
     },
     {
       "id": "tutorial_mainui_01_selection_page_08_desc_02",
-      "content": "Preconfigure up to 20 Teams here."
+      "content": "Здесь вы можете предварительно настроить до 20 Команд."
     },
     {
       "id": "tutorial_mainui_01_selection_page_09_title_01",
-      "content": "Team Details"
+      "content": "Детали Команды"
     },
     {
       "id": "tutorial_mainui_01_selection_page_09_desc_01",
-      "content": "You can view the following information here: All Identities' Skill Attack Types, Sin Affinities, and equipped E.G.O."
+      "content": "Здесь вы можете просмотреть следующую информацию: Типы Атак Навыков всех Личностей, Грехи и экипированные E.G.O."
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_title_01",
-      "content": "E.G.O Resources"
+      "content": "Ресурсы E.G.O"
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_01",
-      "content": "Here, you can view the types and amounts of E.G.O Costs your team can gain in battle."
+      "content": "Здесь вы можете просмотреть типы и количество Стоимости E.G.O, которые ваша команда может получить в бою."
     },
     {
       "id": "tutorial_mainui_01_selection_page_10_desc_02",
-      "content": "Select it, and you can view Identities that gain the E.G.O Costs and E.G.O that use them."
+      "content": "Выберите это, и вы сможете просмотреть Личности, которые получают Стоимость E.G.O, и E.G.O, которые их используют."
     },
     {
       "id": "tutorial_mainui_02_identityandegolist",
-      "content": "Identity and E.G.O Lists"
+      "content": "Списки Личностей и E.G.O"
     },
     {
       "id": "tutorial_mainui_02_identitylist",
-      "content": "Identity List"
+      "content": "Список Личностей"
     },
     {
       "id": "tutorial_mainui_02_egolist",
-      "content": "E.G.O List"
+      "content": "Список E.G.O"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_01_desc_01",
-      "content": "Your Sinner’s Identities are shown here. You can check their Grades, Uptie Tiers, Levels, and Factions."
+      "content": "Здесь показаны Личности вашего Грешника. Вы можете проверить их Грейды, Уровни связи, Уровни и Фракции."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_02_title_01",
-      "content": "Team Configuration"
+      "content": "Конфигурация Команды"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_02_desc_01",
-      "content": "You can see both the Identities and E.G.O set for the team here. One E.G.O can be registered for each grade."
+      "content": "Здесь вы можете видеть как Личности, так и E.G.O, установленные для команды. Для каждого грейда можно зарегистрировать один E.G.O."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_03_title_01",
-      "content": "Team Configuration"
+      "content": "Конфигурация Команды"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_03_desc_01",
-      "content": "Tapping this button brings you to the list of E.G.O that can be equipped on the slot."
+      "content": "Нажатие на эту кнопку приведет вас к списку E.G.O, которые можно экипировать на слот."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_04_desc_01",
-      "content": "You can view the E.G.O’s grade, Threadspin Tier, main attribute, and name."
+      "content": "Вы можете просмотреть грейд E.G.O, Уровень связи, основной атрибут и название."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_title_01",
-      "content": "Support List"
+      "content": "Список Поддержки"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_title_02",
-      "content": "Support Button"
+      "content": "Кнопка Поддержки"
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_desc_01",
-      "content": "Upon selection, a list of your friends’ support Identities is shown."
+      "content": "При выборе отображается список Личностей поддержки ваших друзей."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_05_desc_02",
-      "content": "Support Identities and E.G.O registered by friends are shown here."
+      "content": "Здесь показаны Личности поддержки и E.G.O, зарегистрированные друзьями."
     },
     {
       "id": "tutorial_mainui_02_identitylist_page_06_desc_01",
-      "content": "You can borrow a friend’s Identity and E.G.O to assist you. Note that you may only have one support Identity on your team at a time."
+      "content": "Вы можете одолжить Личность и E.G.O друга для помощи. Обратите внимание, что в вашей команде может быть только одна Личность поддержки за раз."
     },
     {
       "id": "tutorial_mainui_03_identityinfo",
-      "content": "Identity Info"
+      "content": "Информация о Личности"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_01",
-      "content": "Level"
+      "content": "Уровень"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_desc_01",
-      "content": "Levelling up an Identity increases its stats."
+      "content": "Повышение уровня Личности увеличивает ее характеристики."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_title_02",
-      "content": "Uptie Tier"
+      "content": "Уровень связи"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_01_desc_02",
-      "content": "Higher Uptie tiers will enhance existing Skills or unlock new Skills."
+      "content": "Более высокие уровни связи улучшат существующие Навыки или разблокируют новые Навыки."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_title_01",
-      "content": "Status"
+      "content": "Статус"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_desc_01",
-      "content": "The Identity's Max HP, Speed Range, Defense Level and its modifier are displayed here."
+      "content": "Здесь отображаются Максимальные ОЗ Личности, Диапазон Скорости, Уровень Защиты и его модификатор."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_title_02",
-      "content": "Resistances"
+      "content": "Сопротивления"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_02_desc_02",
-      "content": "The Identity's Resistances are displayed here."
+      "content": "Здесь отображаются Сопротивления Личности."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_03_title_01",
-      "content": "Identity Summary"
+      "content": "Сводка Личности"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_03_desc_01",
-      "content": "The Identity's equipped E.G.O and unlocked Skills are displayed here."
+      "content": "Здесь отображаются экипированный E.G.O Личности и разблокированные Навыки."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_title_01",
-      "content": "Skills"
+      "content": "Навыки"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_04_desc_01",
-      "content": "Each Identity has Skills of various functions. You can view the details about them here."
+      "content": "У каждой Личности есть Навыки различных функций. Здесь вы можете просмотреть подробности о них."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_05_desc_01",
-      "content": "Identities deployed in battle can activate their Passives. At the start of every turn, Passives will activate when their conditions are met."
+      "content": "Личности, развернутые в бою, могут активировать свои Пассивные навыки. В начале каждого хода Пассивные навыки будут активироваться при выполнении их условий."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_01",
-      "content": "Identities not deployed in battle can activate their Support Passives. At the start of every turn, Support Passives will activate when their conditions are met."
+      "content": "Личности, не развернутые в бою, могут активировать свои Пассивные навыки поддержки. В начале каждого хода Пассивные навыки поддержки будут активироваться при выполнении их условий."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
-      "content": "Skill Icons"
+      "content": "Иконки Навыков"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_desc_01",
-      "content": "The color of each Skill Icon corresponds to a Sin Affinity of the same color. These are the following Sin Affinities: Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy."
+      "content": "Цвет каждой Иконки Навыка соответствует Греху того же цвета. Вот следующие Грехи: Гнев, Похоть, Лень, Чревоугодие, Уныние, Гордыня и Зависть."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_08_desc_01",
-      "content": "On the bottom of a Skill Icon is its Attack Type. These are the following Attack Types: Slash, Pierce, and Blunt."
+      "content": "В нижней части Иконки Навыка указан его Тип Атаки. Вот следующие Типы Атак: Режущий, Пронзающий и Дробящий."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_08_desc_02",
-      "content": "On the left of a Skill Icon is its Base Power."
+      "content": "Слева от Иконки Навыка указана его Базовая Сила."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_08_desc_03",
-      "content": "On the top of a Skill Icon is its Coin Power. These are the following Coin Power calculations: Plus, Minus, and Multiply."
+      "content": "В верхней части Иконки Навыка указана его Сила Монеты. Вот следующие расчеты Силы Монеты: Плюс, Минус и Умножить."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_01",
-      "content": "The number of Coins for this Skill is displayed here."
+      "content": "Здесь отображается количество Монет для этого Навыка."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_02",
-      "content": "This indicates how many copies of the Skill are in the Identity's Skillset."
+      "content": "Это указывает, сколько копий Навыка находится в Наборе навыков Личности."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_09_desc_03",
-      "content": "The Skill's Offense Level and its modifier are displayed here. The difference in the Attack Skill's Offense Level and the target's Defense Level can greatly affect the amount of damage dealt."
+      "content": "Здесь отображается Уровень Атаки Навыка и его модификатор. Разница между Уровнем Атаки Атакующего Навыка и Уровнем Защиты цели может значительно повлиять на количество нанесенного урона."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_10_desc_01",
-      "content": "The Skill's Atk Weight is displayed here. Higher Atk Weight will target more enemies. (e.g. 1 Atk Weight will target 1 enemy, 3 Atk Weight will target 3 enemies)"
+      "content": "Здесь отображается Вес атаки Навыка. Более высокий Вес атаки будет нацеливаться на большее количество врагов. (например, 1 Вес атаки будет нацеливаться на 1 врага, 3 Веса атаки будут нацеливаться на 3 врагов)"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_title_01",
-      "content": "Skill Effects"
+      "content": "Эффекты Навыков"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_desc_01",
-      "content": "Skills may have effects that activate when the stated conditions are met."
+      "content": "Навыки могут иметь эффекты, которые активируются при выполнении указанных условий."
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_title_02",
-      "content": "Coin Effects"
+      "content": "Эффекты Монет"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_11_desc_02",
-      "content": "Skills may have effects that activate when the stated Coin conditions(e.g. Heads Hit, Tails Hit) are met. Coin effects will not activate when the conditions aren't met."
+      "content": "Навыки могут иметь эффекты, которые активируются при выполнении указанных условий Монет (например, Попадание Орла, Попадание Решки). Эффекты Монет не будут активироваться, если условия не выполнены."
     },
     {
       "id": "tutorial_mainui_04_egoinfo",
-      "content": "E.G.O Info"
+      "content": "Информация об Э.П.О.С."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_title_01",
-      "content": "Threadspin Tier"
+      "content": "Уровень связи"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_01_desc_01",
-      "content": "Higher Threadspinning Tiers will enhance the E.G.O's Skills and abilities."
+      "content": "Более высокие Уровни связи улучшат Навыки и способности Э.П.О.С."
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_title_01",
-      "content": "Resistances"
+      "content": "Сопротивления"
     },
     {
       "id": "tutorial_mainui_04_egoinfo_page_02_desc_01",
