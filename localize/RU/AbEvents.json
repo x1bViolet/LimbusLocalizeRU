@@ -506,143 +506,143 @@
     },
     {
       "id": 804501,
-      "title": "Shock Centipede",
-      "prevDesc": "The centipede writhes as if to coil up.",
-      "eventDesc": "The Shock Centipede's body is starting to coil up into one spot.\n\"It seems electricity is gathering.\"\nAs the Sinner pointed out, sparks are flying from the center of its coiled body.\nIt might be a good idea to stop it.",
-      "behaveDesc": "Who will be able to stop it?",
+      "title": "Шокирующая Многоножка",
+      "prevDesc": "Многоножка извивается, словно собираясь свернуться.",
+      "eventDesc": "Тело Шокирующей Многоножки начинает сворачиваться в одну точку.\n\"Похоже, собирается электричество.\"\nКак заметил Грешник, из центра свернутого тела вылетают искры.\nБыло бы неплохо остановить это.",
+      "behaveDesc": "Кто сможет остановить это?",
       "successDesc": [
-        "[{0}] struck at the Shock Centipede's carapace.\n\"Ohh...!\"\nA crack opened up in its hard-looking armor.\nCould it really have stopped the centipede?\nThis ought to be a rare opportunity."
+        "[{0}] ударил по панцирю Шокирующей Многоножки.\n\"Охх...!\"\nВ ее твердой на вид броне открылась трещина.\nНеужели это действительно остановило сороконожку?\nЭто должно быть редкой возможностью."
       ],
       "failureDesc": [
-        "[{0}] struck at the Shock Centipede's carapace.\nAlas...\nCould the stored power have sprung forth?\nTremendous showers of sparks popped out of the Centipede's center along with a thunderous boom.\nNaturally, [{0}] was knocked away by the shockwave.\nFortunately enough, it only pushed the Sinner away and did little harm...\nBut the Centipede looks quite angry.\nIt'd be a good idea to brace up, right?"
+        "[{0}] ударил по панцирю Шокирующей Многоножки.\nУвы...\nМогла ли накопленная энергия вырваться наружу?\nОгромные потоки искр вылетели из центра Сороконожки вместе с громовым ударом.\nЕстественно, [{0}] был отброшен ударной волной.\nК счастью, это только оттолкнуло Грешника и не причинило большого вреда...\nНо Многоножка выглядит очень рассерженной.\nБыло бы неплохо подготовиться, верно?"
       ]
     },
     {
       "id": 804601,
-      "title": "Drifting Fox",
-      "prevDesc": "Could those ragged umbrellas protect that fox, really?",
-      "eventDesc": "Old umbrellas are lined up around the Drifting Fox.\nOld, worn, holed umbrellas.\nThe umbrellas look like they've been standing there for Wings know how long trying to protect the fox, but it certainly doesn't seem like they're doing a good job at it.\n\"…….\"\nThen, a Sinner slowly walked toward it.\nThe fox noticed the Sinner approaching, but it doesn't growl, nor does it happily relax.\nIt stays still, keeping its ever-constant place.",
-      "behaveDesc": "Who approached the fox?",
+      "title": "Бродячий Лис",
+      "prevDesc": "Неужели эти рваные зонтики действительно могут защитить того лиса?",
+      "eventDesc": "Вокруг Бродячего Лиса выстроились старые зонтики.\nСтарые, изношенные, дырявые зонтики.\nЗонтики выглядят так, будто стоят там уже 'Крылья' знают сколько времени, пытаясь защитить лиса, но, похоже, они не очень хорошо справляются с этой задачей.\n\"…….\"\nЗатем Грешник медленно подошел к нему.\nЛис заметил приближающегося Грешника, но он не рычит и с легкостью не расслабляется.\nОн остается неподвижным, сохраняя свое прежнее место.",
+      "behaveDesc": "Кто подошел к лису?",
       "successDesc": [
-        "[{0}] walked toward the fox before getting under a worn umbrella.\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\nChilling winds and damp air brush against the Sinner under the umbrella.\n\"…….\"\nBut [{0}] raised their head up to see the sky, making a profound smile.\nAs if the Sinner knew the rain will stop someday."
+        "[{0}] подошел к лису и встал под изношенный зонтик.\nНесмотря на то, что это зонтик, он пропускал множество капель дождя.\nХолодный ветер и влажный воздух касаются Грешника под зонтиком.\n\"…….\"\nНо [{0}] поднял голову, чтобы увидеть небо, делая глубокую улыбку.\nКак будто Грешник знал, что дождь когда-нибудь прекратится."
       ],
       "failureDesc": [
-        "[{0}] walked toward the fox before getting under a worn umbrella.\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\nChilling winds and damp air brush against the Sinner under the umbrella.\n\"…Haah.\"\n[{0}] drooped down with a large sigh.\nIt may not be easy to notice from afar,\nbut it must have been the cumulation of gloom and dampening the person under the umbrella felt."
+       "[{0}] подошел к лису и встал под изношенный зонтик.\nНесмотря на то, что это зонтик, он пропускал множество капель дождя.\nХолодный ветер и влажный воздух касаются Грешника под зонтиком.\n\"…Хаах.\"\n[{0}] поник с глубоким вздохом.\nВозможно, это не так заметно издалека,\nно, должно быть, это было накопление уныния и сырости, которые почувствовал человек под зонтиком."
       ]
     },
     {
       "id": 804701,
-      "title": "So That No One Will Cry",
-      "prevDesc": "The cursed wooden doll has stopped moving.\nWhat could be going on?",
-      "eventDesc": "The wooden doll stopped in place as if nothing was happening.\nIts head was tilted slightly downward like it was examining its talismans...\nOr perhaps it could have been looking at the Sinners' talismans.\n\"…….\"\nAs if possessed, the Sinners began to walk toward the wooden doll.\nIt was like they forgot they were fighting just moments ago.\nAnd they started removing the talismans entangled on their bodies.\nJust what could be going on?",
-      "behaveDesc": "Who will gather the talismans and return them?",
+      "title": "Чтобы Никто Не Плакал",
+      "prevDesc": "Проклятая деревянная кукла перестала двигаться.\nЧто может произойти?",
+      "eventDesc": "Деревянная кукла остановилась на месте, как будто ничего не происходит.\nЕе голова была слегка наклонена вниз, словно она рассматривала свои талисманы...\nИли, возможно, она могла смотреть на талисманы Грешников.\n\"…….\"\nСловно одержимые, Грешники начали идти к деревянной кукле.\nКазалось, они забыли, что только что сражались.\nИ они начали снимать талисманы, запутавшиеся на их телах.\nЧто же может произойти?",
+      "behaveDesc": "Кто соберет талисманы и вернет их?",
       "successDesc": [
-        "[{0}] gathered the detached talismans and stood before the wooden doll.\nIt seems to be gazing silently.\nOr, maybe it was just the Sinner's conscience making it seem that way.\nThe eagerness to return the talismans to where they were.\n[{0}] extended their arm to hand over the stack of talismans...\nAs if drawn by a magnet, the talismans flew toward the doll.\n\"So that no one will cry...\"\nAfter muttering the phrase, [{0}] came back to their position."
+        "[{0}] собрал отсоединенные талисманы и встал перед деревянной куклой.\nКажется, она молча смотрит.\nИли, может быть, это просто совесть Грешника заставляет так думать.\nСтремление вернуть талисманы туда, куда они принадлежат.\n[{0}] протянул руку, чтобы передать стопку талисманов...\nСловно притянутые магнитом, талисманы полетели к кукле.\n\"Чтобы никто не плакал...\"\nПробормотав эту фразу, [{0}] вернулся на свое место."
       ],
       "failureDesc": [
-        "[{0}] gathered the detached talismans and stood before the wooden doll.\n\"…….\"\nIt creaked a little, then stretched a hand at [{0}].\nThinking it's to retrieve the talismans, [{0}] handed over the stack,\n\"Ah!\"\nThe wooden hand changed its trajectory and touched the Sinner's body.\nAt that moment, all the talismans on [{0}] began writhing before melting into sticky blood.\n…That doesn't bode well, does it?"
+        "[{0}] собрал отсоединенные талисманы и встал перед деревянной куклой.\n\"…….\"\nОна немного заскрипела, а затем протянула руку к [{0}].\nДумая, что это для того, чтобы забрать талисманы, [{0}] передал стопку,\n\"Ах!\"\nДеревянная рука изменила траекторию и коснулась тела Грешника.\nВ этот момент все талисманы на [{0}] начали извиваться, прежде чем растаять в липкую кровь.\n…Это не предвещает ничего хорошего, не так ли?"
       ]
     },
     {
       "id": 804801,
-      "title": "Fairy Gentleman",
-      "prevDesc": "An intoxicating smell fills the air, it could almost get you drunk.",
-      "eventDesc": "The Fairy Gentleman spoke with a jolly laugh.\n\"Huhu... Didn't think this much would be gulped down.\"\nA short hiccup could also be heard.\n\"I admit, it caught me off guard a tiny bit... Just a tiny bit.\"\nThe fairy then puts the cup in his hand to his mouth.\n\"Hey! Is that thing trying to sober up?\"\n\"We must keep the blackguard disoriented!\"\n…It seems the fairy must be stopped from drinking from the cup.",
-      "behaveDesc": "Who will take the cup from the gentleman?",
+      "title": "Фея-Джентльмен",
+      "prevDesc": "Одумарнивающий запах наполняет воздух, от него почти можно опьянеть.",
+      "eventDesc": "Фея-Джентльмен заговорил с веселым смехом.\n\"Хуху... Не думал, что буду столько пить.\"\nТакже можно было услышать короткую икоту.\n\"Признаю, это застало меня немного врасплох... Совсем чуть-чуть.\"\nЗатем фея подносит чашку в своей руке ко рту.\n\"Эй! Эта штука пытается протрезветь?\"\n\"Мы должны держать этого мерзавца дезориентированным!\"\n…Похоже, фею нужно остановить от питья из чашки.",
+      "behaveDesc": "Кто заберет чашку у джентльмена?",
       "successDesc": [
-        "[{0}] stood before the gentleman's mountainous belly.\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\nInstead of demanding it, [{0}] just stares into the fairy.\n\"...Ahem.\"\nCompletely still, not moving a muscle.\n\"...A-Alright, alright! I can give you... a little bit.\"\n[{0}] shook their head.\n\"Are you... telling me to give you all of it?\"\nThe Sinner nodded.\n\"You...\"\n\"Fuu, haha. Fine, I've lost. You can have this.\"\n[{0}] finally made a light smile as they claimed the cup."
+        "[{0}] встал перед огромным животом джентльмена.\n\"Ах, я не мог бы поделиться этим с вами, даже если вы были бы привилегированным гостем.\"\nВместо того чтобы требовать, [{0}] просто смотрит на фею.\n\"...Кхм.\"\nСовершенно неподвижно, не двигая ни мускулом.\n\"...Х-Хорошо, хорошо! Я могу дать вам... немного.\"\n[{0}] покачал головой.\n\"Вы... просите меня отдать вам все?\"\nГрешник кивнул.\n\"Вы...\"\n\"Фуу, хаха. Хорошо, я проиграл. Можете забрать это.\"\n[{0}] наконец слегка улыбнулся, забирая чашку."
       ],
       "failureDesc": [
-        "[{0}] stood before the gentleman's mountainous belly.\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\nInstead of demanding it, [{0}] just stares into the fairy.\n\"...Ahem.\"\nCompletely still, not moving a muscle.\n\"...Standing like that won't change my answer, you know?\"\nAfter vigorous laughter, the fairy gulped down all of the cup's content into his stomach.\n\"As much as I care about you, I couldn't give you everything I have, could I? Haha.\"\nDefeated, [{0}] returned."
+        "[{0}] встал перед огромным животом джентльмена.\n\"Ах, я не мог бы поделиться этим с вами, даже если вы были бы привилегированным гостем.\"\nВместо того чтобы требовать, [{0}] просто смотрит на фею.\n\"...Кхм.\"\nСовершенно неподвижно, не двигая ни мускулом.\n\"...Стоять так не изменит моего ответа, знаете ли?\"\nПосле энергичного смеха фея залпом выпила все содержимое чашки.\n\"Как бы я ни заботился о вас, я не могу отдать вам все, что у меня есть, не так ли? Хаха.\"\nПобежденный, [{0}] вернулся."
       ]
     },
     {
       "id": 1040101,
-      "title": "Looking for a Drone",
+      "title": "В поисках дрона",
       "prevDesc": "",
-      "eventDesc": "A Sinner good at searching should be able to help.",
-      "behaveDesc": "Who will be the most efficient at the job?",
+      "eventDesc": "Грешник, что хорош в поиске, должен быть в состоянии помочь.",
+      "behaveDesc": "Кто будет наиболее эффективен в этой работе?",
       "successDesc": [
-        "Several wounds were left on [{0}]'s hands while rummaging through the wreckage.\nFortunately, we were able to find a small ampule in it.\n\"After going through that trouble...\"\nThe other Sinners sighed at the ultimately pointless haul.\n...We had to leave the room with my promise that I'll turn the clock for them next time."
+        "На руках [{0}] осталось несколько ран после рытья в обломках.\nК счастью, нам удалось найти в них небольшую ампулу.\n\"После всех этих неприятностей...\"\nДругие Грешники вздохнули от полученной по итогу бесполезной добычи.\n...Нам пришлось покинуть комнату с моим обещанием, что в следующий раз я поверну часы для них."
       ],
       "failureDesc": [
-        "The broken debris was sharper than expected.\n\"…!\"\nSeveral wounds were left on [{0}]'s hands while rummaging through the wreckage.\n\"Guess there's nothing.\"\nNothing useful could be found after several more minutes of searching.\n\"…….\"\nI feel the resentful glares of the Sinners on my back."
+        "Сломанные обломки оказались острее, чем ожидалось.\n\"…!\"\nНа руках [{0}] осталось несколько ран после рытья в обломках.\n\"Похоже, здесь ничего нет.\"\nПосле еще нескольких минут поисков ничего полезного не удалось найти.\n\"…….\"\nЯ чувствую на своей спине негодующие взгляды Грешников."
       ]
     },
     {
       "id": 1040301,
-      "title": "Poking at the Egg",
+      "title": "Тыкание в яйцо",
       "prevDesc": "",
-      "eventDesc": "Considering our experiences with receiving gifts from Abnormalities,\nwe might just be able to get something to help with exploring the dungeon here.",
-      "behaveDesc": "Who will be the most effective at the job?\nA delicate hand will have an easier time.",
+      "eventDesc": "Учитывая наш опыт получения подарков от Аномалий,\nмы могли бы получить здесь что-то, что поможет в исследовании подземелья.",
+      "behaveDesc": "Кто будет наиболее эффективен в этой работе?\nНежная рука будет иметь больше шансов на успех.",
       "successDesc": [
-        "\"Whoa!\"\n[{0}] touched the egg. It started glowing.\nSoon afterwards, it hardened and turned into a uniquely shaped gem.\n\"This looks worth taking.\"\n[{0}] seemed rather tired, but there wasn't anything off about the body as far as we could see.\nWe left the place with the gem in our possession."
+        "\"Ого!\"\n[{0}] дотронулся до яйца. Оно начало светиться.\nВскоре после этого оно затвердело и превратилось в драгоценный камень уникальной формы.\n\"Это выглядит стоящим.\"\n[{0}] казался довольно уставшим, но, насколько мы могли видеть, с телом не было ничего необычного.\nМы покинули место с драгоценным камнем в нашем распоряжении."
       ],
       "failureDesc": [
-        "\"Whoa!\"\n[{0}] touched the egg. It started glowing.\nHowever, the egg soon crumbled into dust.\n\"Ugh...\"\nA mysterious wound was left on [{0}]'s hand.\nAnd the Sinner seemed tired as well.\n...We left the room, consoling [{0}]."
+        "\"Ого!\"\n[{0}] дотронулся до яйца. Оно начало светиться.\nОднако вскоре яйцо рассыпалось в пыль.\n\"Ух...\"\nНа руке [{0}] осталась загадочная рана.\nИ Грешник тоже казался уставшим.\n...Мы покинули комнату, утешая [{0}]."
       ]
     },
     {
       "id": 1040401,
-      "title": "PickingRowAndColumn",
+      "title": "Выбор ряда и колонки",
       "prevDesc": "",
-      "eventDesc": "When you look closer, you can almost see something else in there.\nA Sinner with keen eyes might be able to get something good.",
-      "behaveDesc": "Who will take a look?",
+      "eventDesc": "Если присмотреться, можно почти увидеть что-то еще внутри.\nГрешник с острым зрением может найти что-то хорошее.",
+      "behaveDesc": "Кто посмотрит?",
       "successDesc": [
-        "[{0}] looked at the cabinet.\nThe Sinner discovered a hidden drawer. The drawer contained a number of useful items.\nSoon afterward, the area began to blur, and the cabinet disappeared."
+        "[{0}] посмотрел на шкаф.\nГрешник обнаружил скрытый ящик. В ящике содержалось несколько полезных предметов.\nВскоре после этого область начала размываться, и шкаф исчез."
       ],
       "failureDesc": [
-        "[{0}] looked at the cabinet.\nPerhaps the Sinner spent too long pondering; the area began to blur, and the cabinet disappeared."
+        "[{0}] посмотрел на шкаф.\nВозможно, Грешник слишком долго размышлял; область начала размываться, и шкаф исчез."
       ]
     },
     {
       "id": 1040801,
-      "title": "Try Talking",
+      "title": "Попробовать поговорить",
       "prevDesc": "",
-      "eventDesc": "All the Sinners faced the window.",
-      "behaveDesc": "Who will talk to the figures?",
+      "eventDesc": "Все Грешники повернулись к окну.",
+      "behaveDesc": "Кто будет разговаривать с фигурами?",
       "successDesc": [
-        "<i>Icriedwithoutachoice.\nOh ▽ ! Iaminpain.\nIentertainthethought:\nHowmustIcry.\n\nWhen [{0}] talked to the figures in the window, they writhed and disappeared.\nThen a fragment fell from the window.\nWe took it and left the room.</i>",
-        "<i>Icriedwithoutachoice.\nOh ▽ ! Iaminpain.\nIentertainthethought:\nHowmustIcry.\n\nWhen [{0}] talked to the figures in the window, they writhed and disappeared.\nThen a fragment fell from the window.\nWe took it and left the room.</i>"
+        "<i>Яплакалбезвыбора.\nО ▽ ! Мнебольно.\nЯразмышляю:\nКакдолженяплакать.\n\nКогда [{0}] заговорил с фигурами в окне, они задрожали и исчезли.\nЗатем из окна выпал фрагмент.\nМы взяли его и покинули комнату.</i>",
+        "<i>Яплакалбезвыбора.\nО ▽ ! Мнебольно.\nЯразмышляю:\nКакдолженяплакать.\n\nКогда [{0}] заговорил с фигурами в окне, они задрожали и исчезли.\nЗатем из окна выпал фрагмент.\nМы взяли его и покинули комнату.</i>"
       ],
       "failureDesc": [
-        "…………..\n[{0}] tried talking, but there was no response.\nSoon enough, the figures writhed and disappeared.\n\"What, did they want us to sing or something?\"\nWe left the room with the Sinners complaining."
+        "…………..\n[{0}] попытался заговорить, но ответа не последовало.\nВскоре фигуры задрожали и исчезли.\n\"Что, они хотели, чтобы мы спели или что-то в этом роде?\"\nМы покинули комнату, пока Грешники жаловались."
       ]
     },
     {
       "id": 805002,
-      "title": "Stand in his way.",
+      "title": "Встать на его пути.",
       "prevDesc": "",
       "eventDesc": "",
-      "behaveDesc": "Will you stop Dongrang?",
+      "behaveDesc": "Вы остановите Донрана?",
       "successDesc": [
-        "[{0}] managed to block Dongrang's attack.\n\n\"Haah... You're being a nuisance.\"\n\nDongrang muttered as his weapon bounced off.\nBeneath his bitter chuckle was a cold fury."
+        "[{0}] сумел заблокировать атаку Донрана.\n\n\"Хаах... Ты мешаешь.\"\n\nПробормотал Донран, когда его оружие отскочило.\nПод его горьким смехом скрывалась холодная ярость."
       ],
       "failureDesc": [
-        "[{0}] tried to stop Dongrang, but alas...\n\n\"Haha, what a futile thing you're doing.\"\n\nPerhaps the attack was more powerful than anticipated. The Sinner was the one that got knocked away.\n\n\"Haah... You're being a nuisance.\"\n\"I'd much prefer if you served as seeds... for my accomplishment.\"\n\nBeneath his mocking grin was a cold fury."
+        "[{0}] попытался остановить Донрана, но увы...\n\n\"Хаха, какую бесполезную чушь ты делаешь.\"\n\nВозможно, атака была сильнее, чем ожидалось. Грешник оказался тем, кого отбросило.\n\n\"Хаах... Ты мешаешь.\"\n\"Я бы предпочел, чтобы вы послужили семенами... для моих достижений.\"\n\nПод его насмешливой ухмылкой скрывалась холодная ярость."
       ]
     },
     {
       "id": 805004,
-      "title": "Stand in his way.",
+      "title": "Встать на его пути.",
       "prevDesc": "",
       "eventDesc": "",
-      "behaveDesc": "Will you stop Dongrang again?",
+      "behaveDesc": "Вы снова остановите Донрана?",
       "successDesc": [
-        "[{0}] drove their weapon into Dongrang while his focus was elsewhere.\n\n\"Kgh...\"\n\nIt looks like the attack was successful.\nThe move Dongrang was preparing didn't come through.\n\n\"I see where you stand...\"\n\n\"Then I'll just get rid of you all along with Yi Sang and his ideal.\""
+        "[{0}] вонзил свое оружие в Донрана, пока его внимание было отвлечено.\n\n\"Кгх...\"\n\nПохоже, атака была успешной.\nДвижение, которое готовил Донран, не состоялось.\n\n\"Я вижу, на чьей вы стороне...\"\n\n\"Тогда я просто избавлюсь от вас всех, вместе с И Саном и его идеалом.\""
       ],
       "failureDesc": [
-        "{0}] drove their weapon into Dongrang while his focus was elsewhere.\n\n\"Such incompetence.\"\n\nHowever, what seemed to be the gap in his defense was merely his trap.\nThe Sinner was knocked away by his attack.\n\n\"Hah, I see where you stand...\"\n\n\"You leave me with no choice. I'll get rid of you all along with Yi Sang and his ideal.\""
+        "{0}] вонзил свое оружие в Донрана, пока его внимание было отвлечено.\n\n\"Какая некомпетентность.\"\n\nОднако то, что казалось брешью в его защите, было лишь его ловушкой.\nГрешник был отброшен его атакой.\n\n\"Хах, я вижу, на чьей вы стороне...\"\n\n\"Вы не оставляете мне выбора. Я избавлюсь от вас всех, вместе с И Саном и его идеалом.\""
       ]
     },
     {
       "id": 805006,
-      "title": "Stand in his way.",
+      "title": "Встать на его пути.",
       "prevDesc": "",
-      "eventDesc": "\"…….\"\n\nYi Sang walked ahead.\n\n\"I must insist... that I mark the end for Dongrang.\"\n\n\"...For that would be most ideal.\"",
+      "eventDesc": "\"…….\"\n\nИ Сан вышел вперед.\n\n\"Я должен настоять... чтобы я поставил точку для Донрана.\"\n\n\"...Ибо это был бы настоящий идеал.\"",
       "behaveDesc": "……",
       "successDesc": [
-        "Yi Sang managed to stop Dongrang in his path.\n\n\"Yi Sang...\"\n\n\"I plead you, end this now... Dongrang.\"\n\n\"Haha... How can I?\"\n\n\"In the end, someone... has to... cry tears, isn't that right...?\"\n\nDongrang pulled the weapon lodged into himself deeper inside.\n\n\"…!\"\n\n\"Let's end it this way... Yi Sang...\""
+        "И Сану удалось остановить Донрана на его пути.\n\n\"И Сан...\"\n\n\"Я умоляю тебя, закончи это сейчас... Донран.\"\n\n\"Хаха... Как я могу?\"\n\n\"В конце концов, кто-то... ведь должен... проливать слезы, не так ли...?\"\n\nДонран глубже схватился за свое оружие.\n\n\"…!\"\n\n\"Давай покончим с этим... И Сан...\""
       ],
       "failureDesc": [
         ""
@@ -650,15 +650,15 @@
     },
     {
       "id": 805901,
-      "title": "Fairy Longlegs",
-      "prevDesc": "The sky seems to have been covered again. Why does it keep casting that shade?",
-      "eventDesc": "The giant plant that the fairy made grow was as thick as it was tall.\n\nIt did have its perks.\n\nLike hiding behind a building's column, one Sinner managed to escape the fairy's view.\n\nThe Sinner then carefully struck at the stem.",
-      "behaveDesc": "Who struck at the stem?",
+      "title": "Феи-Длинноножка",
+      "prevDesc": "Кажется, небо снова закрылось. Почему оно продолжает отбрасывать эту тень?",
+      "eventDesc": "Гигантское растение, которое вырастила фея, было таким же толстым, кои и высоким.\n\nУ него были свои преимущества.\n\nСпрятавшись за колонной здания, одному Грешнику удалось скрыться от взгляда феи.\n\nЗатем Грешник осторожно ударил по стеблю.",
+      "behaveDesc": "Кто ударил по стеблю?",
       "successDesc": [
-        "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nThen the Sinner carefully walked up to the edge...\n\nAnd poked a hole in the leaf, causing the pool of water to fall on the fairy's head.\n\nThe fairy is making quite a fuss, looking surprised."
+       "Ударив по стеблю, [{0}] начал подниматься по растению, перебирая руками и ногами.\n\nГрешник поднялся так высоко, что остальные и фея казались крошечными точками.\n\nРастение казалось бесконечно высоким, но у него был свой конец.\n\nНаконец, [{0}] забрался на огромный лист на вершине.\n\nЗатем Грешник осторожно подошел к краю...\n\nИ проделал дыру в листе, заставив скопившуюся воду пролиться на голову феи.\n\nФея устроила настоящий переполох, выглядя удивленной."
       ],
       "failureDesc": [
-        "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nBut perhaps the Sinner failed to consider the amount of water that ponded on the leaf...\n\nAs soon as [{0}] stepped on the leaf, they slipped and fell right to the ground.\n\n...It might be fortunate that the Sinner didn't die."
+       "Ударив по стеблю, [{0}] начал подниматься по растению, перебирая руками и ногами.\n\nГрешник поднялся так высоко, что остальные и фея казались крошечными точками.\n\nРастение казалось бесконечно высоким, но у него был свой конец.\n\nНаконец, [{0}] забрался на огромный лист на вершине.\n\nНо, возможно, Грешник не учел количество воды, скопившейся на листе...\n\nКак только [{0}] ступил на лист, он поскользнулся и упал прямо на землю.\n\n...Возможно, нам повезло, что Грешник не погиб."
       ]
     }
   ]
