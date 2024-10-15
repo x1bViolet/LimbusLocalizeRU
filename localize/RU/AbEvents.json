@@ -502,6 +502,44 @@
       ],
       "failureDesc": [
         "[{0}] уверенно выступает вперёд\n\"Что ж…\"\nВскоре грешник садится с нитью и иглой возле спинки цыплёнка.\nОднако несмотря на былую уверенность, стежки становятся всё более и более кривыми.\n\"Куда-ах-тах!\"\nНе возволив завершить работу, цыплёнок отталкивает грешника от себя.\n\"…Раз так, то ты и сам справишься?\"\nВзяв нить и иголку, цыплёнок зашил сам себя и обиженно ушёл во тьму,\n оставив [{0}] гореть от стыда."
+      ]
+    },
+    {
+      "id": 804501,
+      "title": "Shock Centipede",
+      "prevDesc": "The centipede writhes as if to coil up.",
+      "eventDesc": "The Shock Centipede's body is starting to coil up into one spot.\n\"It seems electricity is gathering.\"\nAs the Sinner pointed out, sparks are flying from the center of its coiled body.\nIt might be a good idea to stop it.",
+      "behaveDesc": "Who will be able to stop it?",
+      "successDesc": [
+        "[{0}] struck at the Shock Centipede's carapace.\n\"Ohh...!\"\nA crack opened up in its hard-looking armor.\nCould it really have stopped the centipede?\nThis ought to be a rare opportunity."
+      ],
+      "failureDesc": [
+        "[{0}] struck at the Shock Centipede's carapace.\nAlas...\nCould the stored power have sprung forth?\nTremendous showers of sparks popped out of the Centipede's center along with a thunderous boom.\nNaturally, [{0}] was knocked away by the shockwave.\nFortunately enough, it only pushed the Sinner away and did little harm...\nBut the Centipede looks quite angry.\nIt'd be a good idea to brace up, right?"
+      ]
+    },
+    {
+      "id": 804601,
+      "title": "Drifting Fox",
+      "prevDesc": "Could those ragged umbrellas protect that fox, really?",
+      "eventDesc": "Old umbrellas are lined up around the Drifting Fox.\nOld, worn, holed umbrellas.\nThe umbrellas look like they've been standing there for Wings know how long trying to protect the fox, but it certainly doesn't seem like they're doing a good job at it.\n\"…….\"\nThen, a Sinner slowly walked toward it.\nThe fox noticed the Sinner approaching, but it doesn't growl, nor does it happily relax.\nIt stays still, keeping its ever-constant place.",
+      "behaveDesc": "Who approached the fox?",
+      "successDesc": [
+        "[{0}] walked toward the fox before getting under a worn umbrella.\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\nChilling winds and damp air brush against the Sinner under the umbrella.\n\"…….\"\nBut [{0}] raised their head up to see the sky, making a profound smile.\nAs if the Sinner knew the rain will stop someday."
+      ],
+      "failureDesc": [
+        "[{0}] walked toward the fox before getting under a worn umbrella.\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\nChilling winds and damp air brush against the Sinner under the umbrella.\n\"…Haah.\"\n[{0}] drooped down with a large sigh.\nIt may not be easy to notice from afar,\nbut it must have been the cumulation of gloom and dampening the person under the umbrella felt."
+      ]
+    },
+    {
+      "id": 804701,
+      "title": "So That No One Will Cry",
+      "prevDesc": "The cursed wooden doll has stopped moving.\nWhat could be going on?",
+      "eventDesc": "The wooden doll stopped in place as if nothing was happening.\nIts head was tilted slightly downward like it was examining its talismans...\nOr perhaps it could have been looking at the Sinners' talismans.\n\"…….\"\nAs if possessed, the Sinners began to walk toward the wooden doll.\nIt was like they forgot they were fighting just moments ago.\nAnd they started removing the talismans entangled on their bodies.\nJust what could be going on?",
+      "behaveDesc": "Who will gather the talismans and return them?",
+      "successDesc": [
+        "[{0}] gathered the detached talismans and stood before the wooden doll.\nIt seems to be gazing silently.\nOr, maybe it was just the Sinner's conscience making it seem that way.\nThe eagerness to return the talismans to where they were.\n[{0}] extended their arm to hand over the stack of talismans...\nAs if drawn by a magnet, the talismans flew toward the doll.\n\"So that no one will cry...\"\nAfter muttering the phrase, [{0}] came back to their position."
+      ],
+      "failureDesc": [
         "[{0}] gathered the detached talismans and stood before the wooden doll.\n\"…….\"\nIt creaked a little, then stretched a hand at [{0}].\nThinking it's to retrieve the talismans, [{0}] handed over the stack,\n\"Ah!\"\nThe wooden hand changed its trajectory and touched the Sinner's body.\nAt that moment, all the talismans on [{0}] began writhing before melting into sticky blood.\n…That doesn't bode well, does it?"
       ]
     },
