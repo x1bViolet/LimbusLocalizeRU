@@ -16,6 +16,11 @@
       "dlg": "Лодка под моим рулём немного покачнётся, так что держитесь крепче!"
     },
     {
+      "id": "battle_special_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Проложи себе дорогу. Свой путь. Это — моё желание."
+    },
+    {
       "id": "battle_awaken_20802_1",
       "desc": "Использование ЭГО",
       "dlg": "Пока наслаждение не захлестнуло меня целиком…"
@@ -69,6 +74,16 @@
       "id": "battle_erosion_20806_1",
       "desc": "Коррозия ЭГО",
       "dlg": "Ты… Ты посмел сомневаться во мне…? Столь бессердечный человечишка…!"
+    },
+    {
+      "id": "battle_awaken_20807_1",
+      "desc": "E.G.O Activation",
+      "dlg": "By the command of my master, I... will cleanse you from this place."
+    },
+    {
+      "id": "battle_erosion_20807_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "There's no end to this cleaning... You! Stop leaving your mess all over the manor!"
     }
   ]
 }
