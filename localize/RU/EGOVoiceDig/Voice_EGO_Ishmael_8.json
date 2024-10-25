@@ -17,7 +17,7 @@
     },
     {
       "id": "battle_special_2",
-      "desc": "E.G.O Activation",
+      "desc": "Использование ЭГО",
       "dlg": "Проложи себе дорогу. Свой путь. Это — моё желание."
     },
     {
@@ -77,13 +77,13 @@
     },
     {
       "id": "battle_awaken_20807_1",
-      "desc": "E.G.O Activation",
-      "dlg": "By the command of my master, I... will cleanse you from this place."
+      "desc": "Использование ЭГО",
+      "dlg": "По приказу моего господина, я... очищу тебя от этого места."
     },
     {
       "id": "battle_erosion_20807_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "There's no end to this cleaning... You! Stop leaving your mess all over the manor!"
+      "desc": "Коррозия ЭГО",
+      "dlg": "Этой уборке не видать конца... Ты! Перестань оставлять свой мусор по всему особняку!"
     }
   ]
 }
