@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": 1030,
-      "panicName": "Bridle of Nihility",
-      "lowMoraleDescription": "Turn Start: gain 1 [Enhancement] and 3 [DefenseDown]. Take 5 SP at Turn End.",
-      "panicDescription": "Turn Start: gain 2 [Enhancement] and 6 [DefenseDown]. Heal 10 SP at Turn End."
+      "panicName": "Узда Небытия",
+      "lowMoraleDescription": "Начало Хода: получает 1 [Enhancement] and 3 [DefenseDown]. Получает 5 СД В Конце Хода.",
+      "panicDescription": "Начало Хода: получает 2 [Enhancement] and 6 [DefenseDown]. Восстанавливает 10 СД В Конце Хода."
     },
     {
       "id": 9996,
-      "panicName": "Thorns",
-      "lowMoraleDescription": "On Clash Win, gain 1 [AttackDmgUp]",
-      "panicDescription": "On Clash Win, gain 1 [AttackDmgUp]. At Turn End, gain 2 [ParryingResultUp] next turn."
+      "panicName": "Шипы",
+      "lowMoraleDescription": "При победе в столкновении, получает 1 [AttackDmgUp]",
+      "panicDescription": "При победе в столкновении, получает 1 [AttackDmgUp]. В Конце Хода, получает 2 [ParryingResultUp] на следующий ход."
     }
   ]
 }
