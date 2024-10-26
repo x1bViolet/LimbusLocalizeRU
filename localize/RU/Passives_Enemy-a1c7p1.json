@@ -2,108 +2,108 @@
     "dataList": [
         {
             "id": 9015206,
-            "name": "Starved and Withered",
-            "desc": "Gain [StarvingBarberOne] at the start of the Encounter"
+            "name": "Голодный и Иссохший",
+            "desc": "Получает [StarvingBarberOne] в начале Столкновения"
         },
         {
             "id": 9015202,
-            "name": "Withered",
-            "desc": "Turn Start: if no one has [Laceration], Min Speed -2 (checks both allies & enemies)"
+            "name": "Иссохший",
+            "desc": "Начало Хода: если ни у кого нет [Laceration], Мин. Скорость -2 (проверяет как союзников, так и врагов)"
         },
         {
             "id": 9015203,
-            "name": "Bloodsucking",
-            "desc": "On Hit, if the target has [Laceration], heal by 15% of damage dealt"
+            "name": "Кровососущий",
+            "desc": "При ударе, если у цели есть [Laceration], восстанавливает 15% от нанесенного урона"
         },
         {
             "id": 9015204,
-            "name": "Blood Coagulation",
-            "desc": "After Attack: if the target has 8+ [Laceration], gain 1 [HardenedBlood]"
+            "name": "Свертывание Крови",
+            "desc": "После Атаки: если у цели 8+ [Laceration], получает 1 [HardenedBlood]"
         },
         {
             "id": 9015205,
-            "name": "Blood-tinged Scissorblades",
-            "desc": "At 1+ [BloodScissor], enhance the blades of the scissor."
+            "name": "Окровавленные Лезвия Ножниц",
+            "desc": "При 1+ [BloodScissor], усиливает лезвия ножниц"
         },
         {
             "id": 9015207,
-            "name": "Bloodbag",
-            "desc": "When hit, gain +1 [Laceration] Count.\nGain 1 [HardenedBlood] every time this unit loses 20% HP.\nIf there is a Bloodfiend on the field, regardless of whether it is an ally or an enemy, increase [BloodDinner] by 30"
+            "name": "Кровосос",
+            "desc": "При получении удара, получает +1 счетчик [Laceration].\nПолучает 1 [HardenedBlood] каждый раз, когда теряет 20% ОЗ.\nЕсли на поле есть Кровожад, независимо от того, союзник это или враг, увеличивает [BloodDinner] на 30"
         },
         {
             "id": 9015401,
-            "name": "Bloodsucking",
-            "desc": "On Hit, if the target has [Laceration], heal by 20% of damage dealt"
+            "name": "Кровососущий",
+            "desc": "При ударе, если у цели есть [Laceration], восстанавливает 20% от нанесенного урона"
         },
         {
             "id": 9015402,
-            "name": "Blood Coagulation",
-            "desc": "After Attack: if the target has 5+ [Laceration], gain 1 [HardenedBlood]"
+            "name": "Свертывание Крови",
+            "desc": "После Атаки: если у цели 5+ [Laceration], получает 1 [HardenedBlood]"
         },
         {
             "id": 9015403,
-            "name": "Thirst for Blood",
-            "desc": "- Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 Offense Level Up next turn\n- Turn End: if this unit dealt damage this turn, heal 5 SP"
+            "name": "Жажда Крови",
+            "desc": "- Приоритет целей с [Laceration]\nКонец хода: если это существо не нанесло урона в этот ход, получает 2 [Vulnerable] и 2 Повышение Уровня Атаки в следующем ходу\n- Конец хода: если это существо нанесло урон в этот ход, восстанавливает 5 СД"
         },
         {
             "id": 9015404,
-            "name": "Bloodfeast",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit.\nWhen this unit enters the field, the sleeping blood drenching the battlefield will surface."
+            "name": "Кровавый Пир",
+            "desc": "Если это существо находится на поле или является одним из существ, которые могут появиться на этом Этапе, увеличивает значение [BloodDinner] на количество урона от [Laceration], полученного всеми существами.\nКогда это существо выходит на поле, спящая кровь, пропитывающая поле боя, поднимается на поверхность."
         },
         {
             "id": 9015405,
-            "name": "Blood-tinged Scissorblades",
-            "desc": "At 2+ [BloodScissor], enhance the blades of the scissor."
+            "name": "Окровавленные Лезвия Ножниц",
+            "desc": "При 2+ [BloodScissor], усиливает лезвия ножниц"
         },
         {
             "id": 9015601,
-            "name": "Bloodfiend Hunter",
-            "desc": "If the target is a <Bloodfiend> or a <Bloodbag>, deal +10% damage"
+            "name": "Охотник на Кровожадов",
+            "desc": "Если цель является <Bloodfiend> или <Bloodbag>, наносит +10% урона"
         },
         {
             "id": 9015602,
-            "name": "Aggressive Hunting Techniques",
-            "desc": "When hitting an enemy with an Attack Skill, 10% chance to inflict +2 [Burst] Count"
+            "name": "Агрессивные Техники Охоты",
+            "desc": "При попадании по врагу Атакующим Навыком, 10% шанс нанести +2 счетчик [Burst]"
         },
         {
             "id": 9015603,
-            "name": "Anti-Bloodfiend Hammer",
-            "desc": "On Skill use, if the target has 10+ [Burst], deal +30% more damage instead of inflicting [Burst] with this unit's Skills"
+            "name": "Анти-Кровожадовский Молот",
+            "desc": "При использовании Навыка, если у цели 10+ [Burst], наносит на +30% больше урона вместо нанесения [Burst] Навыками этого существа"
         },
         {
             "id": 9015604,
-            "name": "Styptics",
-            "desc": "Turn End: if this unit has [Laceration], lose 1 [Laceration] Count"
+            "name": "Гемостатики",
+            "desc": "Конец хода: если у этого существа есть [Laceration], теряет 1 счетчик [Laceration]"
         },
         {
             "id": 9016001,
-            "name": "Weakling Mark",
-            "desc": "On Clash Win, inflict [TrulyWeak]"
+            "name": "Метка Слабака",
+            "desc": "При победе в Столкновении, наносит [TrulyWeak]"
         },
         {
             "id": 9016002,
-            "name": "The Wicked Caitiffs",
-            "desc": "Loves bullying the weak"
+            "name": "Злобные Негодяи",
+            "desc": "Любит издеваться над слабыми"
         },
         {
             "id": 9016003,
-            "name": "Bullies",
-            "desc": "Clash Power +1 when attacking an enemy with [TrulyWeak]"
+            "name": "Хулиганы",
+            "desc": "Сила Столкновения +1 при атаке врага с [TrulyWeak]"
         },
         {
             "id": 9016101,
-            "name": "An Encounter of Moderate Difficulty",
-            "desc": "Deals +15% more damage"
+            "name": "Схватка Средней Сложности",
+            "desc": "Наносит на +15% больше урона"
         },
         {
             "id": 9016102,
-            "name": "The Man-eating Bear",
-            "desc": "Deal +25% more damage against targets with 50%- HP"
+            "name": "Медведь-Людоед",
+            "desc": "Наносит на +25% больше урона по целям с 50%- ОЗ"
         },
         {
             "id": 9016103,
-            "name": "Big & Scary",
-            "desc": "In a Clash, the opponent just might lose 1 SP, maybe"
+            "name": "Большой & Страшный",
+            "desc": "В Столкновении противник просто может потерять 1 СД, возможно"
         }
     ]
 }
