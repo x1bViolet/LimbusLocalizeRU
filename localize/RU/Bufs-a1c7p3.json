@@ -2,274 +2,274 @@
   "dataList": [
     {
       "id": "BloodyHand_2nd",
-      "name": "Bloodied Hand II",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- On Hit with this unit's Skill, inflict 2 more Rupture\n- Gain 1 Offense Level for every 6 Stack\n- On Hit with this unit's Skill, inflict 1 Bleed both on self and against the target",
+      "name": "Окровавленная Рука II",
+      "desc": "- Любые эффекты, дающие Окровавленную Руку, дают этот эффект вместо нее\n- Максимальный счетчик: 20\n- Базовый счетчик: 10\n- При ударе навыком этого персонажа наносит 2 дополнительных Разрыва\n- Получает 1 Уровень Атаки за каждые 6 счетчиков\n- При ударе навыком этого персонажа наносит 1 Кровотечение как себе, так и цели",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHand_3rd",
-      "name": "Bloodied Hand III",
-      "desc": "- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- Gain 1 Attack Power\n- On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target",
+      "name": "Окровавленная Рука III",
+      "desc": "- Любые эффекты, дающие Окровавленную Руку, дают этот эффект вместо нее\n- Максимальный счетчик: 30\n- Базовый счетчик: 20\n- При ударе навыком этого персонажа наносит дополнительно 2 Разрыва и +1 счетчик Разрыва\n- Получает 1 Повышение силы атаки\n- При ударе навыком этого персонажа наносит 3 Кровотечения как себе, так и цели",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeart",
-      "name": "Ailing Heart",
-      "desc": "- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Down for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core",
+      "name": "Болезненное Сердце",
+      "desc": "- Максимальный счетчик: 10\n- Входит в бой с 3 счетчиками\n- Начало Хода: получает 1 Понижение уровня защиты за каждый счетчик\n- Начало Хода: получает 1 Понижение уровня атаки за каждые 2 счетчика\n- Начало Хода: при 10 счетчиках получает 3 Уязвимости и теряет 5 СД\n- При 10 счетчиках: При ударе восстанавливает 40% от полученного урона по Части и Ядру этого персонажа",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingPriestTwo",
-      "name": "Withered",
-      "desc": "- Starved for blood for a long, long time.\n- Lose 25 Offense Level\n- Lose 25 Defense Level",
+      "name": "Иссохший",
+      "desc": "- Долгое, долгое время жаждал крови.\n- Понижение Уровня Атаки на 25\n- Понижение Уровня Защиты на 25",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Guilt_LowMorale",
-      "name": "Guilt",
-      "desc": "Turn End: gain 1 Fragility and SP Heal Efficiency Down",
+      "name": "Вина",
+      "desc": "Конец хода: получает 1 Уязвимость и Понижение эффективности восстановления СД",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Guilt_Panic",
-      "name": "Guilt",
-      "desc": "Turn End: gain 2 Fragility and 1 SP Heal Efficiency Down",
+      "name": "Вина",
+      "desc": "Конец хода: получает 2 Уязвимости и 1 Понижение эффективности восстановления СД",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MentalIncreaseDown",
-      "name": "SP Heal Efficiency Down",
-      "desc": "SP Heal Efficiency decreases by the effect's Stack",
+      "name": "Понижение эффективности восстановления СД",
+      "desc": "Эффективность восстановления СД уменьшается на количество накопленных эффектов",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AffectionTeddy",
-      "name": "Attachment",
-      "desc": "- Max Value: 9\n- When the Attacker attacks the target with this effect, the Attacker gains Clash Power equal to the Stack\n- Turn End: reduce by 1",
+      "name": "Привязанность",
+      "desc": "- Максимальный счетчик: 9\n- Когда Атакующий атакует цель с этим эффектом, Атакующий получает Силу Столкновения равную счетчику\n- Конец хода: уменьшается на 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FaintMemory",
-      "name": "Faint Memories",
-      "desc": "- Base Value: 10\n- Turn Start: gain Defense Level Up equal to the Stack\n- Clash Lose: reduce by 1",
+      "name": "Смутные Воспоминания",
+      "desc": "- Базовый счетчик: 10\n- Начало Хода: получает Повышение Уровня Защиты равное счетчику\n- При проигрыше в Столкновении: уменьшается на 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "CursePackage",
-      "name": "Box of Curses",
-      "desc": "- Max Value: 1\n- Turn End: gain 1 Attack Power Down, 1 Defense Power Down, 2 Offense Level Down, 2 Defense Level Down, and reduce the Stack of this effect by 1",
+      "name": "Коробка Проклятий",
+      "desc": "- Максимальный счетчик: 1\n- Конец хода: получает 1 Понижение силы атаки, 1 Понижение силы защиты, 2 Понижения Уровня Атаки, 2 Понижения Уровня Защиты, и уменьшает счетчик этого эффекта на 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TinyCarmilla",
-      "name": "Little Carmilla",
-      "desc": "- Max Stack: 3\n- Gain 2 Bleed every time this unit gains Little Carmilla\n- Turn End: gain +2 Bleed Count\n- Turn End: at 3 Stack, take fixed damage equal to 15% of this unit's max HP, heal HP equal to 5% of each enemy's max HP, then this effect expires",
+      "name": "Маленькая Кармилла",
+      "desc": "- Максимальный счетчик: 3\n- Получает 2 Кровотечения каждый раз, когда получает Маленькую Кармиллу\n- Конец хода: получает +2 к счетчику Кровотечения\n- Конец хода: при 3 счетчиках получает фиксированный урон равный 15% от максимальных ОЗ, восстанавливает ОЗ равные 5% от максимальных ОЗ каждого врага, затем эффект истекает",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "OneDropNutrition",
-      "name": "A Drop of Nourishment",
-      "desc": "- Max Stack: 10\n- Gain 1 Stack every time this unit heals 10% of its max HP with its HP-healing Attacks\n- HP healed: {0}%",
+      "name": "Капля Питания",
+      "desc": "- Максимальный счетчик: 10\n- Получает 1 счетчик каждый раз, когда восстанавливает 10% от максимальных ОЗ своими Атаками, восстанавливающими ОЗ\n- Восстановлено ОЗ: {0}%",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThornNoose",
-      "name": "Barbed Lasso",
-      "desc": "- Max Stack: 3\n- Turn End: gain 2 Rupture and +2 Rupture Count\n- Turn End: at 1+ Stack, fix this unit's Speed to 1.\n- Turn End: at 2 Stack, take 20 Gluttony damage.\n- Turn End: at 3 Stack, become forcibly Staggered next turn. This effect and the connected Barbed Lasso both expire.\n- Gain 1 at Turn Start",
+      "name": "Колючее Лассо",
+      "desc": "- Максимальный счетчик: 3\n- Конец хода: получает 2 Разрыва и +2 к счетчику Разрыва\n- Конец хода: при 1+ счетчике, фиксирует Скорость на 1\n- Конец хода: при 2 счетчиках получает 20 урона от Обжорства\n- Конец хода: при 3 счетчиках становится Оглушенным в следующем ходу. Этот эффект и связанное Колючее Лассо истекают\n- Получает 1 в Начало Хода",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SwirlingBlood",
-      "name": "Presence of a Second Kindred",
-      "desc": "- While this effect is active: when this unit takes damage, the Attacker gains 5 Bleed After Attack.\n- While this effect is active: the Shield HP does not expire at Turn End\n- When conditions are met, gain 3 Fragile until this effect expires and this unit gains a new pattern",
+      "name": "Присутствие Второго Сородича",
+      "desc": "- Пока этот эффект активен: когда получает урон, Атакующий получает 5 Кровотечения После Атаки\n- Пока этот эффект активен: ОЗ Щита не истекают в Конец хода\n- Когда условия выполнены, получает 3 Уязвимости до истечения этого эффекта и получает новый паттерн",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodArmor",
-      "name": "Armadura de Sangre",
-      "desc": "- Max Value: 10\n- Stage 1 Armadura de Sangre\n- Used for special Skills",
+      "name": "Армадура де Сангре",
+      "desc": "- Максимальный счетчик: 10\n- Армадура де Сангре первой стадии\n- Используется для особых Навыков",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodArmor_2nd",
-      "name": "Armadura de Sangre II",
-      "desc": "- Max Value: 20\n- Stage 2 Armadura de Sangre\n- Turn Start: gain 1 Offense Level and Defense Level for every 6 Stack\n- Raise Min & Max Speed values by 1\n- Used for special Skills",
+      "name": "Армадура де Сангре II",
+      "desc": "- Максимальный счетчик: 20\n- Армадура де Сангре второй стадии\n- Начало Хода: получает 1 Уровень Атаки и Уровень Защиты за каждые 6 счетчиков\n- Повышает минимальное и максимальное значение Скорости на 1\n- Используется для особых Навыков",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodArmor_3rd",
-      "name": "Armadura de Sangre III",
-      "desc": "- Max Value: 30\n- Stage 3 Armadura de Sangre\n- Turn Start: gain 2 Offense Level and Defense Level for every 6 Stack\n- Raise Min & Max Speed values by 2\n- Used for special Skills",
+      "name": "Армадура де Сангре III",
+      "desc": "- Максимальный счетчик: 30\n- Армадура де Сангре третьей стадии\n- Начало Хода: получает 2 Уровня Атаки и Уровня Защиты за каждые 6 счетчиков\n- Повышает минимальное и максимальное значение Скорости на 2\n- Используется для особых Навыков",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Dreamy",
-      "name": "Dreamy Hesitation",
-      "desc": "- Offense Level -35\n- Defense Level -35",
+      "name": "Сонная Нерешительность",
+      "desc": "- Понижение Уровня Атаки на 35\n- Понижение Уровня Защиты на 35",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodringUp_LowMorale",
-      "name": "Resanguination",
-      "desc": "- Low Morale\nIf the target does not have Bleed, Clash Power -1; On Hit, heal HP equal to Bleed Potency on the target",
+      "name": "Обескровливание",
+      "desc": "- Низкая сила духа\nЕсли у цели нет Кровотечения, Сила Столкновения -1; При ударе восстанавливает ОЗ равные потенциалу Кровотечения на цели",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodringUp_Panic",
-      "name": "Resanguination",
-      "desc": "- Panic\nIf the target has Bleed, Clash Power +2; if the target does not have Bleed, Clash Power -2; On Hit, heal HP equal to Bleed Potency on the target",
+      "name": "Обескровливание",
+      "desc": "- Паника\nЕсли у цели есть Кровотечение, Сила Столкновения +2; если у цели нет Кровотечения, Сила Столкновения -2; При ударе восстанавливает ОЗ равные потенциалу Кровотечения на цели",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Common_Accumulation",
-      "name": "Bloodfeast Consumed (shared)",
-      "desc": "Total Bloodfeast consumed in this Encounter",
+      "name": "Кровавый Пир Поглощен (общий)",
+      "desc": "Общее количество поглощенного Кровавого Пира в этом Столкновении",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThirstyRose",
-      "name": "Polydipsic Rose",
-      "desc": "- Max Value: 5\n- Turn End: at 10+ Bleed Potency, take Lust damage equal to 1% of this unit's max HP. (max 30)\n- Turn End: reduced by 1",
+      "name": "Жаждущая Роза",
+      "desc": "- Максимальный счетчик: 5\n- Конец хода: при потенциале Кровотечения 10+, получает урон от Похоти равный 1% от максимальных ОЗ этого персонажа (макс. 30)\n- Конец хода: уменьшается на 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RoseWedge",
-      "name": "Rose Wedge",
-      "desc": "- Max Potency: 10\n- Max Count: 4\n- Gain 1 Potency every time this unit takes 10 Bleed damage\n- When gaining Bleed or 'Unique Bleed' from getting hit, gain 2 Bleed and inflict 1 Bleed against the Attacker. (5 times per turn)\n· At 10 Potency, gain +1 Bleed Count as well when triggering the above effect.\n- Turn End: lose 1 Count\n- Combat End: at 10 Potency or 1 Count, this effect expires, and this unit takes (Potency x 10) Lust damage.\n- If the unit inflicted with this effect dies, or when this effect expires: increase Bloodfeast by (Potency x 10), and deal (Potency x 2) Lust damage against all of its allies (min 1)",
+      "name": "Шип Розы",
+      "desc": "- Максимальный потенциал: 10\n- Максимальный счетчик: 4\n- Получает 1 потенциал каждый раз, когда этот персонаж получает 10 урона от Кровотечения\n- При получении Кровотечения или 'Уникального Кровотечения' от удара, получает 2 Кровотечения и наносит 1 Кровотечение Атакующему (5 раз за ход)\n· При 10 потенциале также получает +1 счетчик Кровотечения при срабатывании вышеуказанного эффекта\n- Конец хода: теряет 1 счетчик\n- Конец боя: при 10 потенциале или 1 счетчике этот эффект истекает, и этот персонаж получает (потенциал × 10) урона от Похоти\n- Если персонаж с этим эффектом умирает, или когда этот эффект истекает: увеличивает Кровавый Пир на (потенциал × 10), и наносит (потенциал × 2) урона от Похоти всем его союзникам (мин. 1)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FerrisWheel",
-      "name": "The Endless Wheel",
-      "desc": "Reduced by 1 every time a Gondola is defeated.\nIf this value is at 0, and if there are no units to be spawned next turn, move on to the next phase.",
+      "name": "Бесконечное Колесо",
+      "desc": "Уменьшается на 1 каждый раз, когда Гондола побеждена.\nЕсли это значение равно 0, и если нет персонажей для появления в следующем ходу, переходит к следующей фазе.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StarvingDonqui",
-      "name": "Starved and Withered",
-      "desc": "- Offense Level -10\n- Defense Level -10",
+      "name": "Голодный и Иссушенный",
+      "desc": "- Уровень Атаки -10\n- Уровень Защиты -10",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RegainedStrength",
-      "name": "Returning Bloodlust",
-      "desc": "- Max Value: 10\n- Stage 1 Returning Bloodlust",
+      "name": "Возвращающаяся Жажда Крови",
+      "desc": "- Максимальный счетчик: 10\n- Стадия 1 Возвращающейся Жажды Крови",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RegainedStrength_2nd",
-      "name": "Returning Bloodlust II",
-      "desc": "- Max Value: 20\n- Stage 2 Returning Bloodlust\n- Turn Start: gain 1 Offense Level up and 1 Defense Level Up for every 5 Value\n- Clash Power +1 to Skills that consume Returning Bloodlust; inflict +1 more of Potency and Count for Bleed and Rupture inflicted by the said Skill",
+      "name": "Возвращающаяся Жажда Крови II",
+      "desc": "- Максимальный счетчик: 20\n- Стадия 2 Возвращающейся Жажды Крови\n- Начало Хода: получает 1 Повышение уровня атаки и 1 Повышение уровня защиты за каждые 5 значений\n- Сила Столкновения +1 к Навыкам, потребляющим Возвращающуюся Жажду Крови; наносит +1 к потенциалу и счетчику для Кровотечения и Разрыва, нанесенных указанным Навыком",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RegainedStrength_3rd",
-      "name": "Returning Bloodlust III",
-      "desc": "- Max Value: 30\n- Stage 3 Returning Bloodlust\n- Turn Start: gain 2 Offense Level up and 1 Defense Level Up for every 5 Value\n- Coin Power +1 to Skills that consume Returning Bloodlust; inflict +1 more of Potency and Count for Bleed and Rupture inflicted by the said Skill",
+      "name": "Возвращающаяся Жажда Крови III",
+      "desc": "- Максимальный счетчик: 30\n- Стадия 3 Возвращающейся Жажды Крови\n- Начало Хода: получает 2 Повышения Уровня Атаки и 1 Повышение Уровня Защиты за каждые 5 значений\n- Сила Монеты +1 к Навыкам, потребляющим Возвращающуюся Жажду Крови; наносит +1 к потенциалу и счетчику Кровотечения и Разрыва, наносимых данным Навыком",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WeightOfResponsibility_LowMorale",
-      "name": "Time to abandon my dream...",
-      "desc": "- Low Morale\n- Gain 2 Attack Power Up and 1 Fragile; raise max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 2 Offense Level Up and 2 Defense Level Down",
+      "name": "Пора оставить мою мечту...",
+      "desc": "- Низкая сила духа\n- Получает 2 Повышения силы атаки и 1 Уязвимость; повышает максимальное значение Скорости на 2\n- Лечит на +30% больше ОЗ при исцелении\n- Конец хода: если текущее значение Возвращающейся Жажды Крови ниже, чем в Начале Хода, получает 2 Повышения Уровня Атаки и 2 Понижения Уровня Защиты",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WeightOfResponsibility_Panic",
-      "name": "... for my Family, as their Father...",
-      "desc": "- Panic\n- Gain 2 Attack Power Up, 2 Haste, and 2 Fragile\n- Heal +50% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 3 Offense Level Up and 5 Defense Level Down",
+      "name": "... Ради моей Семьи, как их Отец...",
+      "desc": "- Паника\n- Получает 2 Повышения силы атаки, 2 Спешки и 2 Уязвимости\n- Лечит на +50% больше ОЗ при исцелении\n- Конец хода: если текущее значение Возвращающейся Жажды Крови ниже, чем в Начале Хода, получает 3 Повышения Уровня Атаки и 5 Понижений Уровня Защиты",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Precarious",
-      "name": "Irresponsible Dream",
-      "desc": "Killed when hit by Don Quixote.",
+      "name": "Безответственная Мечта",
+      "desc": "Погибает при получении удара от Дон Кихота.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Penetration",
-      "name": "Congealing Blood",
-      "desc": "Cannot act for 2 turns; spawns an Impaling Spear unit over the ally.",
+      "name": "Сворачивающаяся Кровь",
+      "desc": "Не может действовать 2 хода; создает юнит Пронзающего Копья над союзником.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DecreamentalDefense",
-      "name": "Crippling Injury",
-      "desc": "- Yet to recover from the wounds gained in the previous battle.\n- Massively reduce max HP\n- Turn Start: gain 1 Defense Level Down for every cumulative turn (max 15)",
+      "name": "Калечащая Рана",
+      "desc": "- Еще не восстановился от ран, полученных в предыдущем бою.\n- Значительно снижает максимальные ОЗ\n- Начало Хода: получает 1 Понижение Уровня Защиты за каждый накопительный ход (максимум 15)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnfinishedDream",
-      "name": "IN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER",
-      "desc": "- At every Turn End: gain 1 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "name": "В КОТОРОМ РАССКАЗЫВАЕТСЯ ОБ ОСВОБОЖДЕНИИ ОТ КРОВИ ГУЩЕ ВОДЫ",
+      "desc": "- В каждый Конец хода: получает 1 Спешку и 3 Повышения Уровня Атаки в следующем ходу\n- Получает 2 дополнительных Повышения Уровня Атаки после каждых 3 накопительных ходов (максимум 6)\n- При Победе в Столкновении восстанавливает 3 СД\n- При Убийстве получает 1 Повышение Силы Столкновения в следующем ходу (один раз за ход)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SanchoMind_LowMorale",
-      "name": "Reawakening Joy Of Carnage",
-      "desc": "- Low Morale\nGain 2 Attack Power Up at every Turn Start; +2 SP Heal Efficiency",
+      "name": "Пробуждающаяся Радость Резни",
+      "desc": "- Низкая сила духа\nПолучает 2 Повышения силы атаки в начале каждого хода; +2 к Эффективности восстановления СД",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SanchoMind_Panic",
-      "name": "Reawakening Joy Of Carnage",
-      "desc": "- Panic\nTurn Start: gain 6 Defense Level Up. Gain 3 Offense Level Up next turn",
+      "name": "Пробуждающаяся Радость Резни",
+      "desc": "- Паника\nНачало Хода: получает 6 Повышений Уровня Защиты. Получает 3 Повышения Уровня Атаки в следующем ходу",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHope",
-      "name": "WHICH TREATS THE BUS, THE COMPANIONS, AND THE ADVENTURES",
-      "desc": "Gain Clash Power equal to the value",
+      "name": "В КОТОРОМ ГОВОРИТСЯ ОБ АВТОБУСЕ, СПУТНИКАХ И ПРИКЛЮЧЕНИЯХ",
+      "desc": "Получает Силу Столкновения, равную значению",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FragmentOfHopeTwo",
-      "name": "OF HOW SANCHO, OUR DON QUIXOTE, REFUSED TO END THE DREAM",
-      "desc": "Clash Power +4 for every value\nApply Shield to self and all allies at Combat Start",
+      "name": "О ТОМ, КАК САНЧО, НАША ДОН КИХОТ, ОТКАЗАЛАСЬ ЗАКОНЧИТЬ МЕЧТУ",
+      "desc": "Сила Столкновения +4 за каждое значение\nПрименяет Щит к себе и всем союзникам в начале боя",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ConfinementOfGoldenBranch",
-      "name": "The Golden Bough's Forced Arbitration",
-      "desc": "- Offense Level -30\n- Defense Level -30",
+      "name": "Принудительный Арбитраж Золотой Ветви",
+      "desc": "- Уровень Атаки -30\n- Уровень Защиты -30",
       "summary": "",
       "undefined": "-"
     }
