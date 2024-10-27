@@ -249,7 +249,7 @@
           "level": 1,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. 2)\n[BeforeAttack] При значении меньше 50 [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. 2)\n[BeforeAttack] При значении меньше 50 [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
           "coinlist": [
             {
               "coindescs": [
@@ -300,7 +300,7 @@
           "level": 3,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\n<style=\"highlight\">Если на цели имеется 10+ [Laceration], Сила Монет +1</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">3</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">75</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\n<style=\"highlight\">Если на цели имеется 10+ [Laceration], Сила Монет +1</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">3</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">75</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
           "coinlist": [
             {
               "coindescs": [
@@ -351,7 +351,7 @@
           "level": 4,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\n<style=\"highlight\">Сила Монет +1 за каждые 10 [Laceration] on the target (макс. 2)</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">5</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">100</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\n<style=\"highlight\">Сила Монет +1 за каждые 10 [Laceration] on the target (макс. 2)</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">5</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">100</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
           "coinlist": [
             {
               "coindescs": [
@@ -407,7 +407,7 @@
           "level": 1,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]",
+          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -438,7 +438,7 @@
           "level": 3,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\n<style=\"highlight\">При 200+ [BloodDinner_Accumulation] этим Грешником, Сила Монет -1</style>\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]",
+          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\n<style=\"highlight\">При 200+ [BloodDinner_Accumulation] этим Грешником, Сила Монет -1</style>\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -469,7 +469,7 @@
           "level": 4,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\nПри 200+ [BloodDinner_Accumulation] этим Грешником, Сила Монет -1\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\nПри 200+ [BloodDinner_Accumulation] этим Грешником, Сила Монет -1\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
