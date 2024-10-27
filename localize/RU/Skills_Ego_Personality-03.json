@@ -241,6 +241,262 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2030711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. 2)\n[BeforeAttack] При значении меньше 50 [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Наносит +0.1% больше урона за каждый [BloodDinner_Common_Accumulation] (макс. 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 100+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 200+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 300+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. 30%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит [ThirstyRose] основываясь на наибольшем Абсолют. Резонансе Похоти (макс. 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\n<style=\"highlight\">Если на цели имеется 10+ [Laceration], Сила Монет +1</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">3</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">75</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Наносит +0.1% больше урона за каждый [BloodDinner_Common_Accumulation] (макс. 10%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 100+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. <style=\"highlight\">15</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 200+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. <style=\"highlight\">25</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 300+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит [ThirstyRose] основываясь на наибольшем Абсолют. Резонансе Похоти (макс. 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\n<style=\"highlight\">Сила Монет +1 за каждые 10 [Laceration] on the target (макс. 2)</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">5</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">100</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Наносит +0.1% больше урона за каждый [BloodDinner_Common_Accumulation] (макс. 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 100+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. <style=\"highlight\">20</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 200+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. <style=\"highlight\">30</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "При 300+ [BloodDinner_Common_Accumulation]: Наносит +0.1% больше урона за каждое значение (макс. <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит [ThirstyRose] основываясь на наибольшем Абсолют. Резонансе Похоти (макс. <style=\"highlight\">4</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration] за каждые 50 [BloodDinner_Common_Accumulation] (макс. 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 100- [BloodDinner], наносит 10 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит +5% больше урона за каждые 100 [BloodDinner_Common_Accumulation] (макс. 25%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит [ThirstyRose] основываясь на наибольшем Абсолют. Резонансе Похоти (макс. 3)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Исцеляет 50% ОЗ от нанесенного урона (макс. 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\n<style=\"highlight\">При 200+ [BloodDinner_Accumulation] этим Грешником, Сила Монет -1</style>\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration] за каждые 50 [BloodDinner_Common_Accumulation] (макс. 10)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 100- [BloodDinner], наносит 10 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит +<style=\"highlight\">10</style>% больше урона за каждые 100 [BloodDinner_Common_Accumulation] (макс. <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит [ThirstyRose] основываясь на наибольшем Абсолют. Резонансе Похоти (макс. <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Исцеляет 50% ОЗ от нанесенного урона (макс. 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Жаждущая - Миркалла",
+          "abName": "Четыре сотни Роз",
+          "desc": "[CantIdentify]\nСлучайные цели\nОЗ этого Грешника не может упасть ниже 1 при использовании этого Навыка.\nЕсли на цели имеется 10+ [Laceration], Сила Монет -1\nПри 200+ [BloodDinner_Accumulation] этим Грешником, Сила Монет -1\n[BeforeAttack] При значении меньше 150 [BloodDinner], наносит 1 [Laceration] за каждый удар\n[BeforeAttack] Получает 20 [Laceration], и сразу же активирует [Laceration] на себе. Теряет 2 счетчика [Laceration]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Laceration] за каждые 50 [BloodDinner_Common_Accumulation] (макс. 10)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] При 100- [BloodDinner], наносит 10 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит +<style=\"highlight\">20</style>% больше урона за каждые 100 [BloodDinner_Common_Accumulation] (макс. <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Наносит [ThirstyRose] основываясь на наибольшем Абсолют. Резонансе Похоти (макс. <style=\"highlight\">5</style>)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Исцеляет 50% ОЗ от нанесенного урона (макс. 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
