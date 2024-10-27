@@ -2,53 +2,53 @@
     "dataList": [
         {
             "id": 838101,
-            "name": "Festival of Wonders",
-            "desc": "Gain 1 [FestivalFever] every time this unit applies a positive buff to other allies with its Skill effects (once per type of buff)\n\nTurn Start: gain [FestivalFever] equal to the number of other allies (max 3)\nTurn End: heal SP equal to [FestivalFever] on self (does not activate at -45 SP)\n\nTurn End: at 10+ [FestivalFever], use a powerful Skill next turn (however, if 'The Parade Repeats for Eternity' is active, this effect does not activate)"
+            "name": "Фестиваль Чудес",
+            "desc": "Получает 1 [FestivalFever] каждый раз, когда этот юнит накладывает положительный эффект на других союзников с помощью эффектов Навыка (один раз для каждого типа эффекта)\n\nНачало Хода: получает [FestivalFever] равное количеству других союзников (максимум 3)\nКонец Хода: восстанавливает СД равное [FestivalFever] на себе (не активируется при -45 СД)\n\nКонец Хода: при 10+ [FestivalFever], использует мощный Навык в следующем ходу (однако, если 'Парад Повторяется Вечно' активен, этот эффект не срабатывает)"
         },
         {
             "id": 838102,
-            "name": "The Parade's Lady",
-            "desc": "Turn Start: gain 8 [Protection]\n- With every ally death, gain 1 less [Protection] at Turn Start\nTurn End: If this unit did not take any HP damage this turn, gain 2 [Agility] next turn"
+            "name": "Леди Парада",
+            "desc": "Начало Хода: получает 8 [Protection]\n- С каждой смертью союзника, получает на 1 меньше [Protection] в Начале Хода\nКонец Хода: Если этот юнит не получил урона по ОЗ в этом ходу, получает 2 [Agility] в следующем ходу"
         },
         {
             "id": 838103,
-            "name": "The Parade Repeats for Eternity",
-            "desc": "Turn End: if at 5+ [IncompleteParade], use a powerful Skill next turn"
+            "name": "Вечное повторение Парада",
+            "desc": "Конец Хода: если имеется 5+ [IncompleteParade], использует мощный Навык в следующем ходу"
         },
         {
             "id": 838104,
-            "name": "Parade of Happiness",
-            "desc": "Gains a new pattern when this unit's HP drops to 66% or less for the first time\n\nUpon pattern change,\n- Raise Min & Max Speed values by 1\n- Convert [BloomingThorns] on self to [BloomingThorns_2nd]\n- All allies gain 3 [FestivalFever] and 3 [BloomingThorns] at every turn"
+            "name": "Парад Счастья",
+            "desc": "Получает новый паттерн, когда ОЗ этого юнита впервые опускается до 66% или ниже\n\nПри смене паттерна,\n- Повышает минимальное и максимальное значение Скорости на 1\n- Преобразует [BloomingThorns] на себе в [BloomingThorns_2nd]\n- Все союзники получают 3 [FestivalFever] и 3 [BloomingThorns] каждый ход"
         },
         {
             "id": 838105,
-            "name": "Eternal Parade of Happiness",
-            "desc": "Gains a new pattern when this unit's HP drops to 33% or less for the first time\n\nUpon pattern change,\n- Raise Min & Max Speed values by 2\n- Uses a powerful Skill; then weakens Resistances against Slash, Pierce, and Blunt (+0.5)\n- Convert [BloomingThorns] and [BloomingThorns_2nd] on self to [BloomingThorns_3rd]\n- All allies gain 5 [FestivalFever] and 5 [BloomingThorns] at every turn"
+            "name": "Вечный Парад Счастья",
+            "desc": "Получает новый паттерн, когда ОЗ этого юнита впервые опускается до 33% или ниже\n\nПри смене паттерна,\n- Повышает минимальное и максимальное значение Скорости на 2\n- Использует мощный Навык; затем ослабляет Сопротивление к Режущему, Пронзающему и Дробящему урону (+0.5)\n- Преобразует [BloomingThorns] и [BloomingThorns_2nd] на себе в [BloomingThorns_3rd]\n- Все союзники получают 5 [FestivalFever] и 5 [BloomingThorns] каждый ход"
         },
         {
             "id": 838106,
-            "name": "This isn't how it ends",
-            "desc": "Turn End: If there are no surviving allies nor Backup allies, consume all [FestivalFever] and [IncompleteParade] next turn and become Staggered (activates immediately if there are no surviving allies at Turn Start)\n\nIn the turn after this unit is Staggered, summon 2 Kindred Bloodfiends"
+            "name": "Это не конец",
+            "desc": "Конец Хода: Если нет выживших союзников или Союзников в запасе, поглощает все [FestivalFever] и [IncompleteParade] в следующем ходу и становится Оглушенным (активируется немедленно, если нет выживших союзников в Начале Хода)\n\nВ ходу после того, как этот юнит становится Оглушенным, призывает 2 Родственных Кровожадных"
         },
         {
             "id": 838107,
-            "name": "Bloodfeast",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will fill the surface."
+            "name": "Кровавый Пир",
+            "desc": "Если этот юнит находится на поле или является одним из юнитов, которые могут появиться на этой Сцене, увеличивает значение [BloodDinner] на количество урона от [Laceration], полученного всеми юнитами вместе. \nКогда этот юнит выходит на поле, спящая кровь, пропитывающая поле боя, заполнит поверхность."
         },
         {
             "id": 838108,
-            "name": "Starved and Withered",
-            "desc": "Gain [StarvingDolcineaOne] at the start of the Encounter"
+            "name": "Изголодавшая и Иссохшая",
+            "desc": "Получает [StarvingDolcineaOne] в начале Столкновения"
         },
         {
             "id": 838901,
-            "name": "The Knight of the White Moon",
-            "desc": "Damage Taken -20%\nGain 3 [Enhancement] on Clash Lose"
+            "name": "Рыцарь Белой Луны",
+            "desc": "Получаемый урон -20%\nПолучает 3 [Enhancement] при проигрыше в Столкновении"
         },
         {
             "id": 838902,
-            "name": "A Close Match",
-            "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count / 10) in a Clash. (rounded down)"
+            "name": "Близкий Поединок",
+            "desc": "При 10+ Столкновениях с одним и тем же врагом, случайно получает или теряет Силу Столкновения на (счетчик Столкновений / 10) в Столкновении (округляется вниз)"
         }
     ]
 }
