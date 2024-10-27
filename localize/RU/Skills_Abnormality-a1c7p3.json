@@ -498,399 +498,397 @@
       ]
     },
     {
-  "id": 837402,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Сокрушение",
-      "desc": "[WhenUse] Получает 5 [Breath]",
-      "coinlist": [
-        {},
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Получает +2 [Breath] счетчик"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 2 [IndigoTakeDamageUp] на следующий ход"
-            },
-            {
-              "desc": "[CriticalOnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 837403,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Гордое сокрушение",
-      "desc": "[WhenUse] При 5+ [Breath], Сила монеты +2",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Получает 4 [Breath] и +3 [Breath] счетчик"
-            },
-            {
-              "desc": "[CriticalOnSucceedAttack] Наносит на +100% больше урона"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 837404,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Контратака",
-      "desc": "[WhenUse] При 6+ [Breath], Сила монеты +2",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[CriticalOnSucceedAttack] Наносит на +50% больше урона"
-            },
-            {
-              "desc": "[OnSucceedAttack] Получает +2 [Breath] счетчик на следующий ход"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838001,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Опрокидывание",
-      "desc": "[WhenUse] Поглощает 10 [BloodDinner]: получает 1 [BloodArmor]\n[WhenUse] Сила монеты +1 за каждые 10 [BloodArmor] (максимум 2)\n[WhenUse] Сила монеты +1 за каждые 15 [Laceration] на себе (максимум 3)",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838002,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Рана",
-      "desc": "[WhenUse] Поглощает до 20 [BloodDinner]: получает 1 [BloodArmor] за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Сила монеты +1 за каждые 10 [BloodArmor] (максимум 2)\n[WhenUse] Сила монеты +1 за каждые 15 [Laceration] на себе (максимум 3)",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838003,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Кровавая радость",
-      "desc": "[WhenUse] Поглощает 4 [BloodArmor] чтобы восстановить 10 СД\n[WhenUse] Поглощает 10 [BloodDinner] чтобы получить 1 [BloodArmor] и восстановить 10 СД\n- Если не удалось поглотить [BloodDinner], получает 3 [Laceration]",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит на +10% больше урона за каждое [Laceration] на цели (максимум 100%)"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 [Laceration] счетчик"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838004,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Экстаз крови",
-      "desc": "Может вступать в столкновение с этим навыком независимо от скорости\n[StartBattle] Если есть враги с [Laceration], активирует [Laceration] на всех врагов. Все враги теряют 2 [Laceration] счетчик\n[WhenUse] Если этот эффект не сработал в начале боя, получает 30 [Laceration].\n[WinDuel] Поглощает до 40 [BloodDinner]: за каждые 10 поглощенных [BloodDinner], получает 1 [BloodArmor] и наносит на +25% больше урона (максимум 100%)\n- Если не удалось поглотить [BloodDinner], получает 5 [Laceration], и немедленно активирует [Laceration]. Теряет 2 [Laceration] счетчик\n[EndSkill] Заканчивает фазу боя",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +2 [Laceration] счетчик"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +2 [Laceration] счетчик"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838005,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Искусство крепкой крови Дон Кихота 4 - Рассечение",
-      "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила монеты +1\n[WinDuel] С этим навыком наносит на +20% больше урона за каждую стадию [BloodArmor] (максимум 60%)\n[DefeatDuel] Поглощает 4 [BloodArmor] чтобы получить 20 ОЗ щита",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838006,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Искусство крепкой крови Дон Кихота 11 - Пронзание",
-      "desc": "[WhenUse] Базовая сила +1 за каждые 3 [Laceration] на цели (максимум 3)\n[WinDuel] С этим навыком наносит на +20% больше урона за каждую стадию [BloodArmor] (максимум 60%)\n[DefeatDuel] Поглощает 4 [BloodArmor] чтобы получить 20 ОЗ щита",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Активирует [Laceration] на цели равное её счетчику. Использует счетчик [Laceration] цели до 1"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838007,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Искусство крепкой крови Дон Кихота 2 - Armadura de Sangre",
-      "desc": "Может вступать в столкновение с этим навыком независимо от скорости\n[StartBattle] Поглощает 200 [BloodDinner], получает 500 ОЗ щита, 5 [BloodArmor], и 1 [SwirlingBlood]\n- Если у этого юнита недостаточно [BloodDinner], получает 50 [Laceration], и немедленно активирует [Laceration]. Теряет 2 [Laceration] счетчик. Получает 500 ОЗ щита и 1 [SwirlingBlood] (этот урон не снижает ОЗ этого юнита до 1)\n[WinDuel] Получает 200 ОЗ щита\n[DefeatDuel] Получает 3 [Vulnerable] пока активен щит, полученный благодаря этому навыку\n[DefeatDuel] Наносит на -50% меньше урона, и урон от этого навыка не оглушает цель\n[EndSkill] Заканчивает фазу боя",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +3 [Laceration] счетчик"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838008,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Вариант стиля Дон Кихота: Искусство Санчо 4 - Слежение",
-      "desc": "Приоритет целей с наибольшим [Laceration]\n[BeforeAttack] Если цель имеет наибольшее [Laceration], получает Кол-во целей +2 и Сила столкновения +3\n[WhenUse] Поглощает до 30 [BloodDinner]: получает 1 [BloodArmor] и Сила монеты +1 за каждые 15 поглощенных [BloodDinner] (максимум 2)\n- Если не удалось поглотить [BloodDinner], получает 10 [Laceration], и немедленно активирует [Laceration]. Теряет 2 [Laceration] счетчик\n[EndSkill] Увеличивает [BloodDinner] на величину нанесенного этим навыком урона",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 8 [Laceration]"
-            }
-          ]
-        },
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 1 [Binding] на следующий ход\n- Если этот навык поглотил 30 [BloodDinner], наносит 2 дополнительных [Binding]"
+            "id": 837402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Сокрушение",
+                    "desc": "[WhenUse] Получает 5 [Breath]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает +2 счетчик [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 2 [IndigoTakeDamageUp] на следующий ход"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-  "id": 838009,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Стиль-Вариация Дон Кихота: Искусство Санчо 3 - Засада",
-      "desc": "Нацеливается на цели с наибольшим [Laceration]\n[BeforeAttack] Если цель имеет наибольшее количество [Laceration], получает Кол-во целей +2 и Силу столкновения +3\n[WhenUse] Поглощает до 50 [BloodDinner]: получает 1 [BloodArmor] и Базовую силу +1 за каждые 10 поглощенных [BloodDinner] (макс. 5)\n- Если не удалось поглотить [BloodDinner], получает 10 [Laceration], и немедленно активирует [Laceration]. Теряет 1 счетчик [Laceration]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного урона",
-      "coinlist": [
-        {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
-            }
-          ]
+            ]
         },
         {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
-            }
-          ]
+            "id": 837403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Горделивое Сокрушение",
+                    "desc": "[WhenUse] При 5+ [Breath], Сила Монеты +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Получает 4 [Breath] и +3 счетчик [Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит на +100% больше урона"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "coindescs": [
-            {
-              "desc": "[OnSucceedAttack] Наносит 1 [Paralysis] на следующий ход\n- Если это умение поглотило 50 [BloodDinner], наносит 2 дополнительных [Paralysis]"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838010,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Стиль-Вариация Дон Кихота: Искусство Санчо 2 - Ла Сангре",
-      "desc": "Может вступать в столкновение этим умением независимо от Скорости\n[WhenUse] Поглощает 50 [BloodDinner] чтобы нанести 1 [Paralysis] цели и себе\n[WhenUse] Поглощает 100 [BloodDinner] чтобы получить Силу столкновения +5\n- Если недостаточно [BloodDinner], поглощает 100 ОЗ с этого персонажа чтобы получить Силу столкновения +5\n[EndSkill] Заканчивает фазу боя",
-      "coinlist": [
+            "id": 837404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Контратака",
+                    "desc": "[WhenUse] При 6+ [Breath], Сила Монеты +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Наносит на +50% больше урона"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Получает +2 счетчик [Breath] на следующий ход"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            },
-            {
-              "desc": "[OnSucceedAttackHead] Наносит 8 [Laceration]"
-            },
-            {
-              "desc": "[OnSucceedAttackHead] Лечится на количество нанесенного урона"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-},
-{
-  "id": 838011,
-  "levelList": [
-    {
-      "level": 1,
-      "name": "Приключение Закончилось",
-      "desc": "[StartBattle] Поглощает (45 - текущее СД) [BloodDinner] чтобы вылечить до 45 СД\n- Если недостаточно [BloodDinner], поглощает до (45 - текущее СД) ОЗ чтобы вылечить до 45 СД (этот урон не снижает ОЗ этого персонажа ниже 1)\n- Получает Щит ОЗ равный оставшемуся количеству [BloodDinner] (макс. 100)\n[WinDuel] Наносит 10 [Laceration]\n[DefeatDuel] Поглощает 100 [BloodDinner]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного урона",
-      "coinlist": [
+            "id": 838001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Опрокидывание",
+                    "desc": "[WhenUse] Поглощает 10 [BloodDinner]: получает 1 [BloodArmor]\n[WhenUse] Сила Монеты +1 за каждые 10 [BloodArmor] (макс. 2)\n[WhenUse] Сила Монеты +1 за каждые 15 [Laceration] на себе (макс. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         {
-          "coindescs": [
-            {
-              "desc": "[SuperCoin]"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит +10% больше урона за каждый [Laceration] на цели (макс. 200%)"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит +10% больше урона за каждый [BloodDinner] (макс. 100%)"
-            },
-            {
-              "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 счетчик [Laceration]"
+            "id": 838002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Рана",
+                    "desc": "[WhenUse] Поглощает до 20 [BloodDinner]: получает 1 [BloodArmor] за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Сила Монеты +1 за каждые 10 [BloodArmor] (макс. 2)\n[WhenUse] Сила Монеты +1 за каждые 15 [Laceration] на себе (макс. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Кровавая Радость",
+                    "desc": "[WhenUse] Поглощает 4 [BloodArmor] для восстановления 10 СД\n[WhenUse] Поглощает 10 [BloodDinner] для получения 1 [BloodArmor] и восстановления 10 СД\n- Если не удалось поглотить [BloodDinner], получает 3 [Laceration].",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит на +10% больше урона за каждый [Laceration] на цели (макс. 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 счетчик [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Экстаз Крови",
+                    "desc": "Может Схлестнуться с этим Навыком независимо от Скорости\n[StartBattle] Если есть враги с [Laceration], активирует [Laceration] на всех врагах. Все враги теряют 2 счетчик [Laceration]\n[WhenUse] Если этот эффект не активировался в Начале Боя, получает 30 [Laceration].\n[WinDuel] Поглощает до 40 [BloodDinner]: за каждые 10 поглощенных [BloodDinner], получает 1 [BloodArmor] и наносит на +25% больше урона (макс. 100%)\n- Если не удалось поглотить [BloodDinner], получает 5 [Laceration], и активирует [Laceration] немедленно. Теряет 2 счетчик [Laceration]\n[EndSkill] Заканчивает Фазу Боя",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Искусство Твердокровия Дон Кихота 4 - Рассечение",
+                    "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила Монеты +1\n[WinDuel] С этим Навыком наносит на +20% больше урона за каждую Стадию [BloodArmor] (макс. 60%)\n[DefeatDuel] Поглощает 4 [BloodArmor] для получения 20 Щита ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Искусство Твердокровия Дон Кихота 11 - Прокалывание",
+                    "desc": "[WhenUse] Базовая Сила +1 за каждые 3 [Laceration] на цели (макс. 3)\n[WinDuel] С этим Навыком наносит на +20% больше урона за каждую Стадию [BloodArmor] (макс. 60%)\n[DefeatDuel] Поглощает 4 [BloodArmor] для получения 20 Щита ОЗ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Активирует [Laceration] на цели, равный его счетчику. Использует счетчик [Laceration] цели до 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Искусство Твердокровия Дон Кихота 2 - Armadura de Sangre",
+                    "desc": "Может Схлестнуться с этим Навыком независимо от Скорости\n[StartBattle] Поглощает 200 [BloodDinner], получает 500 Щита ОЗ, 5 [BloodArmor] и 1 [SwirlingBlood]\n- Если у этого юнита недостаточно [BloodDinner], получает 50 [Laceration] и активирует [Laceration] немедленно. Теряет 2 счетчик [Laceration]. Получает 500 Щита ОЗ и 1 [SwirlingBlood] (этот урон не снижает ОЗ этого юнита до 1)\n[WinDuel] Получает 200 Щита ОЗ\n[DefeatDuel] Получает 3 [Vulnerable], пока активен Щит, полученный благодаря этому Навыку\n[DefeatDuel] Наносит на -50% меньше урона, и урон от этого Навыка не Оглушает цель\n[EndSkill] Заканчивает Фазу Боя",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +3 счетчик [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Вариант Стиля Дон Кихота: Искусство Санчо 4 - Выслеживание",
+                    "desc": "Приоритет целей с наибольшим [Laceration]\n[BeforeAttack] Если цель имеет наибольшее количество [Laceration], получает Кол-во целей +2 и Силу Схватки +3\n[WhenUse] Поглощает до 30 [BloodDinner]: получает 1 [BloodArmor] и Силу Монеты +1 за каждые 15 поглощенных [BloodDinner] (макс. 2)\n- Если не удалось поглотить [BloodDinner], получает 10 [Laceration] и активирует [Laceration] немедленно. Теряет 2 счетчик [Laceration]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного этим Навыком урона",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 8 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 [Binding] на следующий ход\n- Если этот Навык поглотил 30 [BloodDinner], наносит 2 дополнительных [Binding]"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838009,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Вариант Стиля Дон Кихота: Искусство Санчо 3 - Засада",
+                    "desc": "Приоритет целей с наибольшим [Laceration]\n[BeforeAttack] Если цель имеет наибольшее количество [Laceration], получает Кол-во целей +2 и Силу Схватки +3\n[WhenUse] Поглощает до 50 [BloodDinner]: получает 1 [BloodArmor] и Базовую Силу +1 за каждые 10 поглощенных [BloodDinner] (макс. 5)\n- Если не удалось поглотить [BloodDinner], получает 10 [Laceration] и активирует [Laceration] немедленно. Теряет 1 счетчик [Laceration]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного этим Навыком урона",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 1 [Paralysis] на следующий ход\n- Если этот Навык поглотил 50 [BloodDinner], наносит 2 дополнительных [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838010,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Вариант Стиля Дон Кихота: Искусство Санчо 2 - La Sangre",
+                    "desc": "Может Схлестнуться с этим Навыком независимо от Скорости\n[WhenUse] Поглощает 50 [BloodDinner] чтобы нанести 1 [Paralysis] цели и себе\n[WhenUse] Поглощает 100 [BloodDinner] чтобы получить Силу Схватки +5\n- Если недостаточно [BloodDinner], поглощает 100 ОЗ этого юнита чтобы получить Силу Схватки +5\n[EndSkill] Заканчивает Фазу Боя",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Наносит 8 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Восстанавливает ОЗ равное нанесенному урону"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838011,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado",
+                    "desc": "[StartBattle] Поглощает (45 - текущее СД) [BloodDinner] для восстановления до 45 СД\n- Если недостаточно [BloodDinner], поглощает до (45 - текущее СД) ОЗ для восстановления до 45 СД (этот урон не снижает ОЗ этого юнита ниже 1)\n- Получает Щит ОЗ равный оставшемуся [BloodDinner] (макс. 100)\n[WinDuel] Наносит 10 [Laceration]\n[DefeatDuel] Поглощает 100 [BloodDinner]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного урона",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит на +10% больше урона за каждый [Laceration] на цели (макс. 200%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит на +10% больше урона за каждый [BloodDinner] (макс. 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 счетчик [Laceration]",
                 }
               ]
             }
