@@ -763,6 +763,18 @@
     {
       "id": "battle_StageBuffUI_Stackdesc",
       "content": "(Текущее число: {0})"
+    },
+    {
+      "id": "EGOSelectUI_not_allow",
+      "content": "Данное Э.Г.О не может быть экипировано в данный момент."
+    },
+    {
+      "id": "laceration_surge",
+      "content": "Шквал кровотечения!"
+    },
+    {
+      "id": "QTE_Notice",
+      "content": "ГАЛОПОМ ВПЕРЕД, ВМЕСТЕ!"
     }
   ]
 }
