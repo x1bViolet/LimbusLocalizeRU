@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This Unforgivable Sin...",
-          "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\n[DefeatDuel] Gain +1 [Laceration] Count",
+          "name": "Этот Непростительный Грех...",
+          "desc": "[WhenUse] Получает 20 [Laceration] и +1 [Laceration] счетчик\n[DefeatDuel] Получает +1 [Laceration] счетчик",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Deserved Penance...",
-          "desc": "[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\n[DefeatDuel] Gain +1 [Laceration] Count",
+          "name": "Заслуженное Покаяние...",
+          "desc": "[WhenUse] Получает 20 [Laceration] и +1 [Laceration] счетчик\n[DefeatDuel] Получает +1 [Laceration] счетчик",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
                 }
               ]
             }
@@ -50,20 +50,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Did you think about blood today?",
-          "desc": "[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 30 [BloodDinner]: heal the ally with the least HP by ([BloodDinner] consumed x 2). (excludes self; rounded down)",
+          "name": "Думал ли ты о крови сегодня?",
+          "desc": "[WhenUse] Получает 10 [Laceration]\n[WhenUse] Поглощает до 30 [BloodDinner]: лечит союзника с наименьшим ОЗ на (поглощенный [BloodDinner] x 2). (исключая себя; округляется вниз)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [WornHeart] and 1 [BloodyHand]"
+                  "desc": "[OnSucceedAttack] Получает 1 [WornHeart] и 1 [BloodyHand]"
                 }
               ]
             }
@@ -76,20 +76,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Are you still thinking about blood?",
-          "desc": "[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 20 [BloodDinner]: heal self and the ally(the Core and the Part) with the least HP by ([BloodDinner] consumed x 2).\n- If there are no remaining allies, double the healing on self",
+          "name": "Всё ещё думаешь о крови?",
+          "desc": "[WhenUse] Получает 10 [Laceration]\n[WhenUse] Поглощает до 20 [BloodDinner]: лечит себя и союзника(Ядро и Часть) с наименьшим ОЗ на (поглощенный [BloodDinner] x 2).\n- Если не осталось союзников, удваивает лечение на себе",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] Inflict +2 [Laceration] Count\n[OnSucceedAttack] If this unit has 50%+ HP, activate [Laceration] on self and consume 1 [Laceration] Count on self"
+                  "desc": "[SuperCoin]\n[OnSucceedAttack] Наносит +2 [Laceration] счетчик\n[OnSucceedAttack] Если у этого юнита 50%+ ОЗ, активирует [Laceration] на себе и поглощает 1 [Laceration] счетчик на себе"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [WornHeart] and [BloodyHand]\n[OnSucceedAttack] At 10 [WornHeart], gain 3 additional [BloodyHand] and gain 1 [AttackUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает 3 [WornHeart] и [BloodyHand]\n[OnSucceedAttack] При 10 [WornHeart], получает 3 дополнительных [BloodyHand] и получает 1 [AttackUp] на следующий ход"
                 }
               ]
             }
@@ -102,13 +102,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "More, more blood...!",
-          "desc": "[WhenUse] Consume up to 50 [BloodDinner] and gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] Gain 3 [BloodyHand]",
+          "name": "Больше, больше крови...!",
+          "desc": "[WhenUse] Поглощает до 50 [BloodDinner] и получает 1 [BloodyHand] за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Получает 10 [Laceration]\n[WhenUse] Получает 3 [BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BloodyHand] for every 5 [Laceration] on the target (max 5)"
+                  "desc": "[OnSucceedAttack] Получает 1 [BloodyHand] за каждые 5 [Laceration] на цели (макс. 5)"
                 }
               ]
             }
@@ -121,27 +121,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "How Bountiful...",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 30 [BloodDinner]: gain Coin Power +1 for every [BloodDinner] consumed\n[DefeatDuel] Gain 1 [Vulnerable] next turn",
+          "name": "Как Щедро...",
+          "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила Монеты +1\n[WhenUse] Поглощает до 30 [BloodDinner]: получает Силу Монеты +1 за каждый поглощенный [BloodDinner]\n[DefeatDuel] Получает 1 [Vulnerable] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]\n[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[SuperCoin]\n[OnSucceedAttack] Наносит 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal HP equal to the damage dealt (max 30)\n[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], and if this unit is at 30+ [BloodyHand_3rd], Reuse this Coin once\n- If this Skill failed to consume [BloodDinner], gain 20 [Laceration]"
+                  "desc": "[OnSucceedAttack] Лечит ОЗ равное нанесённому урону (макс. 30)\n[OnSucceedAttack] Если этот Навык поглотил 30 [BloodDinner], и если у этого юнита 30+ [BloodyHand_3rd], Повторно использует эту Монету один раз\n- Если этот Навык не смог поглотить [BloodDinner], получает 20 [Laceration]"
                 }
               ]
             }
@@ -154,8 +154,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[WhenUse] All allies heal 5 SP (including self)",
+          "name": "Жертва ради Семьи",
+          "desc": "[WhenUse] При 50%+ ОЗ, активирует [Laceration] на себе (макс. 3 раза; уменьшает счетчик Кровотечения каждый раз при активации; не может стать Оглушенным от этого урона)\n[WhenUse] Все союзники восстанавливают 5 СД (включая себя)",
           "coinlist": [
             {
               "coindescs": [
@@ -173,20 +173,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blood...",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], deal +20% more damage",
+          "name": "Кровь...",
+          "desc": "[WhenUse] Если у цели 6+ [Laceration], наносит на +20% больше урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
                 }
               ]
             }
@@ -199,8 +199,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expression of Love",
-          "desc": "Prioritizes targets with the least number of negative effects\n[WhenUse] If the target does not have any negative effects, use 'Rough Expression of Love' next turn\n\n[WhenUse] If the target has more negative effects than [FaintMemory] on self, use 'A Sad Embrace' next turn",
+          "name": "Выражение Любви",
+          "desc": "Приоритет целей с наименьшим количеством отрицательных эффектов\n[WhenUse] Если у цели нет отрицательных эффектов, использует 'Грубое Выражение Любви' на следующий ход\n\n[WhenUse] Если у цели больше отрицательных эффектов, чем [FaintMemory] на себе, использует 'Грустные Объятия' на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -208,10 +208,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [AffectionTeddy]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [AffectionTeddy]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 2 [Vulnerable] next turn"
+                  "desc": "[WinDuelAttack] Наносит 2 [Vulnerable] на следующий ход"
                 }
               ]
             }
@@ -224,16 +224,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clawing",
-          "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] Inflict 3 [AffectionTeddy] next turn\n[DefeatDuel] Inflict 1 [AffectionTeddy] next turn",
+          "name": "Царапанье",
+          "desc": "Приоритет целей с наименьшим количеством отрицательных эффектов\n[WinDuel] Наносит 3 [AffectionTeddy] на следующий ход\n[DefeatDuel] Наносит 1 [AffectionTeddy] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [NailPersonality]"
                 }
               ]
             }
@@ -246,20 +246,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violent Clawing",
-          "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] Inflict 3 [AffectionTeddy] next turn\n[DefeatDuel] Inflict 1 [AffectionTeddy] next turn",
+          "name": "Яростное Царапанье",
+          "desc": "Приоритет целей с наименьшим количеством отрицательных эффектов\n[WinDuel] Наносит 3 [AffectionTeddy] на следующий ход\n[DefeatDuel] Наносит 1 [AffectionTeddy] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Curse]"
                 }
               ]
             }
@@ -272,8 +272,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Timid Expression of Love",
-          "desc": "[DuelCounter]\n[WhenUse] Inflict 2 [Disarming] next turn\n[WhenUse] Inflict 1 [Curse]",
+          "name": "Робкое Выражение Любви",
+          "desc": "[DuelCounter]\n[WhenUse] Наносит 2 [Disarming] на следующий ход\n[WhenUse] Наносит 1 [Curse]",
           "coinlist": [
             {
               "coindescs": [
@@ -281,10 +281,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [AffectionTeddy], consume [AffectionTeddy] and inflict [Curse] and [NailPersonality] equal to the value of [AffectionTeddy] consumed (consumes up to 4)"
+                  "desc": "[OnSucceedAttack] Если у цели есть [AffectionTeddy], поглощает [AffectionTeddy] и наносит [Curse] и [NailPersonality] равные значению поглощенного [AffectionTeddy] (поглощает до 4)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Curse], consume 4 [Curse] on the target and inflict 1 [CursePackage]"
+                  "desc": "[OnSucceedAttack] Если у цели 4+ [Curse], поглощает 4 [Curse] на цели и наносит 1 [CursePackage]"
                 }
               ]
             }
@@ -297,8 +297,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rough Expression of Love",
-          "desc": "[CantChangeTarget]\nTargets the target this unit Clashed with 'Expression of Love' last turn",
+          "name": "Грубое Выражение Любви",
+          "desc": "[CantChangeTarget]\nНацеливается на цель, с которой этот юнит Сражался с 'Выражением Любви' в прошлом ходу",
           "coinlist": [
             {
               "coindescs": [
@@ -306,13 +306,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the target does not have any negative effects, deal +100% more damage"
+                  "desc": "Если у цели нет отрицательных эффектов, наносит на +100% больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Curse]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 6 [NailPersonality]"
+                  "desc": "[WinDuelAttack] Наносит 6 [NailPersonality]"
                 }
               ]
             }
@@ -325,8 +325,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "A Sad Embrace",
-          "desc": "[CantChangeTarget]\nTargets the target this unit Clashed with 'Expression of Love' last turn\nFix the damage dealt against that target to 0\n[StartBattle] Gain 2 [Vulnerable] until next turn\n[EndBattle] Enter Staggered state",
+          "name": "Грустные Объятия",
+          "desc": "[CantChangeTarget]\nНацеливается на цель, с которой этот юнит Сражался с 'Выражением Любви' в прошлом ходу\nФиксирует наносимый урон по этой цели на 0\n[StartBattle] Получает 2 [Vulnerable] до следующего хода\n[EndBattle] Становится Оглушенным",
           "coinlist": [
             {
               "coindescs": [
@@ -334,7 +334,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Fully heals the target's SP"
+                  "desc": "[OnSucceedAttack] Полностью восстанавливает СД цели"
                 }
               ]
             }
@@ -347,13 +347,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "And Old, Nostalgic Embrace",
-          "desc": "[DefeatDuel] Deal only half damage against the enemy with this Skill",
+          "name": "Старые, Ностальгические Объятия",
+          "desc": "[DefeatDuel] Наносит только половину урона врагу этим Навыком",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Curse]"
                 }
               ]
             },
@@ -363,10 +363,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [NailPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume all [AffectionTeddy] on the target\n- If this unit won the Clash, raise the target's Stagger Threshold by ([AffectionTeddy] consumed x 10)"
+                  "desc": "[OnSucceedAttack] Поглощает весь [AffectionTeddy] на цели\n- Если этот юнит выиграл Схватку, повышает Порог оглушения цели на (поглощенный [AffectionTeddy] x 10)"
                 }
               ]
             }
@@ -379,13 +379,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pin Down",
+          "name": "Пригвоздить",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration] и +2 [Laceration] счетчик"
                 }
               ]
             }
@@ -398,20 +398,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impaled Desire",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], Coin Power +1",
+          "name": "Пронзенное Желание",
+          "desc": "[WhenUse] Если у цели 4+ [Laceration], Сила монеты +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +3 [Laceration] счетчика"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 6 [Laceration]"
                 }
               ]
             }
@@ -424,13 +424,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repressed Desire",
-          "desc": "[WhenUse] If the target has 4+ [Laceration], Base Power +2",
+          "name": "Подавленное Желание",
+          "desc": "[WhenUse] Если у цели 4+ [Laceration], Базовая сила +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] Inflict [Laceration] Count equal to the [Laceration] Count the target lost during the Clash"
+                  "desc": "[WinDuelAttack] Наносит [Laceration] счетчик, равный потерянному целью счетчику [Laceration] во время Столкновения"
                 }
               ]
             },
@@ -438,10 +438,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 10 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Наносит 2 [ScarletTakeDamageUp] на следующий ход"
                 }
               ]
             }
@@ -454,8 +454,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Shield HP +10 for every 4 [Laceration] on the target (max 30)",
+          "name": "Защита",
+          "desc": "[WhenUse] Щит ОЗ +10 за каждые 4 [Laceration] на цели (макс. 30)",
           "coinlist": [
             {
               "coindescs": [
@@ -473,23 +473,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Grinding",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Перемалывание",
+          "desc": "[WhenUse] Получает +2 [Breath] счетчика",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
                 }
               ]
             }
@@ -502,24 +502,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crush",
-          "desc": "[WhenUse] Gain 5 [Breath]",
+          "name": "Сокрушение",
+          "desc": "[WhenUse] Получает 5 [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Получает +2 [Breath] счетчика"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Наносит 2 [IndigoTakeDamageUp] на следующий ход"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[CriticalOnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
                 }
               ]
             }
@@ -532,16 +532,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prideful Crush",
-          "desc": "[WhenUse] At 5+ [Breath], Coin Power +2",
+          "name": "Горделивое Сокрушение",
+          "desc": "[WhenUse] При 5+ [Breath], Сила монеты +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [Breath] and +3 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Получает 4 [Breath] и +3 [Breath] счетчика"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +100% more damage"
+                  "desc": "[CriticalOnSucceedAttack] Наносит на +100% больше урона"
                 }
               ]
             }
@@ -554,16 +554,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
-          "desc": "[WhenUse] At 6+ [Breath], Coin Power +2",
+          "name": "Контратака",
+          "desc": "[WhenUse] При 6+ [Breath], Сила монеты +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +50% more damage"
+                  "desc": "[CriticalOnSucceedAttack] Наносит на +50% больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count next turn"
+                  "desc": "[OnSucceedAttack] Получает +2 [Breath] счетчика на следующий ход"
                 }
               ]
             }
@@ -576,20 +576,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Topple",
-          "desc": "[WhenUse] Consume 10 [BloodDinner]: gain 1 [BloodArmor]\n[WhenUse] Coin Power +1 for every 10 [BloodArmor] (max 2)\n[WhenUse] Coin Power +1 for every 15 [Laceration] on self (max 3)",
+          "name": "Опрокидывание",
+          "desc": "[WhenUse] Поглощает 10 [BloodDinner]: получает 1 [BloodArmor]\n[WhenUse] Сила монеты +1 за каждые 10 [BloodArmor] (макс. 2)\n[WhenUse] Сила монеты +1 за каждые 15 [Laceration] на себе (макс. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 }
               ]
             }
@@ -602,20 +602,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wound",
-          "desc": "[WhenUse] Consume up to 20 [BloodDinner]: gain 1 [BloodArmor] for every 10 [BloodDinner] consumed\n[WhenUse] Coin Power +1 for every 10 [BloodArmor] (max 2)\n[WhenUse] Coin Power +1 for every 15 [Laceration] on self (max 3)",
+          "name": "Ранение",
+          "desc": "[WhenUse] Поглощает до 20 [BloodDinner]: получает 1 [BloodArmor] за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Сила монеты +1 за каждые 10 [BloodArmor] (макс. 2)\n[WhenUse] Сила монеты +1 за каждые 15 [Laceration] на себе (макс. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] счетчик"
                 }
               ]
             }
@@ -628,16 +628,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sanguine Joy",
-          "desc": "[WhenUse] Consume 4 [BloodArmor] to heal 10 SP\n[WhenUse] Consume 10 [BloodDinner] to gain 1 [BloodArmor] and heal 10 SP\n- If this unit failed to consume [BloodDinner], gain 3 [Laceration].",
+          "name": "Кровавая Радость",
+          "desc": "[WhenUse] Поглощает 4 [BloodArmor] для восстановления 10 СД\n[WhenUse] Поглощает 10 [BloodDinner] для получения 1 [BloodArmor] и восстановления 10 СД\n- Если не удалось поглотить [BloodDinner], получает 3 [Laceration].",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every [Laceration] on the target (max 100%)"
+                  "desc": "[OnSucceedAttack] Наносит +10% дополнительного урона за каждый [Laceration] на цели (макс. 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 [Laceration] счетчик"
                 }
               ]
             }
@@ -650,8 +650,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ecstasy of Blood",
-          "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] If there are enemies with [Laceration], activate [Laceration] on all enemies. All enemies lose 2 [Laceration] Count\n[WhenUse] If this effect did not activate at Combat Start, gain 30 [Laceration].\n[WinDuel] Consume up to 40 [BloodDinner]: for every 10 [BloodDinner] consumed, gain 1 [BloodArmor] and deal +25% more damage (max 100%)\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count\n[EndSkill] End Combat Phase",
+          "name": "Экстаз Крови",
+          "desc": "Может вступать в Столкновение этим Навыком независимо от Скорости\n[StartBattle] Если есть враги с [Laceration], активирует [Laceration] на всех врагах. Все враги теряют 2 счетчика [Laceration]\n[WhenUse] Если этот эффект не активировался в начале боя, получает 30 [Laceration]\n[WinDuel] Поглощает до 40 [BloodDinner]: за каждые 10 поглощенных [BloodDinner], получает 1 [BloodArmor] и наносит +25% больше урона (макс. 100%)\n- Если не удалось поглотить [BloodDinner], получает 5 [Laceration] и активирует [Laceration] немедленно. Теряет 2 счетчика [Laceration]\n[EndSkill] Завершает Фазу Боя",
           "coinlist": [
             {
               "coindescs": [
@@ -659,7 +659,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +2 счетчика [Laceration]"
                 }
               ]
             },
@@ -669,7 +669,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +2 счетчика [Laceration]"
                 }
               ]
             },
@@ -689,20 +689,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 4 - Sundering",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WinDuel] With this Skill, deal +20% more damage with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to gain 20 Shield HP",
+          "name": "Искусство Застывшей Крови Дон Кихота 4 - Рассечение",
+          "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила Монеты +1\n[WinDuel] С этим Навыком наносит +20% больше урона за каждую стадию [BloodArmor] (макс. 60%)\n[DefeatDuel] Поглощает 4 [BloodArmor] чтобы получить 20 Защитных ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration]"
                 }
               ]
             }
@@ -715,27 +715,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 11 - Impaling",
-          "desc": "[WhenUse] Base Power +1 for every 3 [Laceration] on the target (max 3)\n[WinDuel] With this Skill, deal +20% more damage with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to gain 20 Shield HP",
+          "name": "Искусство Застывшей Крови Дон Кихота 11 - Пронзание",
+          "desc": "[WhenUse] Базовая Сила +1 за каждые 3 [Laceration] на цели (макс. 3)\n[WinDuel] С этим Навыком наносит +20% больше урона за каждую стадию [BloodArmor] (макс. 60%)\n[DefeatDuel] Поглощает 4 [BloodArmor] чтобы получить 20 Защитных ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on the target equal to its Count. Use up the target's [Laceration] Count down to 1"
+                  "desc": "[OnSucceedAttack] Активирует [Laceration] на цели равное её счетчику. Использует счетчик [Laceration] цели до 1"
                 }
               ]
             }
@@ -748,8 +748,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 2 - Armadura de Sangre",
-          "desc": "Can Clash with this Skill regardless of Speed\n[StartBattle] Consume 200 [BloodDinner], gain 500 Shield HP, 5 [BloodArmor], and 1 [SwirlingBlood]\n- If this unit doesn't have enough [BloodDinner], gain 50 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count. Gain 500 Shield HP and 1 [SwirlingBlood] (this damage does not reduce this unit's HP to 1)\n[WinDuel] Gain 200 Shield HP\n[DefeatDuel] Gain 3 [Vulnerable] as long as the Shield gained due to this Skill is active\n[DefeatDuel] Deal -50% less damage, and the damage from this Skill does not Stagger the target\n[EndSkill] End Combat Phase",
+          "name": "Искусство Застывшей Крови Дон Кихота 2 - Армадура де Сангре",
+          "desc": "Может вступать в Столкновение этим Навыком независимо от Скорости\n[StartBattle] Поглощает 200 [BloodDinner], получает 500 Защитных ОЗ, 5 [BloodArmor] и 1 [SwirlingBlood]\n- Если у этого юнита недостаточно [BloodDinner], получает 50 [Laceration] и активирует [Laceration] немедленно. Теряет 2 счетчика [Laceration]. Получает 500 Защитных ОЗ и 1 [SwirlingBlood] (этот урон не снижает ОЗ этого юнита ниже 1)\n[WinDuel] Получает 200 Защитных ОЗ\n[DefeatDuel] Получает 3 [Vulnerable], пока активен Щит, полученный благодаря этому Навыку\n[DefeatDuel] Наносит на 50% меньше урона, и урон от этого Навыка не Оглушает цель\n[EndSkill] Завершает Фазу Боя",
           "coinlist": [
             {
               "coindescs": [
@@ -778,7 +778,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 5 [Laceration] и +3 счетчика [Laceration]"
                 }
               ]
             }
@@ -791,20 +791,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Don Quixote Style: Sancho Arts 4 - Track",
-          "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], gain Atk Weight +2 and Clash Power +3\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [BloodArmor] and Coin Power +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count\n[EndSkill] Increase [BloodDinner] equal to the damage this Skill dealt",
+          "name": "Вариант Стиля Дон Кихота: Искусство Санчо 4 - Выслеживание",
+          "desc": "Приоритет целей с наибольшим количеством [Laceration]\n[BeforeAttack] Если цель имеет наибольшее количество [Laceration], получает Кол-во целей +2 и Силу Столкновения +3\n[WhenUse] Поглощает до 30 [BloodDinner]: получает 1 [BloodArmor] и Силу Монеты +1 за каждые 15 поглощенных [BloodDinner] (макс. 2)\n- Если не удалось поглотить [BloodDinner], получает 10 [Laceration] и активирует [Laceration] немедленно. Теряет 2 счетчика [Laceration]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного этим Навыком урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 8 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn\n- If this Skill consumed 30 [BloodDinner], inflict 2 additional [Binding]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Binding] на следующий ход\n- Если этот Навык поглотил 30 [BloodDinner], наносит 2 дополнительных [Binding]"
                 }
               ]
             }
@@ -817,27 +817,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
-          "desc": "Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], gain Atk Weight +2 and Clash Power +3\n[WhenUse] Consume up to 50 [BloodDinner]: gain 1 [BloodArmor] and Base Power +1 for every 10 [BloodDinner] consumed (max 5)\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration], and activate [Laceration] immediately. Lose 1 [Laceration] Count\n[EndSkill] Increase [BloodDinner] equal to the damage this Skill dealt",
+          "name": "Вариант Стиля Дон Кихота: Искусство Санчо 3 - Засада",
+          "desc": "Приоритет целей с наибольшим количеством [Laceration]\n[BeforeAttack] Если цель имеет наибольшее количество [Laceration], получает Кол-во целей +2 и Силу Столкновения +3\n[WhenUse] Поглощает до 50 [BloodDinner]: получает 1 [BloodArmor] и Базовую Силу +1 за каждые 10 поглощенных [BloodDinner] (макс. 5)\n- Если не удалось поглотить [BloodDinner], получает 10 [Laceration] и активирует [Laceration] немедленно. Теряет 1 счетчик [Laceration]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесенного этим Навыком урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn\n- If this Skill consumed 50 [BloodDinner], inflict 2 additional [Paralysis]"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Paralysis] на следующий ход\n- Если этот Навык поглотил 50 [BloodDinner], наносит 2 дополнительных [Paralysis]"
                 }
               ]
             }
@@ -850,8 +850,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Variant Don Quixote Style: Sancho Arts 2 - La Sangre",
-          "desc": "Can Clash with this Skill regardless of Speed\n[WhenUse] Consume 50 [BloodDinner] to inflict 1 [Paralysis] against the target and self\n[WhenUse] Consume 100 [BloodDinner] to gain Clash Power +5\n- If there isn't enough [BloodDinner], consume 100 HP from this unit to gain Clash Power +5\n[EndSkill] End Combat Phase",
+          "name": "Вариант Стиля Дон Кихота: Искусство Санчо 2 - Ла Сангре",
+          "desc": "Может вступать в Столкновение этим Навыком независимо от Скорости\n[WhenUse] Поглощает 50 [BloodDinner] чтобы нанести 1 [Paralysis] цели и себе\n[WhenUse] Поглощает 100 [BloodDinner] чтобы получить Силу Столкновения +5\n- Если недостаточно [BloodDinner], поглощает 100 ОЗ этого юнита чтобы получить Силу Столкновения +5\n[EndSkill] Завершает Фазу Боя",
           "coinlist": [
             {
               "coindescs": [
@@ -859,10 +859,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Наносит 8 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Heal by damage dealt"
+                  "desc": "[OnSucceedAttackHead] Исцеляется на количество нанесённого урона"
                 }
               ]
             }
@@ -875,8 +875,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "La Aventura Ha Terminado",
-          "desc": "[StartBattle] Consume (45 - current SP) [BloodDinner] to heal up to 45 SP\n- If there isn't enough [BloodDinner], consume up to (45 - current SP) HP to heal up to 45 SP (this damage does not lower this unit's HP below 1)\n- Gain Shield HP equal to the remaining [BloodDinner] (max 100)\n[WinDuel] Inflict 10 [Laceration]\n[DefeatDuel] Consume 100 [BloodDinner]\n[EndSkill] Increase [BloodDinner] equal to the damage dealt",
+          "name": "Ла Авентура Ха Терминадо",
+          "desc": "[StartBattle] Поглощает (45 - текущее СД) [BloodDinner] чтобы восстановить до 45 СД\n- Если недостаточно [BloodDinner], поглощает до (45 - текущее СД) ОЗ чтобы восстановить до 45 СД (этот урон не снижает ОЗ этого юнита ниже 1)\n- Получает Защитные ОЗ равные оставшимся [BloodDinner] (макс. 100)\n[WinDuel] Наносит 10 [Laceration]\n[DefeatDuel] Поглощает 100 [BloodDinner]\n[EndSkill] Увеличивает [BloodDinner] на количество нанесённого урона",
           "coinlist": [
             {
               "coindescs": [
@@ -884,13 +884,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every [Laceration] on the target (max 200%)"
+                  "desc": "[OnSucceedAttack] Наносит +10% больше урона за каждый [Laceration] на цели (макс. 200%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +10% more damage for every [BloodDinner] (max 100%)"
+                  "desc": "[OnSucceedAttack] Наносит +10% больше урона за каждый [BloodDinner] (макс. 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 счетчика [Laceration]"
                 }
               ]
             }
@@ -903,20 +903,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keeehhhhnnhhh",
-          "desc": "[WhenUse] Gain 3 [DefenseUp]\n[DefeatDuel] Gain 3 [DefenseUp]",
+          "name": "Кхххххннннххх",
+          "desc": "[WhenUse] Получает 3 [DefenseUp]\n[DefeatDuel] Получает 3 [DefenseUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [DefenseUp] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [DefenseUp] на следующий ход"
                 }
               ]
             }
@@ -929,27 +929,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knnhgh nhhnnh",
-          "desc": "[WinDuel] Inflict 1 [Binding] next turn\n[WhenUse] Base Power +1 for every 4 [DefenseUp] on self (max 2)\n[WhenUse] Gain 3 [DefenseUp]",
+          "name": "Кннхгх нххннх",
+          "desc": "[WinDuel] Наносит 1 [Binding] на следующий ход\n[WhenUse] Базовая Сила +1 за каждые 4 [DefenseUp] на себе (макс. 2)\n[WhenUse] Получает 3 [DefenseUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [DefenseUp] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [DefenseUp] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [DefenseUp] на следующий ход"
                 }
               ]
             }
@@ -962,15 +962,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knngghh",
-          "desc": "[StartBattle] Apply 3 [DefenseUp] to 1 ally, including this unit, with the least HP percentage\n[WhenUse] Base Power +1 for every 5 [DefenseUp] on self (max 4)",
+          "name": "Кннггхх",
+          "desc": "[StartBattle] Применяет 3 [DefenseUp] к 1 союзнику, включая этот юнит, с наименьшим процентом ОЗ\n[WhenUse] Базовая Сила +1 за каждые 5 [DefenseUp] на себе (макс. 4)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain Offense Level Up equal to [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Получает Повышение Уровня Атаки равное [DefenseUp] на следующий ход"
                 }
               ]
             }
@@ -983,8 +983,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knnh",
-          "desc": "[StartBattle] Gain 2 x ([DefenseUp] on self) Shield HP (max 20, 2 times per turn)",
+          "name": "Кннх",
+          "desc": "[StartBattle] Получает 2 х ([DefenseUp] на себе) Защитных ОЗ (макс. 20, 2 раза за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1002,13 +1002,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spiked Whip",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Clash Power +1",
+          "name": "Шипастый Кнут",
+          "desc": "[WhenUse] Если у цели 6+ [Burst], Сила столкновения +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst]"
                 }
               ]
             }
@@ -1021,20 +1021,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Whip Crack",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Удар Кнутом",
+          "desc": "[WhenUse] Если у цели 6+ [Burst], Сила монеты +1\n[WinDuel] Наносит +2 счетчика [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has less than 5 [Burst] Count, inflict +2 [Burst] Count\n- At 5+ [Burst] Count, inflict 2 [Burst] instead"
+                  "desc": "[OnSucceedAttack] Если у цели меньше 5 счетчиков [Burst], наносит +2 счетчика [Burst]\n- При 5+ счетчиках [Burst], наносит 2 [Burst] вместо этого"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has less than 5 [Burst] Count, inflict +2 [Burst] Count\n- At 5+ [Burst] Count, inflict 2 [Burst] instead"
+                  "desc": "[OnSucceedAttack] Если у цели меньше 5 счетчиков [Burst], наносит +2 счетчика [Burst]\n- При 5+ счетчиках [Burst], наносит 2 [Burst] вместо этого"
                 }
               ]
             }
@@ -1047,13 +1047,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strangling Crown of Thorns",
-          "desc": "Prioritizes targets with the lowest SP\n[WhenUse] If the target has 0- SP, Clash Power +3\n[WhenUse] Coin Power +1 for every 4 [Burst] on the target (max 3)",
+          "name": "Удушащая Корона из Шипов",
+          "desc": "Приоритет целей с наименьшим СД\n[WhenUse] Если у цели 0- СД, Сила столкновения +3\n[WhenUse] Сила монеты +1 за каждые 4 [Burst] на цели (макс. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 10 SP damage\n- If the target has 0- SP, deal 20 SP damage instead"
+                  "desc": "[OnSucceedAttack] Наносит 10 урона СД\n- Если у цели 0- СД, наносит 20 урона СД вместо этого"
                 }
               ]
             }
@@ -1066,27 +1066,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Withdraw Whip",
-          "desc": "Prioritizes targets with [ThornNoose]\nIf the target does not have [ThornNoose], deal -50% less damage",
+          "name": "Отвод Кнута",
+          "desc": "Приоритет целей с [ThornNoose]\nЕсли у цели нет [ThornNoose], наносит на -50% меньше урона",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]If the target has [ThornNoose], inflict 2 [Burst]\n- If the target has 10+ [Burst], inflict +2 [Burst] Count instead"
+                  "desc": "[OnSucceedAttack] Если у цели есть [ThornNoose], наносит 2 [Burst]\n- Если у цели 10+ [Burst], наносит +2 счетчика [Burst] вместо этого"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]If the target has [ThornNoose], inflict 2 [Burst]\n- If the target has 10+ [Burst], inflict +2 [Burst] Count instead"
+                  "desc": "[OnSucceedAttack] Если у цели есть [ThornNoose], наносит 2 [Burst]\n- Если у цели 10+ [Burst], наносит +2 счетчика [Burst] вместо этого"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]If the target has [ThornNoose], inflict 2 [Burst]\n- If the target has 10+ [Burst], inflict +2 [Burst] Count instead"
+                  "desc": "[OnSucceedAttack] Если у цели есть [ThornNoose], наносит 2 [Burst]\n- Если у цели 10+ [Burst], наносит +2 счетчика [Burst] вместо этого"
                 }
               ]
             },
@@ -1096,7 +1096,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [ThornNoose], deal +50% more damage"
+                  "desc": "[OnSucceedAttack] Если у цели есть [ThornNoose], наносит на +50% больше урона"
                 }
               ]
             }
@@ -1109,8 +1109,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Barbed Lasso",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's, Clash Power +5\n[WhenUse] Coin Power +1 for every 4 [Burst] on the target (max 2)\n[WhenUse] Gain Base Power by the number of targets with [ThornNoose]",
+          "name": "Колючее лассо",
+          "desc": "[WhenUse] Если скорость этого персонажа выше скорости цели, Сила столкновения +5\n[WhenUse] Сила монеты +1 за каждые 4 [Burst] на цели (макс. 2)\n[WhenUse] Получает базовую силу равную количеству целей с [ThornNoose]",
           "coinlist": [
             {},
             {},
@@ -1121,13 +1121,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst] и +2 счетчик [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered or has [ThornNoose], deal +30% more damage"
+                  "desc": "[OnSucceedAttack] Если цель Оглушена или имеет [ThornNoose], наносит на 30% больше урона"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Burst] Count on the target x 2) [Burst] against all enemies (max 10)"
+                  "desc": "[EnemyKill] Наносит (счетчик [Burst] на цели x 2) [Burst] всем врагам (макс. 10)"
                 }
               ]
             }
@@ -1140,8 +1140,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Whip Wreath",
-          "desc": "[StartBattle] Gain (number of enemies with [ThornNoose])% of HP as Shield",
+          "name": "Венец кнута",
+          "desc": "[StartBattle] Получает (количество врагов с [ThornNoose])% от ОЗ в качестве Щита",
           "coinlist": [
             {
               "coindescs": [
@@ -1159,8 +1159,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Snaring Lasso",
-          "desc": "[StartBattle] If there are 3- enemies with [ThornNoose], inflict 1 [ThornNoose]",
+          "name": "Захватывающее лассо",
+          "desc": "[StartBattle] Если есть 3 или меньше врагов с [ThornNoose], наносит 1 [ThornNoose]",
           "coinlist": [
             {
               "coindescs": [
@@ -1168,7 +1168,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчик [Burst]"
                 }
               ]
             }
@@ -1181,13 +1181,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thorns",
-          "desc": "[CantChangeTarget]\nPrioritizes targets with Barbed Lasso",
+          "name": "Шипы",
+          "desc": "[CantChangeTarget]\nПриоритет целей с Колючим лассо",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst] и +2 счетчик [Burst]"
                 }
               ]
             }
@@ -1200,20 +1200,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gracefully...",
-          "desc": "[WhenUse] If the target has 6+ [Laceration], Coin Power +1",
+          "name": "Изящно...",
+          "desc": "[WhenUse] Если у цели 6+ [Laceration], Сила монеты +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration]"
                 }
               ]
             }
@@ -1226,8 +1226,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Infinite Parade",
-          "desc": "[CantDuel]\nIf the target used a Defense Skill, deal -100% less damage\n[WhenUse] Generate 1 Gondola next turn",
+          "name": "Бесконечный парад",
+          "desc": "[CantDuel]\nЕсли цель использовала защитный навык, наносит на 100% меньше урона\n[WhenUse] Создает 1 Гондолу на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1243,8 +1243,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Eternal Festival",
-          "desc": "[CantDuel]\nIf the target used a Defense Skill, deal -100% less damage\n[WhenUse] Generate 4 Gondola next turn",
+          "name": "Вечный фестиваль",
+          "desc": "[CantDuel]\nЕсли цель использовала защитный навык, наносит на 100% меньше урона\n[WhenUse] Создает 4 Гондолы на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1275,8 +1275,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "LETMEOUT!!!LETMEOUT!!!",
-          "desc": "Uses a self-detonating Skill next turn.",
+          "name": "ВЫПУСТИТЕ!!!ВЫПУСТИТЕ!!!",
+          "desc": "Использует Навык самоуничтожения на следующий ход.",
           "coinlist": [
             {
               "coindescs": [
@@ -1292,13 +1292,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "IT'S ABOUT TO BLOW!!!!!",
-          "desc": "[CantDuel]\n[StartBattle] Gain 3 Fragile",
+          "name": "СЕЙЧААС ВЗОРВЁТСЯ!!!!!",
+          "desc": "[CantDuel]\n[StartBattle] Получает 3 Уязвимости",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Deal 10 Lust damage against the target, then expires"
+                  "desc": "[EndCoin] Наносит 10 урона Похоти против цели, затем истекает"
                 }
               ]
             }
@@ -1311,13 +1311,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Fanfare!",
+          "name": "Фанфары!",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Deal 10 Lust damage against the target, then dies."
+                  "desc": "[EndCoin] Наносит 10 урона Похоти по цели, затем умирает."
                 }
               ]
             }
@@ -1330,20 +1330,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Burning Thirst",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on the target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed\n[DefeatDuel] Lose 3 SP",
+          "name": "Жгучая Жажда",
+          "desc": "[WhenUse] Базовая Сила +1 за каждые 5 [Laceration] на цели (макс. 3)\n[WhenUse] Поглощает до 30 [BloodDinner]: получает 1 [RegainedStrength] за каждые 10 [BloodDinner] поглощенные\n[DefeatDuel] Теряет 3 СД",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 }
               ]
             }
@@ -1356,20 +1356,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
-          "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP\n[DefeatDuel] Consume 3 [RegainedStrength]. Gain 3 [DefenseDown] next turn",
+          "name": "Будь Проткнут",
+          "desc": "[WhenUse] Поглощает до 40 [BloodDinner]: получает 1 [RegainedStrength] и исцеляет 3 СД за каждые 10 [BloodDinner] поглощенные\n\n[DefeatDuel] Теряет 3 СД\n[DefeatDuel] Поглощает 3 [RegainedStrength]. Получает 3 [DefenseDown] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to 20% of the target's max HP"
+                  "desc": "[OnSucceedAttack] Наносит урон Похоти равный 20% от максимального здоровья Цели"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to 20% of the target's max HP"
+                  "desc": "[OnSucceedAttack] Наносит урон Похоти равный 20% от максимального здоровья Цели"
                 }
               ]
             }
@@ -1382,33 +1382,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 2 - Stake",
-          "desc": "Attacks the target with the most [Laceration]\n[WhenUse] Coin Power +1 for every 5 [Laceration] on the target (max 2)",
+          "name": "Искусство Застывшей Крови Дон Кихота 2 - Прокол",
+          "desc": "Атакует цель с наибольшим кол-во [Laceration]\n[WhenUse] Сила Монет +1 за каждые 5 [Laceration] на цели (макс. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal Lust damage equal to ([Laceration] Potency x Count)"
+                  "desc": "[OnSucceedAttack] Наносит урон Похоти равный ([Laceration] Потенциал x Счетчик)"
                 }
               ]
             }
@@ -1421,8 +1421,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hardblood Wedge",
-          "desc": "[StartBattle] Gain Atk Weight +1 for every 3 [RegainedStrength] on self (max 2)\n[EndSkill] Consume 3 [RegainedStrength]",
+          "name": "Клин Застывшей Крови",
+          "desc": "[StartBattle] Получает +1 Кол-во Целей за каждые 3 [RegainedStrength] на себе (макс. 2)\n[EndSkill] Поглощает 3 [RegainedStrength]",
           "coinlist": [
             {
               "coindescs": [
@@ -1430,13 +1430,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 3 [Burst]"
+                  "desc": "[WinDuelAttack] Наносит 3 [Burst]"
                 },
                 {
-                  "desc": "[DefeatDuelAttack] Consume 1 [RegainedStrength]"
+                  "desc": "[DefeatDuelAttack] Поглощает 1 [RegainedStrength]"
                 }
               ]
             },
@@ -1446,20 +1446,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 3 [Burst]"
+                  "desc": "[WinDuelAttack] Наносит 3 [Burst]"
                 },
                 {
-                  "desc": "[DefeatDuelAttack] Consume 1 [RegainedStrength]"
+                  "desc": "[DefeatDuelAttack] Поглощает 1 [RegainedStrength]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 3 [Laceration]"
                 }
               ]
             }
@@ -1472,8 +1472,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Desire for Blood",
-          "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed",
+          "name": "Жажда Крови",
+          "desc": "[WhenUse] Поглощает до 40 [BloodDinner]: получает 1 [RegainedStrength] за каждые 10 потраченных [BloodDinner]",
           "coinlist": [
             {
               "coindescs": [
@@ -1481,7 +1481,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Laceration]"
                 }
               ]
             },
@@ -1491,7 +1491,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Laceration]"
                 }
               ]
             },
@@ -1501,7 +1501,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Laceration]"
                 }
               ]
             },
@@ -1511,7 +1511,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 4 [Laceration]"
                 }
               ]
             }
@@ -1524,8 +1524,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moment of Bloodfeast",
-          "desc": "[CantIdentify]\n[WhenUse] Consume up to 300 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit consumed [BloodDinner], heal 30 SP",
+          "name": "Момент Кровавого Пира",
+          "desc": "[CantIdentify]\n[WhenUse] Поглощает до 300 [BloodDinner]: получает 1 [RegainedStrength] и исцеляет 3 СД за каждые 10 поглощенных [BloodDinner] \n[WhenUse] Если этот юнит поглотит [BloodDinner], исцеляет 30 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -1543,8 +1543,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 4 - Sundering",
-          "desc": "Cannot be Staggered until he uses this Skill.\n[WhenUse] Consume up to 100 [BloodDinner]: gain 1 [RegainedStrength] and heal 15 SP for every 10 [BloodDinner] consumed\n[WhenUse] Clash Power +1 for every [BloodDinner_Accumulation] by this unit (max 15)\n[DefeatDuel] Deal -50% less damage, and the damage from this Skill does not Stagger the target.\n[EndSkill] For this turn and next turn, gain [AttackDown] and [DefenseDown] equal to the Clash Power gained with this Skill. (max 15)",
+          "name": "Искусство Застывшей Крови Дон Кихота 4 - Разрывание",
+          "desc": "Не может быть оглушен, пока не использует Навык.\n[WhenUse] Поглощает до 100 [BloodDinner]: получает 1 [RegainedStrength] и исцеляет 15 СД за каждые 10 поглощенных [BloodDinner]\n[WhenUse] Сила в Столкновении +1 за каждые [BloodDinner_Accumulation] этим юнитом (макс. 15)\n[DefeatDuel] Наносит на -50% меньше урона, и наносимый урон от этого Навыка не может оглушить Цель.\n[EndSkill] На этот и следующий ход, получает [AttackDown] и [DefenseDown] равное Силе в Столкновении полученное этим Навыком. (макс. 15)",
           "coinlist": [
             {
               "coindescs": [
@@ -1552,10 +1552,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 8 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 2 [RegainedStrength]"
+                  "desc": "[OnSucceedAttack] Поглощает 2 [RegainedStrength]"
                 }
               ]
             }
@@ -1568,8 +1568,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don Quixote Hardblood Arts 14: Mantle",
-          "desc": "[DuelGuard]\n[WinDuel] Inflict 4 [Laceration] and [Burst]\n[DefeatDuel] Consume 2 [RegainedStrength]",
+          "name": "Искусство Застывшей Крови Дон Кихота 14: Покров",
+          "desc": "[DuelGuard]\n[WinDuel] Наносит 4 [Laceration] и [Burst]\n[DefeatDuel] Поглощает 2 [RegainedStrength]",
           "coinlist": [
             {
               "coindescs": [
@@ -1587,20 +1587,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Frail, So Frail",
-          "desc": "[DuelCounter]\nBase Power +1 for every 10 [RegainedStrength]\nCoin Power +1 for every 5 [Laceration] on the target (max 2)\n[DefeatDuel] Lose 3 SP",
+          "name": "Хрупкие, такие Хрупкие",
+          "desc": "[DuelCounter]\nБазовая Сила +1 за каждые 10 [RegainedStrength]\nСила Монет +1 за каждые 5 [Laceration] на цели (макс. 2)\n[DefeatDuel] Теряет 3 СД",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration] and +2 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration] and +2 счетчика [Laceration]"
                 }
               ]
             }
@@ -1613,34 +1613,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bloody-Merry-Go-Round",
-          "desc": "[CantDuel]\n[WhenUse] Generate Coagulated Dream next turn",
+          "name": "Кровавая-Карусель",
+          "desc": "[CantDuel]\n[WhenUse] Создает Свернувшуюся Мечту на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Наносит 2 [Laceration]"
                 }
               ]
             }
@@ -1653,8 +1653,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Impaled",
-          "desc": "[DefeatDuel] Lose 3 SP",
+          "name": "Будь Проткнут",
+          "desc": "[DefeatDuel] Теряет 3 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -1667,10 +1667,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] next turn"
+                  "desc": "[OnSucceedAttack] Цель становится оглушенной, затем становится [Penetration] на следующий ход"
                 },
                 {
-                  "desc": "[EndCoin] The target loses 25 [Laceration] Potency. Gain [Laceration] and increase [BloodDinner] equal to that value"
+                  "desc": "[EndCoin] Цель теряет 25 потенциала [Laceration]. Получает [Laceration] и увеличивает [BloodDinner] равное этому значению"
                 }
               ]
             }
@@ -1683,8 +1683,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Don Quixote Hardblood Arts - The Sphere",
-          "desc": "Cannot be Staggered until he uses this Skill.\nDeal more damage equal to [BloodDinner_Common_Accumulation]. (max 300%)\n[WhenUse] Heal 30 SP\n[WhenUse] Clash Power +1 for every 10 [RegainedStrength]\n[EndSkill] Consume all [RegainedStrength]. Gain 5 [Vulnerable] this turn and next turn. Gain 2 [Binding] next turn.",
+          "name": "Высшее Искусство Застывшей Крови Дон Кихота - Сфера",
+          "desc": "Не может быть оглушен, пока не использует Навык.\nНаносит больше урона равное [BloodDinner_Common_Accumulation]. (макс. 300%)\n[WhenUse] Исцеляет 30 СД\n[WhenUse] Сила в Столкновении +1 за каждые 10 [RegainedStrength]\n[EndSkill] Поглощает все [RegainedStrength]. Получает 5 [Vulnerable] на этот и следующий ход. Получает 2 [Binding] на следующий ход.",
           "coinlist": [
             {
               "coindescs": [
@@ -1709,8 +1709,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ksssh",
-          "desc": "[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count",
+          "name": "Кшшшх",
+          "desc": "[WhenUse] Наносит [DuelDeclaration_Camille]\n[WhenUse] Получает 5 [Breath]\n[WinDuel] Получает +2 счетчика [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1728,26 +1728,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hnnnhhhhhh",
-          "desc": "[WhenUse] Gain 2 [Breath]",
+          "name": "Хнннхххх",
+          "desc": "[WhenUse] Получает 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Получает +2 счетчика [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] При 7+ скорости, Наносит 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] При 7+ скорости, Наносит 3 [Burst]"
                 }
               ]
             }
@@ -1760,19 +1760,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kihh",
-          "desc": "[WhenUse] At 7+ [Breath], Coin Power +2\n[WinDuel] Gain +2 [Breath] Count",
+          "name": "Кихх",
+          "desc": "[WhenUse] Прии 7+ [Breath], Сила Монет +2\n[WinDuel] Получает +2 счетчика [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 3 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] При 7+ скорости, Наносит 3 счетчика [Burst]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] +50% Damage on Critical Hit"
+                  "desc": "[CriticalOnSucceedAttack] +50% урона при Критическом Ударе"
                 }
               ]
             }
@@ -1785,46 +1785,46 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ksssh",
-          "desc": "[WhenUse] If this unit's Speed is higher than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)",
+          "name": "Ксшшх",
+          "desc": "[WhenUse] Если скорость этого юнита выше, чем у цели, Сила Монет +1 (Сила Монет +1 за каждые 2 единицы разницы в Скорости; макс. 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Получает +4 счетчика [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] При 7+ Скорости, Наносит 3 [Burst] и +1 счетчика [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] При 7+ Скорости, Наносит 3 [Burst] и +1 счетчика [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 5 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 5 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] При 7+ Скорости, Наносит 3 [Burst] и +1 счетчика [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +100% Damage on Critical Hit"
+                  "desc": "[CriticalOnSucceedAttack] +100% урона при Критическом Ударе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage for every [Burst] on the target (Max 50%)"
+                  "desc": "[OnSucceedAttack] Наносит +5% урона за каждый [Burst] на цели (Макс. 50%)"
                 }
               ]
             }
@@ -1837,13 +1837,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knnh",
-          "desc": "[WinDuel] Deal more damage based on number of Clashes (+10% more damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn",
+          "name": "Кннх",
+          "desc": "[WinDuel] Наносит больше урона в зависимости от числа Столкновений (+10% больше урона за каждое Столкновение, макс. 50%)\n[WinDuel] Получает 2 [Agility] на следующий ход\n[DefeatDuel] Получает 2 [Binding] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable] на следующий ход"
                 }
               ]
             }
@@ -1856,8 +1856,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knhhh",
-          "desc": "[OnSucceedEvade] Gain 1 [Agility] next turn",
+          "name": "Кнххх",
+          "desc": "[OnSucceedEvade] Получает 1 [Agility] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -1875,7 +1875,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Don Quixote Hardblood Arts - La Sangre",
+          "name": "Высшее Искусство Застывшей Крови Дон Кихота - Ла Сангре",
           "desc": "",
           "coinlist": [
             {
@@ -1892,8 +1892,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shining Memories of the Adventure",
-          "desc": "[StartBattle] Apply 1 [ParryingResultUp] and 1 [AttackDmgUp] to a random Sinner\n[StartBattle] Inflict 1 [Vulnerable] against both Don Quixote and his Coagulated Dream",
+          "name": "Сияющие Воспоминания о Приключении",
+          "desc": "[StartBattle] Накладывает 1 [ParryingResultUp] и 1 [AttackDmgUp] на случайного Грешника\n[StartBattle] Наносит 1 [Vulnerable] на обоих Дон Кихота и его Свернувшихся Мечт",
           "coinlist": [
             {
               "coindescs": [
