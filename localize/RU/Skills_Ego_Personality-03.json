@@ -351,7 +351,7 @@
           "level": 4,
           "name": "Жаждущая - Миркалла",
           "abName": "Четыре сотни Роз",
-          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\n<style=\"highlight\">Сила Монет +1 за каждые 10 [Laceration] on the target (макс. 2)</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">5</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">100</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
+          "desc": "ОЗ этого Грешника не может упасть ниже 1 при использовании этого ЭГО.\n<style=\"highlight\">Сила Монет +1 за каждые 10 [Laceration] на цели (макс. 2)</style>\nСила в Столкновении +1 за каждые 100 [BloodDinner_Accumulation] этим Грешником (макс. <style=\"highlight\">5</style>)\n[BeforeAttack] При значении меньше <style=\"highlight\">100</style> [BloodDinner], наносит 1 [Laceration] за каждый Удар\n[EndSkill] На 3 хода, теряет 10 СД в Конце Хода.",
           "coinlist": [
             {
               "coindescs": [
