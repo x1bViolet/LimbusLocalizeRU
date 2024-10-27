@@ -2,255 +2,255 @@
     "dataList": [
         {
             "id": 837804,
-            "name": "Starved and Withered",
-            "desc": "Gain [StarvingPriestTwo] at the start of the Encounter"
+            "name": "Изголодавший и Иссохший",
+            "desc": "Получает [StarvingPriestTwo] в начале Столкновения"
         },
         {
             "id": 837801,
-            "name": "Unctio Extrema",
-            "desc": "Turn End: activate [Laceration] on self. (max 50; consume 1 [Laceration] Count on self) Heal 50 HP to Core and Part of an allied Bloodfiend with the least HP (does not activate if all allies are at full HP)"
+            "name": "Унктио Экстрема",
+            "desc": "Конец хода: активирует [Laceration] на себе (максимум 50; потребляет 1 счетчик [Laceration] на себе). Восстанавливает 50 ОЗ Ядру и Части союзного Кровожадного с наименьшим ОЗ (не активируется, если все союзники имеют полное ОЗ)"
         },
         {
             "id": 837802,
-            "name": "Sacramentum Paenitentiae",
-            "desc": "Turn End: lose 5 SP and heal 10 SP for an allied Bloodfiend with the least SP (does not activate if there aren't any allies with SP)"
+            "name": "Сакраментум Паэнитентиае",
+            "desc": "Конец хода: теряет 5 СД и восстанавливает 10 СД союзному Кровожадному с наименьшим СД (не активируется, если нет союзников с СД)"
         },
         {
             "id": 837803,
-            "name": "Ailing Heart",
-            "desc": "Gains new patterns based on [WornHeart] value on self\nTurn End: gain 1 [WornHeart]"
+            "name": "Больное Сердце",
+            "desc": "Получает новые паттерны на основе значения [WornHeart] на себе\nКонец хода: получает 1 [WornHeart]"
         },
         {
             "id": 837805,
-            "name": "Bloodied Hand",
-            "desc": "- At 10+ [BloodyHand], convert them to [BloodyHand_2nd].\n- At 20+ [BloodyHand_2nd], convert them to [BloodyHand_3rd]."
+            "name": "Окровавленная Рука",
+            "desc": "- При 10+ [BloodyHand], конвертирует их в [BloodyHand_2nd].\n- При 20+ [BloodyHand_2nd], конвертирует их в [BloodyHand_3rd]."
         },
         {
             "id": 837901,
-            "name": "The Once-loved Ones",
-            "desc": "Turn Start: if all enemies have [AffectionTeddy], use a powerful Skill"
+            "name": "Некогда Любимые",
+            "desc": "Начало Хода: если все враги имеют [AffectionTeddy], использует мощный Навык"
         },
         {
             "id": 837902,
-            "name": "Grimy Iron Stake",
-            "desc": "When hitting an enemy using a single-Coin Skill, inflict 3 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration], inflict 5 [Laceration] Potency instead"
+            "name": "Грязный Железный Кол",
+            "desc": "При попадании по врагу с помощью Навыка с одной монетой наносит 3 потенциала [Laceration]. Наносит 2 [DefenseDown] до конца следующего хода.\nЕсли у цели уже есть [Laceration], вместо этого наносит 5 потенциала [Laceration]"
         },
         {
             "id": 837903,
-            "name": "To Remember",
-            "desc": "If this unit was Staggered due to the Turn End effect of A Sad Embrace, gain 10 [FaintMemory] at the next Turn Start"
+            "name": "Вспомнить",
+            "desc": "Если этот юнит был Оглушен из-за эффекта Конца хода 'Печальных Объятий', получает 10 [FaintMemory] в начале следующего хода"
         },
         {
             "id": 837904,
-            "name": "To Love",
-            "desc": "If at less than or equal to 30% HP at Turn End: instead of inflicting 3 [AffectionTeddy] to all enemies, gain 15 [AttackDown] next turn (once per Encounter)"
+            "name": "Любить",
+            "desc": "Если в Конце хода ОЗ меньше или равно 30%: вместо нанесения 3 [AffectionTeddy] всем врагам, получает 15 [AttackDown] на следующий ход (один раз за Столкновение)"
         },
         {
             "id": 837905,
-            "name": "Please Don't be Sick",
-            "desc": "Base Power -1 for every 3 types of negative effects on the target (max 3)"
+            "name": "Пожалуйста, Не Болей",
+            "desc": "Базовая сила -1 за каждые 3 типа негативных эффектов на цели (максимум 3)"
         },
         {
             "id": 837301,
-            "name": "Sin Resistance",
-            "desc": "Unless this unit is Staggered or Part Broken, take 50% less [Laceration] damage"
+            "name": "Сопротивление Греху",
+            "desc": "Если этот юнит не Оглушен или не сломана Часть, получает на 50% меньше урона от [Laceration]"
         },
         {
             "id": 837401,
-            "name": "Sin Resistance",
-            "desc": "Unless this unit is Staggered or Part Broken, take only half of Critical Damage."
+            "name": "Сопротивление Греху",
+            "desc": "Если этот юнит не Оглушен или не сломана Часть, получает только половину Критического Урона"
         },
         {
             "id": 837501,
-            "name": "Carmilla",
-            "desc": "Turn Start: to a random enemy, deal fixed damage equal to 5% of their HP."
+            "name": "Кармилла",
+            "desc": "Начало Хода: случайному врагу наносит фиксированный урон, равный 5% от их ОЗ"
         },
         {
             "id": 837502,
-            "name": "A Drop of Nourishment",
-            "desc": "After Attack: heal Core and Part equal to 50% of the damage this unit dealt with its Attack Skill\n- At 100% HP, gain 2 [AttackUp] next turn. (2 times max)\nBased on the percentage of HP healed, gain the following effects (cumulative)\n- At 1+ Stack: gain 3 Defense Level Up at every Turn Start\n- At 2+ Stack: gain 3 [AttackUp] at every Turn Start\n- At 3+ Stack: gain +2 Min & Max Speed\n- At 5+ Stack: gain 3 [Enhancement] at every Turn Start"
+            "name": "Капля Питания",
+            "desc": "После Атаки: восстанавливает Ядру и Части 50% от урона, нанесённого этим юнитом с помощью Навыка Атаки\n- При 100% ОЗ получает 2 [AttackUp] на следующий ход (максимум 2 раза)\nНа основе процента восстановленного ОЗ получает следующие эффекты (накапливаются)\n- При 1+ Стаке: получает 3 Повышения уровня защиты в начале каждого хода\n- При 2+ Стаках: получает 3 [AttackUp] в начале каждого хода\n- При 3+ Стаках: получает +2 к Мин. и Макс. Скорости\n- При 5+ Стаках: получает 3 [Enhancement] в начале каждого хода"
         },
         {
             "id": 837503,
-            "name": "A Single Strangling Flower",
-            "desc": "After Attack: inflict 1 [TinyCarmilla]\nIf the target has [Laceration], inflict 1 additional [TinyCarmilla] After Attack"
+            "name": "Единственный Удушающий Цветок",
+            "desc": "После Атаки: наносит 1 [TinyCarmilla]\nЕсли у цели есть [Laceration], наносит 1 дополнительный [TinyCarmilla] После Атаки"
         },
         {
             "id": 837601,
-            "name": "Spiked Whip",
-            "desc": "If the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count\nWhen inflicting [ThornNoose], generate a 'Barbed Lasso' Unit.",
-            "summary": "If the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count"
+            "name": "Шипованный Кнут",
+            "desc": "Если у цели есть [Burst] непосредственно перед атакой, 20% шанс нанести +1 счетчик [Burst]\nПри нанесении [ThornNoose], создаёт юнита 'Колючее Лассо'"
+            "summary": "Если у цели есть [Burst] непосредственно перед атакой, 20% шанс нанести +1 счетчик [Burst]"
         },
         {
             "id": 837602,
-            "name": "Bramble Steed",
-            "desc": "Gain Speed equal to the generated 'Barbed Lasso' Unit on the field"
+            "name": "Терновый Скакун",
+            "desc": "Получает Скорость, равную количеству созданных юнитов 'Колючее Лассо' на поле"
         },
         {
             "id": 837603,
-            "name": "Interlocking Brambles",
-            "desc": "At 40%- HP, gain a new pattern\nEvery turn, inflict [Burst] equal to each enemy's Speed against each enemy\nInflict 2 [ThornNoose] instead\nGain 2 [AttackUp] and [DefenseDown] with every passing turn (max 12)"
+            "name": "Переплетающиеся Шипы",
+            "desc": "При 40%- ОЗ получает новый паттерн\nКаждый ход наносит [Burst], равный Скорости каждого врага, против каждого врага\nВместо этого наносит 2 [ThornNoose]\nПолучает 2 [AttackUp] и [DefenseDown] с каждым проходящим ходом (максимум 12)"
         },
         {
             "id": 838006,
-            "name": "In Dreams",
-            "desc": "Encounter Start: gain [Dreamy].\nEncounter Start: the sleeping blood drenching the battlefield will surface, increasing [BloodDinner] by 400."
+            "name": "В Мечтах",
+            "desc": "Начало Столкновения: получает [Dreamy].\nНачало Столкновения: спящая кровь, пропитывающая поле боя, поднимется на поверхность, увеличивая [BloodDinner] на 400"
         },
         {
             "id": 838001,
-            "name": "The Enthralling Tales, the Beating Passion",
-            "desc": "Upong hitting 80%, 60%, and 40% HP, no longer take damage and gain a new pattern\nUpon gaining a new pattern, recover from Stagger and raise Speed to 10 next turn"
+            "name": "Захватывающие Истории, Бьющаяся Страсть",
+            "desc": "При достижении 80%, 60% и 40% ОЗ больше не получает урон и получает новый паттерн\nПри получении нового паттерна восстанавливается от Оглушения и повышает Скорость до 10 на следующий ход"
         },
         {
             "id": 838002,
-            "name": "If we can be freed from this excruciating sickness",
-            "desc": "On Hit, if the target has [Laceration], heal Part and Core by 40% of the HP damage dealt.\n- This Passive heals +1% more HP for every [Laceration] Potency on self (max 20%)\n- For Unbreakable Coins: this effect does not activate on Hit After Clash Lose.\nEvery Turn Start: heal ([BloodDinner]/10) HP. (max 50)\nEvery Turn Start: at -15 or less SP, consume (20 - current SP) [BloodDinner] to gain SP and gain 2 Clash Power Up\nOn Kill, gain 5 [BloodArmor]",
-            "summary": "On Hit, if the target has [Laceration], heal HP"
+            "name": "Если бы мы могли освободиться от этой мучительной болезни",
+            "desc": "При ударе, если у цели есть [Laceration], восстанавливает Части и Ядру 40% от нанесённого урона ОЗ.\n- Этот Пассив восстанавливает +1% ОЗ за каждый потенциал [Laceration] на себе (максимум 20%)\n- Для Нерушимых Монет: этот эффект не активируется при ударе После Проигрыша в Столкновении.\nКаждое Начало Хода: восстанавливает ([BloodDinner]/10) ОЗ (максимум 50)\nКаждое Начало Хода: при -15 или менее СД, потребляет (20 - текущее СД) [BloodDinner] для получения СД и получает 2 Повышения силы столкновения\nПри убийстве получает 5 [BloodArmor]"
+            "summary": "При ударе, если у цели есть [Laceration], восстанавливает ОЗ"
         },
         {
             "id": 838003,
-            "name": "Can I go on an adventure, too?",
-            "desc": "Turn End: for every 10% missing HP, gain 1 [AttackUp]. (max 5)\nTurn End: gain +1 Min & Max Speed for every 300 [BloodDinner]"
+            "name": "Могу ли я тоже отправиться в приключение?",
+            "desc": "Конец хода: за каждые 10% отсутствующего ОЗ получает 1 [AttackUp] (максимум 5)\nКонец хода: получает +1 к Мин. и Макс. Скорости за каждые 300 [BloodDinner]"
         },
         {
             "id": 838004,
-            "name": "Bloodfeast",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit.\nWhen this unit enters the field, the sleeping blood drenching the battlefield will flood the surface."
+            "name": "Кровавый Пир",
+            "desc": "Если этот юнит находится на поле или является одним из юнитов, которые могут появиться на этой Сцене, увеличивает значение [BloodDinner] на количество урона от [Laceration], полученного всеми юнитами вместе.\nКогда этот юнит выходит на поле, спящая кровь, пропитывающая поле боя, затопит поверхность"
         },
         {
             "id": 838005,
-            "name": "Armadura de Sangre",
-            "desc": "Combat Start: gain 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- At 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- At 20+ [BloodArmor], convert them to [BloodArmor_3rd].\nGain Min & Max Speed based on the Stage of this effect (max 2)\nIf this unit consumes [BloodArmor] and drops below the above thresholds, revert to previous Stages accordingly"
+            "name": "Армадура де Сангре",
+            "desc": "Начало Боя: получает 1 [BloodArmor]\n- [BloodArmor] не может упасть ниже 1\n- При 10+ [BloodArmor], конвертирует их в [BloodArmor_2nd]\n- При 20+ [BloodArmor], конвертирует их в [BloodArmor_3rd]\nПолучает Мин. и Макс. Скорость на основе Стадии этого эффекта (максимум 2)\nЕсли этот юнит потребляет [BloodArmor] и падает ниже указанных порогов, соответственно возвращается к предыдущим Стадиям"
         },
         {
             "id": 838007,
-            "name": "But I have my Father and my Family whom I cannot abandon",
-            "desc": "Turn End: If Panicked, recover from Panic, and consume 100 [BloodDinner] to gain 3 [Enhancement]\n- If this unit failed to consume [BloodDinner], gain 30 [Laceration], 3 [Enhancement], and 2 Damage Up"
+            "name": "Но у меня есть Отец и Семья, которых я не могу бросить",
+            "desc": "Конец хода: Если в Панике, восстанавливается от Паники и потребляет 100 [BloodDinner] для получения 3 [Enhancement]\n- Если этому юниту не удалось потребить [BloodDinner], получает 30 [Laceration], 3 [Enhancement] и 2 Повышения урона"
         },
         {
             "id": 837701,
-            "name": "Barbed Lasso ",
-            "desc": "When this unit dies, the [ThornNoose] of the enemy bound to this unit expires"
+            "name": "Колючее Лассо",
+            "desc": "Когда этот юнит погибает, [ThornNoose] врага, связанного с этим юнитом, истекает"
         },
         {
             "id": 839401,
-            "name": "Designated Protection",
-            "desc": "At Turn Start, apply 2 Defense Level Up to the ally who lost the most HP percentage between this Turn and last Turn"
+            "name": "Назначенная Защита",
+            "desc": "В Начало Хода применяет 2 Повышения уровня защиты к союзнику, который потерял наибольший процент ОЗ между этим Ходом и прошлым Ходом"
         },
         {
             "id": 840301,
-            "name": "Shattering, Scattering Hardblood",
-            "desc": "When this unit is killed due to enemy attack or Status effect damage, increase [BloodDinner] by 30, and increase E.G.O resource of a random Affinity by 2. Does not activate if this unit killed itself."
+            "name": "Разбивающаяся, Рассеивающаяся Затвердевшая Кровь",
+            "desc": "Когда этот юнит погибает из-за вражеской атаки или урона от Статусного эффекта, увеличивает [BloodDinner] на 30 и увеличивает ресурс Э.Г.О случайного Греха на 2. Не активируется, если этот юнит убил себя сам"
         },
         {
             "id": 840302,
-            "name": "This Explosive Insanity!",
-            "desc": "If this unit is still alive by Turn End, use the self-detonation Skill next turn. If this unit is still alive at the same Turn End as the turn this unit used the self-detonation Skill, dies."
+            "name": "Это Взрывное Безумие!",
+            "desc": "Если этот юнит всё ещё жив к Концу хода, использует Навык самодетонации на следующий ход. Если этот юнит всё ещё жив в тот же Конец хода, когда использовал Навык самодетонации, погибает"
         },
         {
             "id": 839001,
-            "name": "Fix Core HP to 1",
-            "desc": "Core HP does not drop below 1."
+            "name": "Фиксация ОЗ Ядра на 1",
+            "desc": "ОЗ Ядра не падает ниже 1"
         },
         {
             "id": 839002,
-            "name": "La Manchaland, Abandoned and Festering",
-            "desc": "Generates Gondolas filled with Bloodfiends and Bloodbags at a set interval. A certain number of Bloodfiends and Bloodbags may arrive to the field when when a Gondola is generated."
+            "name": "Ла-Манчалэнд, Заброшенный и Гниющий",
+            "desc": "Создаёт Гондолы, наполненные Кровожадными и Мешками Крови через определённые интервалы. Определённое количество Кровожадных и Мешков Крови может появиться на поле, когда создаётся Гондола"
         },
         {
             "id": 839003,
-            "name": "The Eternal Cycle of Windmills, Wheels, and Us",
-            "desc": "Cannot be attacked when there is a Gondola on the field.\nDoes not lose HP due to Skill damage. Does not take HP damage due to [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]."
+            "name": "Вечный Цикл Ветряных Мельниц, Колёс и Нас",
+            "desc": "Не может быть атакован, когда на поле есть Гондола.\nНе теряет ОЗ от урона Навыков. Не получает урон ОЗ от [Combustion], [Laceration], [Vibration], [Burst] или [Sinking]"
         },
         {
             "id": 839004,
-            "name": "Here we go... another lap.",
-            "desc": "If [FerrisWheel] is at 0 and there are no units to be spawned next turn at Turn End or during the combat phase, move on to the next phase."
+            "name": "Поехали... ещё один кружок.",
+            "desc": "Если [FerrisWheel] равен 0 и нет юнитов для появления на следующий ход в Конце хода или во время фазы боя, переходит к следующей фазе"
         },
         {
             "id": 839005,
-            "name": "Starved and Withered",
-            "desc": "Gain [StarvingDonqui] at the start of the Encounter"
+            "name": "Изголодавший и Иссохший",
+            "desc": "Получает [StarvingDonqui] в начале Столкновения"
         },
         {
             "id": 841001,
-            "name": "Returning Bloodlust",
-            "desc": "- At 10+ [RegainedStrength], convert them to [RegainedStrength_2nd].\n- At 20+ [RegainedStrength], convert them to [RegainedStrength_3rd].\n- If this unit consumes [RegainedStrength] and drops it below the above thresholds, revert to previous Stages accordingly"
+            "name": "Возвращающаяся Жажда Крови",
+            "desc": "- При 10+ [RegainedStrength], конвертирует их в [RegainedStrength_2nd].\n- При 20+ [RegainedStrength], конвертирует их в [RegainedStrength_3rd].\n- Если этот юнит потребляет [RegainedStrength] и опускает его ниже указанных порогов, соответственно возвращается к предыдущим Стадиям"
         },
         {
             "id": 841002,
-            "name": "Don Quixote Hardblood Arts",
-            "desc": "On Hit, if the target has [Laceration], heal this unit's Part & Core by 30% of the HP damage dealt.\nFor Unbreakable Coins: this effect does not activate on Hit after Clash Lose."
+            "name": "Искусство Затвердевшей Крови Дон Кихота",
+            "desc": "При ударе, если у цели есть [Laceration], восстанавливает Части и Ядру этого юнита 30% от нанесённого урона ОЗ.\nДля Нерушимых Монет: этот эффект не активируется при ударе после Проигрыша в Столкновении"
         },
         {
             "id": 841003,
-            "name": "An Unfamiliar Banquet",
-            "desc": "If this unit healed more than 15% of its max HP, or siphoned the enemy's [Laceration], gain 3 [Binding] next turn. (once per turn)\nIf this unit killed the target with its Skill, gain 2 [AttackDown] and 1 [DefenseDown] next turn. (3 times per turn)"
+            "name": "Незнакомый Банкет",
+            "desc": "Если этот юнит восстановил более 15% от своего максимального ОЗ или высосал [Laceration] врага, получает 3 [Binding] на следующий ход (один раз за ход)\nЕсли этот юнит убил цель своим Навыком, получает 2 [AttackDown] и 1 [DefenseDown] на следующий ход (3 раза за ход)"
         },
         {
             "id": 841004,
-            "name": "For the Family...",
-            "desc": "Turn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [Agility] next turn, and heal 30 SP.\n- If this unit failed to consume [BloodDinner], gain 40 [Laceration], immediately take the damage from [Laceration], then lose 5 [Laceration] Count.\n- Then, gain 2 [Enhancement] next turn and heal 30 SP"
+            "name": "Ради Семьи...",
+            "desc": "Конец хода: Если в Панике, восстанавливается от Паники в начале следующего хода и сбрасывает СД до 0.\nПри восстановлении от Паники:\n- Потребляет 30 [BloodDinner] для получения 2 [Enhancement] и 1 [Agility] на следующий ход, и восстанавливает 30 СД.\n- Если этому юниту не удалось потребить [BloodDinner], получает 40 [Laceration], немедленно получает урон от [Laceration], затем теряет 5 счетчиков [Laceration].\n- Затем получает 2 [Enhancement] на следующий ход и восстанавливает 30 СД"
         },
         {
             "id": 841101,
-            "name": "Broken Fragment of a Futile, Naive Dream",
-            "desc": "If this unit is eliminated, increase [BloodDinner] by 30\nWhen killed by a Sinner, generate Memories of the Dreaming Adventure"
+            "name": "Разбитый Осколок Тщетной, Наивной Мечты",
+            "desc": "Если этот юнит уничтожен, увеличивает [BloodDinner] на 30\nКогда убит Грешником, создаёт Воспоминания о Мечтательном Приключении"
         },
         {
             "id": 841102,
-            "name": "A Selfish Wish at the Expense of the Family",
-            "desc": "When killed by Don Quixote:\n- Don Quixote gains 5 [RegainedStrength].\n- All Sinners take 30 Lust damage and gain 8 [Laceration] Potency and Count."
+            "name": "Эгоистичное Желание за Счёт Семьи",
+            "desc": "Когда убит Дон Кихотом:\n- Дон Кихот получает 5 [RegainedStrength].\n- Все Грешники получают 30 урона от Похоти и получают 8 потенциала и счетчика [Laceration]"
         },
         {
             "id": 841301,
-            "name": "Memories of the Journeys Past",
-            "desc": "All Sinners gain 5 SP at every Turn Start.\nDon Quixote the Sinner gains a special effect"
+            "name": "Воспоминания о Прошлых Приключениях",
+            "desc": "Все Грешники получают 5 СД в начале каждого хода.\nДон Кихот Грешник получает особый эффект"
         },
         {
             "id": 841302,
-            "name": "Reminders of Determination",
-            "desc": "When killed by Don Quixote: Don Quixote gains 3 [Reduction] this turn and next turn."
+            "name": "Напоминания о Решимости",
+            "desc": "Когда убит Дон Кихотом: Дон Кихот получает 3 [Reduction] в этот ход и следующий ход"
         },
         {
             "id": 841201,
-            "name": "Hardblood Wedge Gaol",
-            "desc": "When this unit is eliminated, the ally who was impaled by this unit will lose the [Penetration] status next turn."
+            "name": "Темница из Затвердевшей Крови",
+            "desc": "Когда этот юнит уничтожен, союзник, который был пронзён этим юнитом, потеряет статус [Penetration] на следующий ход"
         },
         {
             "id": 841202,
-            "name": "Shattering, Scattering Hardblood",
-            "desc": "When this unit is eliminated, gain 3 E.G.O resources for the least-owned E.G.O resource."
+            "name": "Разбивающаяся, Рассеивающаяся Затвердевшая Кровь",
+            "desc": "Когда этот юнит уничтожен, получает 3 ресурса Э.Г.О для наименее имеющегося ресурса Э.Г.О"
         },
         {
             "id": 841203,
-            "name": "Internal Blood Crystallization",
-            "desc": "If this unit is not eliminated by the turn after its generation, this unit will be eliminated at Turn End, activating the following effect.\nThe ally who was impaled by this unit takes fixed damage equal to 30% of their max HP, and gains 10 [Laceration] Potency and +5 [Laceration] Count."
+            "name": "Внутренняя Кристаллизация Крови",
+            "desc": "Если этот юнит не уничтожен к ходу после его создания, этот юнит будет уничтожен в Конце хода, активируя следующий эффект.\nСоюзник, который был пронзён этим юнитом, получает фиксированный урон, равный 30% от их максимального ОЗ, и получает 10 потенциала [Laceration] и +5 счетчиков [Laceration]"
         },
         {
             "id": 841204,
-            "name": "Total Blood Coagulation",
-            "desc": "When killed by true Don Quixote, activate the on-death effect, and the ally impaled by this unit will be killed."
+            "name": "Полная Коагуляция Крови",
+            "desc": "Когда убит истинным Дон Кихотом, активирует эффект смерти, и союзник, пронзённый этим юнитом, будет убит"
         },
         {
             "id": 841103,
-            "name": "I never should've dreamed this irresponsible dream",
-            "desc": "If this unit has [Precarious], Memories of the Dreaming Adventure will not be generated on death"
+            "name": "Мне никогда не следовало мечтать об этой безответственной мечте",
+            "desc": "Если у этого юнита есть [Precarious], Воспоминания о Мечтательном Приключении не будут созданы при смерти"
         },
         {
             "id": 839006,
-            "name": "The Golden Bough's Forced Arbitration",
-            "desc": "Encounter Start: gain [ConfinementOfGoldenBranch]."
+            "name": "Принудительный Арбитраж Золотой Ветви",
+            "desc": "Начало Столкновения: получает [ConfinementOfGoldenBranch]"
         },
         {
             "id": 841005,
-            "name": "Please, try again",
-            "desc": "When gaining a new pattern, halve the Potency of [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] on this unit's Parts."
+            "name": "Пожалуйста, попробуй снова",
+            "desc": "При переходе в следующую стадию, уменьшает вдвое потенциал [Combustion], [Laceration], [Vibration], [Burst] и [Sinking] на Частях этого юнита"
         },
         {
             "id": 841104,
-            "name": "The adventure ends here.",
-            "desc": "Don Quixote gains Shield at every Turn Start."
+            "name": "Приключение заканчивается здесь.",
+            "desc": "Дон Кихот получает Щит в начале каждого хода"
         }
     ]
 }
