@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 1029,
-      "panicName": "Guilt",
-      "lowMoraleDescription": "Turn End: gain 1 [Vulnerable] and [MentalIncreaseDown] next turn",
-      "panicDescription": "Turn End: gain 2 [Vulnerable] and [MentalIncreaseDown] next turn."
+      "panicName": "Вина",
+      "lowMoraleDescription": "Конец Хода: получает 1 [Vulnerable] и [MentalIncreaseDown] на следующий ход",
+      "panicDescription": "Конец Хода: получает 2 [Vulnerable] и [MentalIncreaseDown] на следующий ход."
     },
     {
       "id": 1031,
-      "panicName": "Resanguination",
-      "lowMoraleDescription": "If the target does not have [Laceration], Clash Power -1; On Hit, heal HP equal to [Laceration] Potency on the target",
-      "panicDescription": "If the target has [Laceration], Clash Power +2; if the target does not have [Laceration], Clash Power -2; On Hit, heal HP equal to [Laceration] Potency on the target"
+      "panicName": "Ресангвинация",
+      "lowMoraleDescription": "Если у цели не имеется [Laceration], Сила в Столкновении -1; При ударе, исцеляет ОЗ равное потенциалу [Laceration] на цели",
+      "panicDescription": "Если у цели имеется [Laceration], Сила в Столкновении +2; Если у цели не имеется [Laceration], Сила в Столкновении -2; При ударе, исцеляет ОЗ равное потенциалу [Laceration] на цели"
     },
     {
       "id": 1032,
-      "panicName": "Guilt",
-      "lowMoraleDescription": "Turn End: gain 1 [Vulnerable] and [MentalIncreaseDown] next turn",
-      "panicDescription": "Turn End: gain 2 [Vulnerable] and [MentalIncreaseDown] next turn."
+      "panicName": "Вина",
+      "lowMoraleDescription": "Конец Хода: получает 1 [Vulnerable] и [MentalIncreaseDown] на следующий ход",
+      "panicDescription": "Конец Хода: получает 2 [Vulnerable] и [MentalIncreaseDown] на следующий ход."
     },
     {
       "id": 1034,
-      "panicName": "Burden of Responsibility",
-      "lowMoraleDescription": "- Gain 2 [Enhancement] and 1 [Vulnerable]; raise Max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the [RegainedStrength] is lower than its value at Turn Start, gain 2 [AttackUp] and [DefenseDown] next turn",
-      "panicDescription": "- Gain 2 [Enhancement] and raise Max Speed value by 2\n- Heal +50% more HP when healing\n- Turn End: if the [RegainedStrength] is lower than its value at Turn Start, gain 3 [AttackUp] and 5 [DefenseDown] next turn"
+      "panicName": "Бремя Ответственности",
+      "lowMoraleDescription": "- Получает 2 [Enhancement] и 1 [Vulnerable]; увеличивает значение Макс. Скорости на 2\n- Восстанавливает на +30% больше ОЗ, когда исцеляется\n- Конец Хода: если [ReполучаетedStrength] меньше собственного значения в Начале Хода, получает 2 [AttackUp] и [DefenseDown] на следующий ход",
+      "panicDescription": "- Получает 2 [Enhancement] и увеличивает значение Макс. Скорости на 2\n- Восстанавливает на +50% больше ОЗ, когда исцеляется\n- Конец Хода: если [ReполучаетedStrength] меньше собственного значения в Начале Хода, получает 3 [AttackUp] и 5 [DefenseDown] на следующий ход"
     },
     {
       "id": 1033,
-      "panicName": "Reawakening Joy Of Carnage",
-      "lowMoraleDescription": "Every Turn Start: gain 2 [AttackUp]; +2 SP Heal Efficiency",
-      "panicDescription": "Turn Start: gain 6 [DefenseUp], and gain 3 [AttackUp] next turn"
+      "panicName": "Пробуждающаяся Радость Резни",
+      "lowMoraleDescription": "В начале каждого хода: получает 2 [AttackUp]; +2 Эффективность восстановления СД",
+      "panicDescription": "Начало Хода: получает 6 [DefenseUp], и получает 3 [AttackUp] на следующий ход"
     }
   ]
 }
