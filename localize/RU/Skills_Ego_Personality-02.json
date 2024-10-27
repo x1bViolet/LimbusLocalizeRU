@@ -343,6 +343,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2020711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "Сила Монет +1 за каждые 7 [Burst] на цели (макс. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "<style=\"highlight\">Если сумма Скорости этого грешника и цели равна 6 или выше, Сила Монет +1</style>\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 [Agility] на следующий ход\n[BeforeAttack] At 4+ Gluttony or Lust Reson., получает +1 Кол-во Целей</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "Если сумма Скорости этого грешника и цели равна 6 или выше, Сила Монет +1\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n[BeforeAttack] Получает 2 [Agility] на следующий ход\n[BeforeAttack] При 4+ наибольший Резонанс., Кол-во Целей +1\n<style=\"highlight\">- Если выбранный Резонанс, оказался Резонанс. Чревоугодия, Кол-во Целей +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "[CantIdentify]\nСлучайные цели\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Snare]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если сумма Скорости этого грешника и цели равна 6 или выше, Сила Монет +1</style>\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n<style=\"highlight\">[BeforeAttack] Получает 2 [Agility] на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +1 счетчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 [Snare]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] на цели (макс. 30%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Лассо",
+          "abName": "Охотник за Розами",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли сумма Скорости этого грешника и цели равна 6 или выше, Сила Монет +1\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n[BeforeAttack] Получает 2 [Agility] на следующий ход\n<style=\"highlight\">[EndSkill] If the target is Staggered or defeated, получает 1 [ShamrockResultUp] на следующий ход</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит +2 счетчика [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 2 [Snare]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит на +2% больше урона за каждый [Burst] на цели (макс. 60%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
