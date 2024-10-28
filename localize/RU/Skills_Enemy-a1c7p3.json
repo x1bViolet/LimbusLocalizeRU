@@ -157,7 +157,7 @@
                 {
                     "level": 1,
                     "name": "У Нас Есть Для Вас Событие!",
-                    "desc": "[WhenUse] Потребляет до 50 [BloodDinner]; получает 1 [BloodScissor] и восстанавливает 3 СД за каждые 10 потребленных [BloodDinner]\n[WhenUse] Если этот юнит не смог потребить [BloodDinner] этим Навыком, получает 5 [Laceration] и 1 [HardenedBlood].\n[WhenUse] Если у цели 5+ [Laceration], Сила монеты +1",
+                    "desc": "[WhenUse] Потребляет до 50 [BloodDinner]; получает 1 [BloodScissor] и восстанавливает 3 СД за каждые 10 потребленных [BloodDinner]\n[WhenUse] Если этот юнит не смог потребить [BloodDinner] этим Навыком, получает 5 [Laceration] и 1 [HardenedBlood].\n[WhenUse] Если у цели 5+ [Laceration], Сила Монет +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -183,7 +183,7 @@
                 {
                     "level": 1,
                     "name": "Не Торопите Меня",
-                    "desc": "[WhenUse] Если у цели 5+ [Laceration], Сила монеты +1\n[WhenUse] Сила столкновения +1 за каждый [BloodScissor] (макс. 3)\nНаносит +7% больше урона за каждый [HardenedBlood] (макс. 35%)\n[EndSkill] Потребляет все [HardenedBlood]",
+                    "desc": "[WhenUse] Если у цели 5+ [Laceration], Сила Монет +1\n[WhenUse] Сила столкновения +1 за каждый [BloodScissor] (макс. 3)\nНаносит +7% больше урона за каждый [HardenedBlood] (макс. 35%)\n[EndSkill] Потребляет все [HardenedBlood]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -216,7 +216,7 @@
                 {
                     "level": 1,
                     "name": "Контратака",
-                    "desc": "[WhenUse] При 1+ [BloodScissor], Базовая сила +1\n[WhenUse] При 3+ [HardenedBlood], Сила монеты +1",
+                    "desc": "[WhenUse] При 1+ [BloodScissor], Базовая сила +1\n[WhenUse] При 3+ [HardenedBlood], Сила Монет +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -283,7 +283,7 @@
                 {
                     "level": 1,
                     "name": "Угасшее Терпение",
-                    "desc": "[WhenUse] Потребляет до 50 [BloodDinner]; получает 1 [BloodyHand] за каждые 10 потребленных [BloodDinner]\n[WhenUse] Если у цели 5+ [Laceration], Сила монеты +1",
+                    "desc": "[WhenUse] Потребляет до 50 [BloodDinner]; получает 1 [BloodyHand] за каждые 10 потребленных [BloodDinner]\n[WhenUse] Если у цели 5+ [Laceration], Сила Монет +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -309,7 +309,7 @@
                 {
                     "level": 1,
                     "name": "Бесконечное Искупление",
-                    "desc": "[WhenUse] Если у цели 5+ [Laceration], Сила монеты +1\n[WhenUse] Сила столкновения +1 за каждый [HardenedBlood] на себе\n[DefeatDuel] Теряет 2 [BloodyHand]",
+                    "desc": "[WhenUse] Если у цели 5+ [Laceration], Сила Монет +1\n[WhenUse] Сила столкновения +1 за каждый [HardenedBlood] на себе\n[DefeatDuel] Теряет 2 [BloodyHand]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -348,7 +348,7 @@
                 {
                     "level": 1,
                     "name": "Контратака",
-                    "desc": "[WhenUse] При 1+ [BloodyHand], Базовая сила +1\n[WhenUse] При 3+ [HardenedBlood], Сила монеты +1",
+                    "desc": "[WhenUse] При 1+ [BloodyHand], Базовая сила +1\n[WhenUse] При 3+ [HardenedBlood], Сила Монет +1",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -421,7 +421,7 @@
                 {
                     "level": 1,
                     "name": "Расцветайте Улыбками Радости!",
-                    "desc": "[WhenUse] При 5+ [FestivalFever], Сила монеты +1\n[WhenUse] Если цель имеет 6+ [Laceration], Сила столкновения +1",
+                    "desc": "[WhenUse] При 5+ [FestivalFever], Сила Монет +1\n[WhenUse] Если цель имеет 6+ [Laceration], Сила столкновения +1",
                     "coinlist": [
                         {
                             "coindescs": [
