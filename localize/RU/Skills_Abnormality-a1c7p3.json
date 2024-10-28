@@ -1421,7 +1421,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Клин Застывшей Крови",
+          "name": "Клин Застывшей Кровью",
           "desc": "[StartBattle] Получает +1 Кол-во Целей за каждые 3 [RegainedStrength] на себе (макс. 2)\n[EndSkill] Тратит 3 [RegainedStrength]",
           "coinlist": [
             {
