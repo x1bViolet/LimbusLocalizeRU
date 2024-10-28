@@ -69,7 +69,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 к счётчику [Laceration]"
                                 }
                             ]
                         },
@@ -114,7 +114,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику [Laceration]"
                                 }
                             ]
                         }
@@ -133,14 +133,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику [Laceration]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] При 6+ [Laceration], получает 1 [HardenedBlood]"
@@ -150,7 +150,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику [Laceration]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Получает 8 [Laceration] и 1 [BloodScissor]"
@@ -167,12 +167,12 @@
                 {
                     "level": 1,
                     "name": "Мощная Рубка Застывшей Крови",
-                    "desc": "[WhenUse] Если у цели счетчик 6+ [Laceration], Базовая Сила +1\nНаносит +5% урона за каждый [HardenedBlood] (макс. 25%)\n[EndSkill] Потребляет все [HardenedBlood] и [BloodScissor]",
+                    "desc": "[WhenUse] Если у цели счётчик 6+ [Laceration], Базовая Сила +1\nНаносит +5% урона за каждый [HardenedBlood] (макс. 25%)\n[EndSkill] Потребляет все [HardenedBlood] и [BloodScissor]",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит 3 [Laceration] и +2 к счётчику [Laceration]"
                                 }
                             ]
                         },
@@ -243,7 +243,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +3 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +3 к счётчику [Laceration]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Если у цели 5+ [Laceration], получает 1 [HardenedBlood]"
@@ -343,14 +343,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику [Laceration]"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 к счетчику [Laceration]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 к счётчику [Laceration]"
                                 }
                             ]
                         }
@@ -515,12 +515,12 @@
                 {
                     "level": 1,
                     "name": "Дикие взмахи",
-                    "desc": "[WhenUse] Если у цели 10+ счетчик [Burst]: этот навык не потребляет счетчик [Burst] цели при ударе",
+                    "desc": "[WhenUse] Если у цели 10+ счётчик [Burst]: этот навык не потребляет счётчик [Burst] цели при ударе",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 счетчик [Burst]"
+                                    "desc": "[OnSucceedAttack] Наносит +1 счётчик [Burst]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable]"
@@ -566,12 +566,12 @@
                 {
                     "level": 1,
                     "name": "Удар",
-                    "desc": "Если у цели 3+ счетчик [Burst], наносит +10% больше урона",
+                    "desc": "Если у цели 3+ счётчик [Burst], наносит +10% больше урона",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Burst]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 счётчик [Burst]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 [DefenseDown]"
@@ -588,12 +588,12 @@
                 {
                     "level": 1,
                     "name": "Сокрушительные раны",
-                    "desc": "Если у цели 3+ счетчик [Burst], Базовая сила +1",
+                    "desc": "Если у цели 3+ счётчик [Burst], Базовая сила +1",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +1 счетчик [Burst]"
+                                    "desc": "[OnSucceedAttack] Наносит +1 счётчик [Burst]"
                                 }
                             ]
                         },
@@ -617,12 +617,12 @@
                 {
                     "level": 1,
                     "name": "Дикие взмахи",
-                    "desc": "[WhenUse] Если у цели 10+ счетчик [Burst]: этот навык не потребляет счетчик [Burst] цели при ударе",
+                    "desc": "[WhenUse] Если у цели 10+ счётчик [Burst]: этот навык не потребляет счётчик [Burst] цели при ударе",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Наносит +2 счетчик [Burst]"
+                                    "desc": "[OnSucceedAttack] Наносит +2 счётчик [Burst]"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Наносит 1 [Vulnerable]"
