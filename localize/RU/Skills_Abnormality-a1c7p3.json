@@ -454,7 +454,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Защита",
+          "name": "Блок",
           "desc": "[WhenUse] Щит ОЗ +10 за каждые 4 [Laceration] на цели (макс. 30)",
           "coinlist": [
             {
