@@ -128,7 +128,7 @@
           "level": 1,
           "name": "Вечность",
           "abName": "Утка времени",
-          "desc": "При атаке более медленной цели урон +(разница между скоростью x 2.5)% (До 25%)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 5)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
+          "desc": "При атаке более медленной цели урон +(разница между скоростью x 2.5)% (До 25%)\n[BeforeAttack] При наибольшем резон. , равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резон. (До 5)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -170,7 +170,7 @@
           "level": 3,
           "name": "Вечность",
           "abName": "Утка времени",
-          "desc": "При атаке более медленной цели урон +(разница между скоростью x <style=\"highlight\">3.5</style>)% (До <style=\"highlight\">35%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 5)\n<style=\"highlight\">- Если грех резонанса — Леность, повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До 5)</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
+          "desc": "При атаке более медленной цели урон +(разница между скоростью x <style=\"highlight\">3.5</style>)% (До <style=\"highlight\">35%</style>)\n[BeforeAttack] При наибольшем резон. , равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резон. (До 5)\n<style=\"highlight\">- Если грех резон. — Леность, повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До 5)</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -212,7 +212,7 @@
           "level": 4,
           "name": "Вечность",
           "abName": "Утка времени",
-          "desc": "При атаке более медленной цели урон +(разница между скоростью x <style=\"highlight\">5</style>)% (До <style=\"highlight\">50%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на (число грехов в наибольшем резонансе <style=\"highlight\">x 2</style>) (До <style=\"highlight\">10</style>)\n- Если грех резонанса — Леность, повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До <style=\"highlight\">10</style>)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
+          "desc": "При атаке более медленной цели урон +(разница между скоростью x <style=\"highlight\">5</style>)% (До <style=\"highlight\">50%</style>)\n[BeforeAttack] При наибольшем резон. , равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на (число грехов в наибольшем резон. <style=\"highlight\">x 2</style>) (До <style=\"highlight\">10</style>)\n- Если грех резон. — Леность, повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До <style=\"highlight\">10</style>)\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
           "coinlist": [
             {
               "coindescs": [
@@ -262,7 +262,7 @@
           "level": 1,
           "name": "Вечность",
           "abName": "Утка времени",
-          "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x 1.5)% (До 12%)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
+          "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x 1.5)% (До 12%)\n[BeforeAttack] При наибольшем резон. , равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3",
           "coinlist": [
             {
               "coindescs": [
@@ -289,7 +289,7 @@
           "level": 3,
           "name": "Вечность",
           "abName": "Утка времени",
-          "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2</style>)% (До <style=\"highlight\">16%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резонансе (До 4)\n<style=\"highlight\">- [BeforeAttack] Если грех резонанса — Леность, повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2</style>",
+          "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2</style>)% (До <style=\"highlight\">16%</style>)\n[BeforeAttack] При наибольшем резон. , равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели на число грехов в наибольшем резон. (До 4)\n<style=\"highlight\">- [BeforeAttack] Если грех резон. — Леность, повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -316,7 +316,7 @@
           "level": 4,
           "name": "Вечность",
           "abName": "Утка времени",
-          "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2.5</style>)% (До <style=\"highlight\">20%</style>)\n[BeforeAttack] При наибольшем резонансе, равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на число грехов в наибольшем резонансе (До <style=\"highlight\">5</style>)\n- [BeforeAttack] Если грех резонанса — Леность, <style=\"highlight\">повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До 5)</style>",
+          "desc": "[CantIdentify]\nСлучайные цели\nПри атаке с более медленной главной целью +(разница между скоростью x <style=\"highlight\">2.5</style>)% (До <style=\"highlight\">20%</style>)\n[BeforeAttack] При наибольшем резон. , равном 3 или более, повышает потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на число грехов в наибольшем резон. (До <style=\"highlight\">5</style>)\n- [BeforeAttack] Если грех резон. — Леность, <style=\"highlight\">повышает  <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на повышенный потенциал <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> цели (До 5)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -409,7 +409,7 @@
           "level": 4,
           "name": "Лассо",
           "abName": "Охотник за Розами",
-          "desc": "Если сумма Скорости этого грешника и цели равна 6 или выше, Сила Монет +1\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n[BeforeAttack] Получает 2 [Agility] на следующий ход\n[BeforeAttack] При 4+ наибольший Резонанс., Кол-во Целей +1\n<style=\"highlight\">- Если выбранный Резонанс, оказался Резонанс. Чревоугодия, Кол-во Целей +1</style>",
+          "desc": "Если сумма Скорости этого грешника и цели равна 6 или выше, Сила Монет +1\nСила Монет +1 за каждые 7 [Burst] на цели (макс. 2)\n[BeforeAttack] Получает 2 [Agility] на следующий ход\n[BeforeAttack] При 4+ наибольший резон. , Кол-во Целей +1\n<style=\"highlight\">- Если выбранный резон. , оказался резон. Чревоугодия, Кол-во Целей +1</style>",
           "coinlist": [
             {
               "coindescs": [
