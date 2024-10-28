@@ -1116,7 +1116,7 @@
         {
           "level": 2,
           "name": "Торжество для умерших",
-          "desc": "Если сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +2 счетчика [Sinking]",
+          "desc": "Если сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +2 счётчика [Sinking]",
           "coinlist": [
             {
               "coindescs": [
@@ -1143,7 +1143,7 @@
         {
           "level": 4,
           "name": "Торжество для умерших",
-          "desc": "<style=\"highlight\">При 10+ [BulletLament], Сила столкновения +1</style>\nЕсли сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +2 счетчика [Sinking]",
+          "desc": "<style=\"highlight\">При 10+ [BulletLament], Сила столкновения +1</style>\nЕсли сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +2 счётчика [Sinking]",
           "coinlist": [
             {
               "coindescs": [
@@ -1202,7 +1202,7 @@
         {
           "level": 2,
           "name": "Торжественный траур для живых",
-          "desc": "Если сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +1 счетчик [Sinking]\n[EndSkill] Получает (наивысший Резонанс) [BulletLament] (макс. 6)\n- Если указанный Резонанс был А-Резонансом, получает (наивысший Резонанс х 2) [BulletLament] (макс. 12)",
+          "desc": "Если сумма [Sinking] цели и обоих [SinkingWhite] равна или превышает 6, Сила монеты +1\n[WinDuel] Наносит +1 счётчик [Sinking]\n[EndSkill] Получает (наивысший Резонанс) [BulletLament] (макс. 6)\n- Если указанный Резонанс был А-Резонансом, получает (наивысший Резонанс х 2) [BulletLament] (макс. 12)",
           "coinlist": [
             {
               "coindescs": [
@@ -1229,7 +1229,7 @@
         {
           "level": 4,
           "name": "Торжественный траур для живых",
-          "desc": "При 10+ [BulletLament], Сила столкновения +1\n<style=\"highlight\">Сила монеты +1 за каждые 6 значений</style> суммы [Sinking] цели и обоих [SinkingWhite] <style=\"highlight\">(макс. 2)</style>\n[WinDuel] Наносит +1 счетчик [Sinking]\n[EndSkill] Получает (наивысший Резонанс) [BulletLament] (макс. 6)\n- Если указанный Резонанс был А-Резонансом, получает (наивысший Резонанс х 2) [BulletLament] (макс. 12)\n- Если указанный Резонанс был 4+ А-Резонансом, вместо этого [ReloadLament]",
+          "desc": "При 10+ [BulletLament], Сила столкновения +1\n<style=\"highlight\">Сила монеты +1 за каждые 6 значений</style> суммы [Sinking] цели и обоих [SinkingWhite] <style=\"highlight\">(макс. 2)</style>\n[WinDuel] Наносит +1 счётчик [Sinking]\n[EndSkill] Получает (наивысший Резонанс) [BulletLament] (макс. 6)\n- Если указанный Резонанс был А-Резонансом, получает (наивысший Резонанс х 2) [BulletLament] (макс. 12)\n- Если указанный Резонанс был 4+ А-Резонансом, вместо этого [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1261,7 +1261,7 @@
         {
           "level": 3,
           "name": "Неминуемо, Абсолютная Скорбь Исчезает",
-          "desc": "Базовая сила +1 за каждые 10 значений [BulletLament] (макс. 2)\n[WinDuel] Наносит +3 счетчика [Sinking]\n[EndSkill] [ReloadLament]",
+          "desc": "Базовая сила +1 за каждые 10 значений [BulletLament] (макс. 2)\n[WinDuel] Наносит +3 счётчика [Sinking]\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
@@ -1308,7 +1308,7 @@
         {
           "level": 4,
           "name": "Неминуемо, Абсолютная Скорбь Исчезает",
-          "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> значений [BulletLament] <style=\"highlight\">(макс. 4)</style>\nСила монеты +1 за каждые 6 значений суммы [Sinking] цели и обоих [SinkingWhite] (макс. 2)\n[WinDuel] Наносит +3 счетчика [Sinking]\n[EndSkill] [ReloadLament]",
+          "desc": "Базовая сила +1 за каждые <style=\"highlight\">5</style> значений [BulletLament] <style=\"highlight\">(макс. 4)</style>\nСила монеты +1 за каждые 6 значений суммы [Sinking] цели и обоих [SinkingWhite] (макс. 2)\n[WinDuel] Наносит +3 счётчика [Sinking]\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [
