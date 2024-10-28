@@ -367,7 +367,7 @@
                 {
                     "level": 1,
                     "name": "Добро пожаловать на Фестиваль Чудес!",
-                    "desc": "[WhenUse] При 5+ [FestivalFever], Финальная сила +2",
+                    "desc": "[WhenUse] При 5+ [FestivalFever], Сила Навыка +2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -389,7 +389,7 @@
                 {
                     "level": 1,
                     "name": "Присоединяйтесь к Радостному Параду!",
-                    "desc": "[WhenUse] Финальная сила +1 за каждые 5 [FestivalFever] на себе или каждые 6 [Laceration] на цели (максимум 3)\n[WhenUse] При менее чем 20 [BloodDinner], получает 20 [Laceration] и немедленно активирует его один раз, затем уменьшает счетчик [Laceration] на 1\n[EndSkill] Поглощает 20 [BloodDinner]",
+                    "desc": "[WhenUse] Сила Навыка +1 за каждые 5 [FestivalFever] на себе или каждые 6 [Laceration] на цели (максимум 3)\n[WhenUse] При менее чем 20 [BloodDinner], получает 20 [Laceration] и немедленно активирует его один раз, затем уменьшает счетчик [Laceration] на 1\n[EndSkill] Поглощает 20 [BloodDinner]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -480,7 +480,7 @@
                 {
                     "level": 1,
                     "name": "Уворот",
-                    "desc": "[WhenUse] При 5+ [FestivalFever], Финальная сила +2\n[StartBattle] Получает 3 [FestivalFever]\n[OnDefeatEvade] Теряет 3 [FestivalFever]",
+                    "desc": "[WhenUse] При 5+ [FestivalFever], Сила Навыка +2\n[StartBattle] Получает 3 [FestivalFever]\n[OnDefeatEvade] Теряет 3 [FestivalFever]",
                     "coinlist": [
                         {}
                     ]
