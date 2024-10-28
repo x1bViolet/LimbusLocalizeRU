@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Укол Застывшей Крови",
+                    "name": "Укол Застывшей Кровью",
                     "desc": "",
                     "coinlist": [
                         {
@@ -479,7 +479,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Уклонение",
+                    "name": "Уворот",
                     "desc": "[WhenUse] При 5+ [FestivalFever], Финальная сила +2\n[StartBattle] Получает 3 [FestivalFever]\n[OnDefeatEvade] Теряет 3 [FestivalFever]",
                     "coinlist": [
                         {}
