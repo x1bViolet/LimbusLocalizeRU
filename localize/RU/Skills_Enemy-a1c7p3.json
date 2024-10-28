@@ -447,7 +447,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Вечное Королевство Счастья, Ла-Манчалэнда!",
+                    "name": "Вечное Королевство Счастья, Ла-Манчалэнд!",
                     "desc": "[WhenUse] При менее чем 40 [BloodDinner], получает 20 [Laceration] и +2 счетчик [Laceration], немедленно активирует его дважды, затем уменьшает счетчик [Laceration] на 2\n[EndSkill] Поглощает 40 [BloodDinner]\n[EndBattle] Поглощает все [HardenedBlood] и [FestivalFever]",
                     "coinlist": [
                         {
