@@ -893,7 +893,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Двуручная Форма Рыцаря Цвай - Блок",
+          "name": "Рыцарское фехтование «Цвай» - Блок",
           "desc": "[CanDuelGuard]\n[StartBattle] Получает +5 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает +2 счётчика [Vibration] (раз за ход)\n[WinDuel] Вызывает [VibrationExplosion]",
           "coinlist": [
             {
@@ -907,7 +907,7 @@
         },
         {
           "level": 4,
-          "name": "Двуручная Форма Рыцаря Цвай - Блок",
+          "name": "Рыцарское фехтование «Цвай» - Блок",
           "desc": "[CanDuelGuard]\n[StartBattle] Получает +5 [Aggro] на этот Слот Навыка на следующий ход\n[WhenUse] Получает +<style=\"highlight\">3</style> счётчика [Vibration] (раз за ход)\n[WinDuel] Вызывает [VibrationExplosion]",
           "coinlist": [
             {
