@@ -308,7 +308,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Бесконечное Искупление",
+                    "name": "Вечное Искупление",
                     "desc": "[WhenUse] Если у цели 5+ [Laceration], Сила Монет +1\n[WhenUse] Сила столкновения +1 за каждый [HardenedBlood] на себе\n[DefeatDuel] Теряет 2 [BloodyHand]",
                     "coinlist": [
                         {
