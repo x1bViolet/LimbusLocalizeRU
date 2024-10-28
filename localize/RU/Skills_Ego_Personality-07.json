@@ -262,7 +262,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Роковая Пуля",
+          "name": "Роковая пуля",
           "abName": "Проклятый Стрелок",
           "desc": "[BeforeAttack] Получает (наибольший Резон. + 1) [BoseProjektil] (макс. 7)\n- Если это был Абсолютный Резон., вместо этого получает (наибольший Резон. +2) [BoseProjektil]\n[BeforeAttack] Получает 1 [Breath] за каждый [BoseProjektil] (макс. 3)\n[EndSkill] Теряет каждый [BoseProjektil]",
           "coinlist": [
@@ -287,7 +287,7 @@
         },
         {
           "level": 3,
-          "name": "Роковая Пуля",
+          "name": "Роковая пуля",
           "abName": "Проклятый Стрелок",
           "desc": "[BeforeAttack] Получает (наибольший Резон. + 1) [BoseProjektil] (макс. 7)\n- Если это был Абсолютный Резон., вместо этого получает (наибольший Резон. + 2) [BoseProjektil]\n[BeforeAttack] Получает 1 [Breath] за каждый [BoseProjektil] (макс. <style=\"highlight\">4</style>)\n[EndSkill] Теряет каждый [BoseProjektil]",
           "coinlist": [
@@ -312,7 +312,7 @@
         },
         {
           "level": 4,
-          "name": "Роковая Пуля",
+          "name": "Роковая пуля",
           "abName": "Проклятый Стрелок",
           "desc": "[BeforeAttack] Получает (наибольший Резон. + 1) [BoseProjektil] (макс. 7)\n- Если это был Абсолютный Резон., вместо этого получает (наибольший Резон. + 2) [BoseProjektil]\n[BeforeAttack] Получает 1 [Breath] за каждый [BoseProjektil] (макс. <style=\"highlight\">7</style>)\n[BeforeAttack] Получает +1 [Breath] Count\n[EndSkill] Теряет каждый [BoseProjektil]",
           "coinlist": [
@@ -342,7 +342,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Роковая Пуля",
+          "name": "Роковая пуля",
           "abName": "Проклятый Стрелок",
           "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (наибольший Резон. + 1) [BoseProjektil] (макс. 7)\n- Если это был Абсолютный Резон., вместо этого получает (наибольший Резон. + 2) [BoseProjektil]\n[BeforeAttack] Наносит +2% больше урона за каждый [BoseProjektil] (макс. 14%)\n[BeforeAttack] Получает 1 [Breath] за каждый [BoseProjektil] (макс. 3)\n[BeforeAttack] Наносит +3% больше урона за каждые 5 [Breath] на себе (макс. 15%)\n[BeforeAttack] Тратит 5 [Breath] на себе\n[EndSkill] Теряет каждый [BoseProjektil]",
           "coinlist": [
@@ -357,7 +357,7 @@
         },
         {
           "level": 3,
-          "name": "Роковая Пуля",
+          "name": "Роковая пуля",
           "abName": "Проклятый Стрелок",
           "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (наибольший Резон. + 1) [BoseProjektil] (макс. 7)\n- Если это был Абсолютный Резон., вместо этого получает (наибольший Резон. + 2) [BoseProjektil]\n<style=\"highlight\">[BeforeAttack] При 3+ [BoseProjektil], получает 1 Кол-во Целей</style>\n[BeforeAttack] Наносит +2% больше урона за каждый [BoseProjektil] (макс. 14%)\n[BeforeAttack] Получает 1 [Breath] за каждый [BoseProjektil] (макс. <style=\"highlight\">4</style>)\n[BeforeAttack] Наносит +<style=\"highlight\">4</style>% больше урона за каждые 5 [Breath] на себе (макс. <style=\"highlight\">20</style>%)\n[BeforeAttack] Тратит 5 [Breath] на себе\n[EndSkill] Теряет каждый [BoseProjektil]",
           "coinlist": [
@@ -372,7 +372,7 @@
         },
         {
           "level": 4,
-          "name": "Роковая Пуля",
+          "name": "Роковая пуля",
           "abName": "Проклятый Стрелок",
           "desc": "[CantIdentify]\nСлучайные цели\n[BeforeAttack] Получает (наибольший Резон. + 1) [BoseProjektil] (макс. 7)\n- Если это был Абсолютный Резон., вместо этого получает (наибольший Резон. + 2) [BoseProjektil]\n[BeforeAttack] Получает 1 Кол-во Целей за <style=\"highlight\">каждый 3 [BoseProjektil] (макс. 2)</style>\n[BeforeAttack] Наносит +<style=\"highlight\">3</style>% больше урона за каждый [BoseProjektil] (макс. <style=\"highlight\">21</style>%)\n[BeforeAttack] Получает 1 [Breath] за каждый [BoseProjektil] (макс. <style=\"highlight\">7</style>)\n[BeforeAttack] Наносит +<style=\"highlight\">5</style>% больше урона за каждые 5 [Breath] на себе (макс. <style=\"highlight\">25</style>%)\n[BeforeAttack] Тратит 5 [Breath] на себе\n[EndSkill] Теряет каждый [BoseProjektil]",
           "coinlist": [
