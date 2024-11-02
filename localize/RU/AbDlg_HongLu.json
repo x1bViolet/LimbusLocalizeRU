@@ -54,9 +54,9 @@
       "voiceFile": 0,
       "teller": "Хон Лу",
       "dialog": "О, боже~ Не вини себя слишком сильно. Просто сегодня не твой день.",
+      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
     },
     {
-      "usage": "(800101, FAILURE), (800102, FAILURE), (800104, FAILURE), (800105, FAILURE)"
       "id": 8,
       "personalityid": 10602,
       "voiceFile": 0,
