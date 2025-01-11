@@ -70,7 +70,7 @@ class ReadmeData(pydantic.BaseModel):
             "version": 0,
             "type": type_,
             "startDate": self.start_date.isoformat(timespec="milliseconds").replace("+00:00", "Z"),
-            "endDate": "2024-12-31T23:00:00.000Z",
+            "endDate": "2025-12-31T23:00:00.000Z",
             "sprNameList": [],
             "title_KR": self.title,
             "content_KR": self.text.export(),
