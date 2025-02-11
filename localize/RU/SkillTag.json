@@ -235,6 +235,10 @@
     {
       "id": "AllyKillFail",
       "name": "[При неудавшемся убийстве союзника]"
+    },
+    {
+      "id": "UnBrokenCoinOnSucceedAttack",
+      "name": "[При попадании целой монетой]"
     }
   ]
 }
