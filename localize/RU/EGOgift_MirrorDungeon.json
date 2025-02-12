@@ -1,4 +1,4 @@
-﻿{
+{
   "dataList": [
     {
       "id": 9001,
@@ -174,7 +174,7 @@
     {
       "id": 9008,
       "name": "Грязный железный кол",
-      "desc": "При нанесении урона одномонетным навыком, наносит 1 единицу потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> до конца сдедующего хода.\n\nЕсли же цель уже имеет Кровотечение, наносит 3 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.",
+      "desc": "При нанесении урона одномонетным навыком, наносит 1 единицу потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> до конца следующего хода.\n\nЕсли же цель уже имеет Кровотечение, наносит 3 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.",
       "simpleDesc": [
         {
           "abilityID": 9008,
