@@ -1728,7 +1728,7 @@
     {
       "id": 19063,
       "name": "Кулон ностальгии+",
-      "desc": "Начало боевой фазы: даёт <style=\"upgradeHighlight\">4 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику. (В приоритете союзники с навыками, повышающими счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)\n\nВ приоритете союзники с навыками с грехом Уныния; даёт им <style=\"upgradeHighlight\">4 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"upgradeHighlight\">3</color>.",
+      "desc": "Начало боевой фазы: даёт <style=\"upgradeHighlight\">4</style> единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику. (В приоритете союзники с навыками, повышающими счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)\n\nВ приоритете союзники с навыками с грехом Уныния; даёт им <style=\"upgradeHighlight\">4</style> единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"upgradeHighlight\">3</color>.",
       "simpleDesc": [
         {
           "abilityID": 19063,
