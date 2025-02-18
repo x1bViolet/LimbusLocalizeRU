@@ -43,7 +43,7 @@
         {
             "id": 2025,
             "name": "Стандартный магазин",
-            "desc": "Идентичности с <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронами</link></u></color> начинают схватку с +3 макс. Патрон"
+            "desc": "Идентичности с <sprite name=\"Bullet\"><color=#9f6a3a><u><link=\"Bullet\">Патронами</link></u></color> начинают схватку с +3 макс. Патронами"
         },
         {
             "id": 2026,
