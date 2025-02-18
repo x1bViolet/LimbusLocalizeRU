@@ -1386,6 +1386,248 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
+          "desc": "<style=\"highlight\">[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До 2)</style>\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами\n<style=\"highlight\">[DefeatDuel] Наносимый потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Правда, следует оговориться, что ЭГО снаряжения — это стандартизированное оборудование,",
+          "desc": "[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До <style=\"highlight\">3</style>)\n[WhenUse] Получает 3 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами\n[DefeatDuel] Наносимый потенциал <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +<style=\"highlight\">2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "при сопоставлении с ЭГО снаряжением из L Corp. в зависимости от степени настройки на Аномалию,",
+          "desc": "[WhenUse] Получает 2 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "при сопоставлении с ЭГО снаряжением из L Corp. в зависимости от степени настройки на Аномалию,",
+          "desc": "<style=\"highlight\">[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную количеству навыков, на которые нацелен грешник (До 3)</style>\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами\n<style=\"highlight\">[DefeatDuel] Наносимые счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами этого навыка: +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "при сопоставлении с ЭГО снаряжением из L Corp. в зависимости от степени настройки на Аномалию,",
+          "desc": "[StartBattle] При проигрыше в столкновении, получает итоговую силу, равную <style=\"highlight\">(количество навыков, на которые нацелен грешник х 2)</style> (До <style=\"highlight\">6</style>)\n[WhenUse] Получает 4 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокации</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами\n[DefeatDuel] Наносимые счётчики <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> эффектами навыка: <style=\"highlight\">+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "особенности источника могут быть использованы с большей гибкостью",
+          "desc": "За каждый 1% потерянных ОЗ повышает урон на 0.5%\n[StartBattle] Базовая сила +1 за каждый навык, на который нацелен грешник (До 2)\n[WhenUse] Получает 2 <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает 6 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами; вместо этого получает +1 к Базовой силе навыка\n[EndSkill] Восстанавливает 30 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывание</link></u></color> на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "особенности источника могут быть использованы с большей гибкостью",
+          "desc": "За каждый 1% потерянных ОЗ повышает урон на <style=\"highlight\">0.8</style>%\n[StartBattle] Базовая сила +1 за каждый навык, на который нацелен грешник (До <style=\"highlight\">3</style>)\n[WhenUse] Получает <style=\"highlight\">3</style> <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает <style=\"highlight\">8</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не наносит <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывы</link></u></color> своими эффектами; вместо этого получает +1 к Базовой силе навыка\n[EndSkill] Восстанавливает 30 СД",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на <style=\"highlight\">3</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Наносит <style=\"highlight\">2</style> <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыв</link></u></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Однако степень, в которой достигается это согласование и синхронизация, может в результате поглотить своего пользователя",
+          "desc": "[StartBattle] Получает 2 <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает 6 <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами; вместо этого получает +3 к Базовой силе навыка",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Однако степень, в которой достигается это согласование и синхронизация, может в результате поглотить своего пользователя",
+          "desc": "[StartBattle] Получает <style=\"highlight\">3</style> <sprite name=\"GlowingLantern\"><color=#e30000><u><link=\"GlowingLantern\">Феи-приманки</link></u></color> (Единожды за ход)\n[WhenUse] Получает <style=\"highlight\">8</style> <sprite name=\"Aggro\"><color=#f8c200><u><link=\"Aggro\">Провокаций</link></u></color> на следующий ход\n[WhenUse] Если цель имеет 15+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color> и 3+ счётчика: навык не повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> своими эффектами; вместо этого получает +3 к Базовой силе навыка",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрыва</link></u></color> на 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

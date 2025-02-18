@@ -174,7 +174,7 @@
     {
       "id": 9008,
       "name": "Грязный железный кол",
-      "desc": "При нанесении урона одномонетным навыком, наносит 1 единицу потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> до конца сдедующего хода.\n\nЕсли же цель уже имеет Кровотечение, наносит 3 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.",
+      "desc": "При нанесении урона одномонетным навыком, наносит 1 единицу потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color> до конца следующего хода.\n\nЕсли же цель уже имеет Кровотечение, наносит 3 единицы потенциала <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>.",
       "simpleDesc": [
         {
           "abilityID": 9008,
@@ -1728,7 +1728,7 @@
     {
       "id": 19063,
       "name": "Кулон ностальгии+",
-      "desc": "Начало боевой фазы: даёт <style=\"upgradeHighlight\">4 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику. (В приоритете союзники с навыками, повышающими счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)\n\nВ приоритете союзники с навыками с грехом Уныния; даёт им <style=\"upgradeHighlight\">4 единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"upgradeHighlight\">3</color>.",
+      "desc": "Начало боевой фазы: даёт <style=\"upgradeHighlight\">4</style> единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> случайному союзнику. (В приоритете союзники с навыками, повышающими счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>)\n\nВ приоритете союзники с навыками с грехом Уныния; даёт им <style=\"upgradeHighlight\">4</style> единицы потенциала <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> и повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на <style=\"upgradeHighlight\">3</color>.",
       "simpleDesc": [
         {
           "abilityID": 19063,
