@@ -23,7 +23,7 @@
         {
             "id": 2021,
             "name": "Русалочье масло",
-            "desc": "Наносит 1 дополнительного <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> с навыков, которые наносят [Vibration]"
+            "desc": "+1 дополнительный [Vibration] от навыков, которые наносят [Vibration]"
         },
         {
             "id": 2022,
