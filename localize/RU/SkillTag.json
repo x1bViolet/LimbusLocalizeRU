@@ -239,6 +239,10 @@
     {
       "id": "UnBrokenCoinOnSucceedAttack",
       "name": "[При попадании целой монетой]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[Перед получением удара]"
     }
   ]
 }
