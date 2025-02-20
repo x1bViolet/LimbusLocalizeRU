@@ -885,16 +885,23 @@
     {
       "id": 10811,
       "title": "Капитан\nклана «Курокумо»",
-      "name": "Ishmael",
-      "nameWithTitle": "Ishmael",
+      "name": "Измаил",
+      "nameWithTitle": "Измаил",
       "desc": "Одиннадцатая идентичность Измаил"
     },
     {
       "id": 10712,
       "title": "Вакасю\nклана «Курокумо»",
-      "name": "Heathcliff",
-      "nameWithTitle": "Heathcliff",
+      "name": "Хитклиф",
+      "nameWithTitle": "Хитклиф",
       "desc": "Двенадцатая идентичность Хитклифа"
+    },
+    {
+      "id": 10112,
+      "title": "3-я Южная секция\nассоциации «Лю»",
+      "name": "И Сан",
+      "nameWithTitle": "И Сан",
+      "desc": "Двенадцатая идентичность И Сана"
     }
   ]
 }
