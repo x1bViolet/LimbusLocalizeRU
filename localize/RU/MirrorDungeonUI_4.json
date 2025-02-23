@@ -826,7 +826,7 @@
     },
     {
       "id": "mirrordungeon_select_theme_pack_at_floor",
-      "content": "Select Floor {0} Theme Pack"
+      "content": "Выберите тему для {0} этажа"
     },
     {
       "id": "mirrordungeon_ego_gift_appear_rate_up",
@@ -878,7 +878,7 @@
     },
     {
       "id": "mirror_dungeon_select_theme_drag",
-      "content": "Select a Pack\nAnd Pull"
+      "content": "Потяните вниз"
     },
     {
       "id": "mirror_dungeon_cannot_acquired_ego_gift",
