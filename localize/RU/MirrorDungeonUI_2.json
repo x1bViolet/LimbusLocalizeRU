@@ -510,7 +510,7 @@
     },
     {
       "id": "mirrordungeon_hard_no_reward_desc",
-      "content": "<color=#ff0000>Награда усложнённого режима уже была получена.</color>"
+      "content": "<color=#ff0000>Награда за прохождение усложнённого режима уже была получена.</color>"
     },
     {
       "id": "mirror_dungeon_3_buffs_title_1",
