@@ -1650,7 +1650,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ладонь нефритового пламени",
+          "name": "Пиронефритовый удар",
           "desc": "Если скорость выше скорости цели на 3 и более, +1 к Силе монет\n[WinDuel] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
             {
@@ -1681,7 +1681,7 @@
         },
         {
           "level": 2,
-          "name": "Ладонь нефритового пламени",
+          "name": "Пиронефритовый удар",
           "desc": "Если скорость выше скорости цели <style=\"highlight\">на 2</style> и более, +1 к Силе монет\n[WinDuel] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
             {
@@ -1712,7 +1712,7 @@
         },
         {
           "level": 4,
-          "name": "Ладонь нефритового пламени",
+          "name": "Пиронефритовый удар",
           "desc": "<style=\"highlight\">Если скорость выше скорости цели, +1 к Силе монет за каждые 2 единицы разницы в скорости (До 2)</style>\n[WinDuel] Получает 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n<style=\"highlight\">- Повышает счётчик <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color> на количество <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Ударов по меридиане - Дон Кихот</link></u></color> на цели</style>",
           "coinlist": [
             {
