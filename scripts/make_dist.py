@@ -3,9 +3,17 @@ import pathlib
 import hashlib
 import json
 import shutil
+import collections
 
 from .models import MetaData, FileMetaData
-from .utils import get_github_releases, make_readme_contributors, make_readme_extra
+from .utils import (
+    get_github_releases,
+    make_readme_contributors,
+    make_readme_extra,
+    load_keyword_colors,
+    load_keyword_files,
+    convert_keywords,
+)
 
 
 def get_file_checksum(file_path: pathlib.Path, algorithm: str = "md5") -> str:
@@ -29,6 +37,9 @@ def dist_localization_data(metadata: MetaData, dist_path: pathlib.Path) -> None:
     invalid_files = []
 
     localization_path = pathlib.Path(__file__).parents[1] / "localize"
+    keyword_colors = load_keyword_colors()
+    keyword_files = load_keyword_files()
+
     for file in (localization_path / "RU").glob("**/*.json"):
         if not file.is_file():
             continue
@@ -40,7 +51,17 @@ def dist_localization_data(metadata: MetaData, dist_path: pathlib.Path) -> None:
         result_path = (dist_path / file.relative_to(localization_path)).parent
         result_path.mkdir(parents=True, exist_ok=True)
 
-        shutil.copy(file, result_path / file.name)
+        if file.name in keyword_files:
+            content = file.read_text(encoding="utf-8-sig")
+            content = json.loads(content, object_pairs_hook=collections.OrderedDict)
+            convert_keywords(content, keyword_colors)
+
+            with (result_path / file.name).open("w", encoding="utf-8-sig") as f:
+                json.dump(content, f, ensure_ascii=False, indent=4)
+
+        else:
+            shutil.copy(file, result_path / file.name)
+
         metadata.files.append(
             FileMetaData(
                 path=file.relative_to(localization_path).as_posix(),
