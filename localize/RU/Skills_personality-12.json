@@ -1337,14 +1337,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если было потрачено [FirePunchFuel], наносит <style=\"highlight\">2</style> [Combustion] и повышает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] Если было потрачено [FirePunchFuel], наносит <style=\"highlight\">2</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Если было потрачено [FirePunchFuel], наносит <style=\"highlight\">2</style> [Combustion] и повышает его счётчик на 1"
+                  "desc": "[OnSucceedAttack] Если было потрачено [FirePunchFuel], наносит <style=\"highlight\">2</style> <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> и повышает его счётчик на 1"
                 }
               ]
             },
