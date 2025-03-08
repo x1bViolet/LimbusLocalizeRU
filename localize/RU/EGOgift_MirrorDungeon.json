@@ -2731,7 +2731,7 @@
     {
       "id": 9103,
       "name": "Боль подавленного гнева",
-      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nПри нанесении <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или Особого Огня эффектами навыков противнику, который уже имеет <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> или Особый Огонь, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (2 раза за навык, 2 раза за ход)\n\nЕсли же персонаж уже имеет <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, вместо этого даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>. (1 раз за навык, 2 раза за ход)",
+      "desc": "[Эффекты активируются для #1 и #2 Выбранных Идентичностей]\n\nПри нанесении <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или Особого Огня эффектами навыков противнику, который уже имеет <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> или Особый Огонь, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (2 раза за навык, 2 раза за ход)\n\nЕсли уже имеется <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, вместо этого даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> и 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>. (1 раз за навык, 2 раза за ход)",
       "simpleDesc": [
         {
           "abilityID": 9103,
@@ -2742,7 +2742,7 @@
     {
       "id": 19103,
       "name": "Боль подавленного гнева+",
-      "desc": "[Эффекты активируются для #1, #2 <style=\"upgradeHighlight\">и #3</style> Выбранных Идентичностей]\n\nПри нанесении <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или Особого Огня эффектами навыков противнику, который уже имеет <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> или Особый Огонь, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (2 раза за навык, 2 раза за ход)\n\nЕсли же персонаж уже имеет <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, вместо этого даёт <style=\"upgradeHighlight\">2</style> <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>. (1 раз за навык, 2 раза за ход)",
+      "desc": "[Эффекты активируются для #1, #2 <style=\"upgradeHighlight\">и #3</style> Выбранных Идентичностей]\n\nПри нанесении <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или Особого Огня эффектами навыков противнику, который уже имеет <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> или Особый Огонь, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (2 раза за навык, 2 раза за ход)\n\nЕсли уже имеется <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, вместо этого даёт <style=\"upgradeHighlight\">2</style> <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color> и 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color>. (1 раз за навык, 2 раза за ход)",
       "simpleDesc": [
         {
           "abilityID": 19103,
@@ -2753,7 +2753,7 @@
     {
       "id": 29103,
       "name": "Боль подавленного гнева++",
-      "desc": "[Эффекты активируются для #1, #2 и #3 Выбранных Идентичностей]\n\nПри нанесении <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или Особого Огня эффектами навыков противнику, который уже имеет <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> или Особый Огонь, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (2 раза за навык, 2 раза за ход)\n\nЕсли же персонаж уже имеет <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, вместо этого даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> <style=\"upgradeHighlight\">и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color></style>. (1 раз за навык, 2 раза за ход)",
+      "desc": "[Эффекты активируются для #1, #2 и #3 Выбранных Идентичностей]\n\nПри нанесении <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огня</link></u></color> или Особого Огня эффектами навыков противнику, который уже имеет <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Огонь</link></u></color> или Особый Огонь, даёт 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color> на следующий ход. (2 раза за навык, 2 раза за ход)\n\nЕсли уже имеется <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешку</link></u></color>, вместо этого даёт 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешки</link></u></color>, 2 <sprite name=\"AttackUp\"><color=#f8c200><u><link=\"AttackUp\">Повышения уровня атаки</link></u></color> <style=\"upgradeHighlight\">и 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Повышения урона</link></u></color></style>. (1 раз за навык, 2 раза за ход)",
       "simpleDesc": [
         {
           "abilityID": 29103,
@@ -3553,7 +3553,7 @@
     {
       "id": 9133,
       "name": "Разблокированный дефибрилятор",
-      "desc": "Конец хода: восстанавливает ОЗ и СД, равное сумме потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда навыками за этот ход.\n\nЕсли у персонажа менее 50% ОЗ: увеличивает восстановление в 1.5 раза.",
+      "desc": "Конец хода: восстанавливает ОЗ и СД, равное сумме потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда навыками за этот ход.\n\nЕсли менее 50% ОЗ: увеличивает восстановление в 1.5 раза.",
       "simpleDesc": [
         {
           "abilityID": 9133,
@@ -3564,7 +3564,7 @@
     {
       "id": 19133,
       "name": "Разблокированный дефибрилятор+",
-      "desc": "Конец хода: восстанавливает ОЗ и СД, равное <style=\"upgradeHighlight\">(</style>Сумма потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда навыками за этот ход <style=\"upgradeHighlight\">+ 1)</style>.\n\nЕсли у персонажа менее 50% ОЗ: увеличивает восстановление в <style=\"upgradeHighlight\">2</style> раза.",
+      "desc": "Конец хода: восстанавливает ОЗ и СД, равное <style=\"upgradeHighlight\">(</style>Сумма потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда навыками за этот ход <style=\"upgradeHighlight\">+ 1)</style>.\n\nЕсли менее 50% ОЗ: увеличивает восстановление в <style=\"upgradeHighlight\">2</style> раза.",
       "simpleDesc": [
         {
           "abilityID": 19133,
@@ -3575,7 +3575,7 @@
     {
       "id": 29133,
       "name": "Разблокированный дефибрилятор++",
-      "desc": "Конец хода: восстанавливает ОЗ и СД, равное (Сумма потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда навыками за этот ход + <style=\"upgradeHighlight\">2</style>).\n\nЕсли у персонажа менее <style=\"upgradeHighlight\">75%</style> ОЗ: увеличивает восстановление в 2 раза.",
+      "desc": "Конец хода: восстанавливает ОЗ и СД, равное (Сумма потраченного счётчика <sprite name=\"Charge\"><color=#f8c200><u><link=\"Charge\">Заряда</link></u></color> и Особого Заряда навыками за этот ход + <style=\"upgradeHighlight\">2</style>).\n\nЕсли менее <style=\"upgradeHighlight\">75%</style> ОЗ: увеличивает восстановление в 2 раза.",
       "simpleDesc": [
         {
           "abilityID": 29133,
@@ -4290,7 +4290,7 @@
     {
       "id": 9154,
       "name": "Наложенный груз",
-      "desc": "Конец хода: если больше не осталось других союзников, тратит 5% оставшихся ОЗ, чтобы получить 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> на следующий ход. (Не активируется при менее чем 25% ОЗ)\n\nЕсли же у персонажа менее 50% ОЗ, даёт 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> вместо этого.",
+      "desc": "Конец хода: если больше не осталось других союзников, тратит 5% оставшихся ОЗ, чтобы получить 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> на следующий ход. (Не активируется при менее чем 25% ОЗ)\n\nЕсли менее 50% ОЗ, даёт 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> вместо этого.",
       "simpleDesc": [
         {
           "abilityID": 9154,
