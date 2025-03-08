@@ -1365,7 +1365,7 @@
         {
           "level": 1,
           "name": "Я должен продолжать идти ради старшей сестры",
-          "desc": "[DuelCounter]\n[StartBattle] Получает 100 <sprite name=\"FirePunchFuel\"><color=#9f6a3a><u><link=\"FirePunchFuel\">Топлива 12-го Района</link></u></color>",
+          "desc": "[DuelCounter]\n[StartBattle] Восполняет [FirePunchFuel] до 100",
           "coinlist": [
             {
               "coindescs": [
@@ -1379,7 +1379,7 @@
         {
           "level": 4,
           "name": "Я должен продолжать идти ради старшей сестры",
-          "desc": "[DuelCounter]\n[StartBattle] Получает 100 <sprite name=\"FirePunchFuel\"><color=#9f6a3a><u><link=\"FirePunchFuel\">Топлива 12-го Района</link></u></color>",
+          "desc": "[DuelCounter]\n[StartBattle] Восполняет [FirePunchFuel] до 100",
           "coinlist": [
             {
               "coindescs": [
