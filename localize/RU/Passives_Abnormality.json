@@ -65,7 +65,7 @@
     {
       "id": 800301,
       "name": "Идолопоклонство",
-      "desc": "Не умирает при 0 ОЗ; вместо этого остаётся на поле боя, как недействующий и не нацеливаемый персонаж.\nУмирает при победе над Календарём судного дня."
+      "desc": "Не умирает при 0 ОЗ; вместо этого остаётся на поле боя, фоновый противник.\nУмирает при победе над Календарём судного дня."
     },
     {
       "id": 800801,
@@ -150,7 +150,7 @@
     {
       "id": 802502,
       "name": "Неистовство",
-      "desc": "В состоянии <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовство</link></u></color> персонаж получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>, меняет поведение и перестаёт получать <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> от атак противника."
+      "desc": "В состоянии <sprite name=\"Enrage\"><color=#9f6a3a><u><link=\"Enrage\">Неистовства</link></u></color> получает 3 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышения силы атаки</link></u></color> и 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>, меняет поведение и перестаёт получать <sprite name=\"Aggressive\"><color=#9f6a3a><u><link=\"Aggressive\">Инстинкты</link></u></color> от атак противника."
     },
     {
       "id": 802503,
