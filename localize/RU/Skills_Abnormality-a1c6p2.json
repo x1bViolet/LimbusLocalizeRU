@@ -36,7 +36,7 @@
                   "desc": "[OnSucceedAttack] Повышает счётчик <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color> на 3"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                 }
               ]
             },
@@ -46,7 +46,7 @@
                   "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Тремора</link></u></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижения уровня атаки</link></u></color> на следующий ход"
                 }
               ]
             }
@@ -68,10 +68,10 @@
                   "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#f8c200><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 2 <sprite name=\"AttackDown\"><color=#e30000><u><link=\"AttackDown\">Понижение уровня атаки</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#f8c200><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
+                  "desc": "[OnSucceedAttack] <sprite name=\"VibrationExplosion\"><color=#e30000><u><link=\"VibrationExplosion\">Провоцирует Тремор</link></u></color>"
                 }
               ]
             }
@@ -182,7 +182,7 @@
         {
           "level": 1,
           "name": "Жадное поглощение",
-          "desc": "[WhenUse] Если на цели 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит 2 <sprite name=\"DefenseDown\"><color=#f8c200><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>\nБазовая сила +1 за каждое значение <sprite name=\"TakeHpHealIncrease\"><color=#f8c200><u><link=\"TakeHpHealIncrease\">Повышения восстановления ОЗ</link></u></color> на себе (максимум 3)",
+          "desc": "[WhenUse] Если на цели 5 и более <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Разрывов</link></u></color>, наносит 2 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Понижения уровня защиты</link></u></color>\nБазовая сила +1 за каждое значение <sprite name=\"TakeHpHealIncrease\"><color=#f8c200><u><link=\"TakeHpHealIncrease\">Повышения восстановления ОЗ</link></u></color> на себе (максимум 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -341,7 +341,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
+                  "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> на следующий ход"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 8 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>"
@@ -535,7 +535,7 @@
                   "desc": "[OnSucceedAttack] Получает 1 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Спешка</link></u></color> на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимость</link></u></color>"
                 }
               ]
             },
@@ -573,7 +573,7 @@
         {
           "level": 1,
           "name": "Я тебя поймаю...!",
-          "desc": "Приоритет цели Хитклифф\n[WhenUse] Базовая сила +3 против врага с самой низкой Скоростью\n[WhenUse] Наносит <sprite name=\"AaCfPbBe\"><color=#f8c200><u><link=\"AaCfPbBe\">Помеченная добыча</link></u></color>, 2 <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Уязвимости</link></u></color>, 3 <sprite name=\"Paralysis\"><color=#f8c200><u><link=\"Paralysis\">Паралича</link></u></color> и 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход",
+          "desc": "Приоритет цели Хитклифф\n[WhenUse] Базовая сила +3 против врага с самой низкой Скоростью\n[WhenUse] Наносит <sprite name=\"AaCfPbBe\"><color=#e30000><u><link=\"AaCfPbBe\">Помеченная добыча</link></u></color>, 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Уязвимости</link></u></color>, 3 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Паралича</link></u></color> и 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Связывания</link></u></color> на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -642,7 +642,7 @@
         {
           "level": 1,
           "name": "Ах ты...",
-          "desc": "Приоритет целей с <sprite name=\"AaCfPbBe\"><color=#f8c200><u><link=\"AaCfPbBe\">Помеченная добыча</link></u></color>\nЕсли скорость этого персонажа выше скорости цели на 3 или более, использует этот Навык повторно (максимум 1 раз)",
+          "desc": "Приоритет целей с <sprite name=\"AaCfPbBe\"><color=#e30000><u><link=\"AaCfPbBe\">Помеченная добыча</link></u></color>\nЕсли скорость этого персонажа выше скорости цели на 3 или более, использует этот Навык повторно (максимум 1 раз)",
           "coinlist": [
             {
               "coindescs": [
