@@ -434,7 +434,7 @@
           "level": 3,
           "name": "Рождественский кошмар",
           "abName": "Уютная кровать",
-          "desc": "<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую еденицу СД ниже 0 (До 45%)</style>\n[EndSkill] При максимальных ОЗ, восстанавливает 10 СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+          "desc": "<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)</style>\n[EndSkill] При максимальных ОЗ, восстанавливает 10 СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
           "coinlist": [
             {
               "coindescs": [
@@ -465,7 +465,7 @@
           "level": 4,
           "name": "Рождественский кошмар",
           "abName": "Уютная кровать",
-          "desc": "Если у цели менее 0 СД, на 1% больше урона за каждую еденицу СД ниже 0 (До 45%)\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+          "desc": "Если у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
           "coinlist": [
             {
               "coindescs": [
@@ -529,7 +529,7 @@
           "level": 3,
           "name": "Рождественский кошмар",
           "abName": "Уютная кровать",
-          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую еденицу СД ниже 0 (До 45%)</style>\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+          "desc": "[CantIdentify]\nСлучайные цели\n<style=\"highlight\">Если у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)</style>\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">15</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
           "coinlist": [
             {
               "coindescs": [
@@ -560,7 +560,7 @@
           "level": 4,
           "name": "Рождественский кошмар",
           "abName": "Уютная кровать",
-          "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, на 1% больше урона за каждую еденицу СД ниже 0 (До 45%)\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">20</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
+          "desc": "[CantIdentify]\nСлучайные цели\nЕсли у цели менее 0 СД, на 1% больше урона за каждую единицу СД ниже 0 (До 45%)\n[BeforeAttack] Восстанавливает 10 ОЗ\n[EndSkill] При максимальных ОЗ, восстанавливает <style=\"highlight\">20</style> СД в конце хода и получает 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Повышение силы атаки</link></u></color> на следующий",
           "coinlist": [
             {
               "coindescs": [

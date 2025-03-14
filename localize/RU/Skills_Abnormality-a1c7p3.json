@@ -905,7 +905,7 @@
                   "desc": "[OnSucceedAttack] На 10% больше урона за каждое <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечение</link></u></color> на цели (До 200%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] На 10% больше урона за каждую еденицу <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавго пиршества</link></u></color> (До 100%)"
+                  "desc": "[OnSucceedAttack] На 10% больше урона за каждую единицу <sprite name=\"BloodDinner\"><color=#9f6a3a><u><link=\"BloodDinner\">Кровавго пиршества</link></u></color> (До 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Наносит 3 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> и повышает его счётчик на 2"
