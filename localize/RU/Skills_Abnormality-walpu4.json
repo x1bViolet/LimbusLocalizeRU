@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"MentalCrack\"><color=#e30000><u><link=\"MentalCrack\">Душевный разлом</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"MentalCrack\"><color=#e30000><u><link=\"MentalCrack\">Ментальный разлом</link></u></color>"
                 }
               ]
             }
@@ -130,7 +130,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"MentalCrack\"><color=#e30000><u><link=\"MentalCrack\">Душевный разлом</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"MentalCrack\"><color=#e30000><u><link=\"MentalCrack\">Ментальный разлом</link></u></color>"
                 }
               ]
             }
@@ -156,7 +156,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"MentalCrack\"><color=#e30000><u><link=\"MentalCrack\">Душевный разлом</link></u></color>"
+                  "desc": "[OnSucceedAttack] Наносит 1 <sprite name=\"MentalCrack\"><color=#e30000><u><link=\"MentalCrack\">Ментальный разлом</link></u></color>"
                 }
               ]
             }
