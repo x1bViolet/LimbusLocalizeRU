@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Тренировка окончена",
+          "name": "Больше никаких тестов",
           "desc": "[WhenUse] Получает 3 <sprite name=\"HitDamageUp\"><color=#f8c200><u><link=\"HitDamageUp\">Повышения Дробящего урона</link></u></color> на следующий ход\n[WhenUse] Если на цели 3 и более <sprite name=\"MiddleFingerBook\"><color=#e30000><u><link=\"MiddleFingerBook\">Метки воздаяния</link></u></color>, все монеты становятся <sprite name=\"SuperCoin\"><color=#9f6a3a><u><link=\"SuperCoin\">Вечными</link></u></color>",
           "coinlist": [
             {},
