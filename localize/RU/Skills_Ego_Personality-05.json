@@ -232,7 +232,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Страсть - Миркалла",
+          "name": "Жаждущая - Миркалла",
           "abName": "Четыреста роз",
           "desc": "[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
           "coinlist": [
@@ -277,7 +277,7 @@
         },
         {
           "level": 3,
-          "name": "Страсть - Миркалла",
+          "name": "Жаждущая - Миркалла",
           "abName": "Четыреста роз",
           "desc": "<style=\"highlight\">Сила монет +1 против целей с 6 и более <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color></style>\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
           "coinlist": [
@@ -328,7 +328,7 @@
         },
         {
           "level": 4,
-          "name": "Страсть - Миркалла",
+          "name": "Жаждущая - Миркалла",
           "abName": "Четыреста роз",
           "desc": "Сила монет +1 <style=\"highlight\">за каждые 6 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечений</link></u></color></style> на цели <style=\"highlight\">(До 2)</style>\n[EndSkill] В конце последующих 3-ёх ходов теряет 10 СД",
           "coinlist": [
@@ -387,7 +387,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Страсть - Миркалла",
+          "name": "Жаждущая - Миркалла",
           "abName": "Четыреста роз",
           "desc": "[CantIdentify]\nСлучайная цель\n[WhenUse] Тратит до 10% от максимальных ОЗ и наносит (Потраченное ОЗ / 2) урона всем противникам и союзникам\n- При ОЗ менее 50% от максимальных, вместо этого наносит и активирует 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на всех союзниках один раз (Они теряют 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>), а так же восстанавливает свои ОЗ в количестве урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, нанесённого им",
           "coinlist": [
@@ -435,7 +435,7 @@
         },
         {
           "level": 3,
-          "name": "Страсть - Миркалла",
+          "name": "Жаждущая - Миркалла",
           "abName": "Четыреста роз",
           "desc": "[CantIdentify]\nСлучайная цель\n<style=\"highlight\">Сила монет +1 при 6 и более в сумме <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе и цели</style>\n[WhenUse] Тратит до 10% от максимальных ОЗ и наносит (Потраченное ОЗ / 2) урона всем противникам и союзникам\n- При ОЗ менее 50% от максимальных, вместо этого наносит и активирует 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на всех союзниках один раз (Они теряют 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>), а так же восстанавливает свои ОЗ в количестве урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, нанесённого им",
           "coinlist": [
@@ -483,7 +483,7 @@
         },
         {
           "level": 4,
-          "name": "Страсть - Миркалла",
+          "name": "Жаждущая - Миркалла",
           "abName": "Четыреста роз",
           "desc": "[CantIdentify]\nСлучайная цель\nСила монет +1 <style=\"highlight\">за каждые 6</style> в сумме <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на себе и цели <style=\"highlight\">(До 3)</style>\n[WhenUse] Тратит до 10% от максимальных ОЗ и наносит (Потраченное ОЗ / 2) урона всем противникам и союзникам\n- При ОЗ менее 50% от максимальных, вместо этого наносит и активирует 5 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color> на всех союзниках один раз (Они теряют 1 счётчик <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>), а так же восстанавливает свои ОЗ в количестве урона от <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Кровотечения</link></u></color>, нанесённого им",
           "coinlist": [
