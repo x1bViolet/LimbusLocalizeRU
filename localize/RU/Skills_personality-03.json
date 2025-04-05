@@ -1749,7 +1749,7 @@
         {
           "level": 3,
           "name": "Прошу тебя, да будет это просветляющая битва",
-          "desc": "Наносит на 10% больше урона за каждый 1 <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по нерву - Дон Кихот</link></u></color> на цели (До 30%)\nЕсли скорость выше скорости цели на 2 и более, +1 к Силе монет\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n- Если на цели есть <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по меридианам - Дон Кихот</link></u></color>, получает ещё 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "desc": "Наносит на 10% больше урона за каждый 1 <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по мередианам - Дон Кихот</link></u></color> на цели (До 30%)\nЕсли скорость выше скорости цели на 2 и более, +1 к Силе монет\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n- Если на цели есть <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по меридианам - Дон Кихот</link></u></color>, получает ещё 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -1784,7 +1784,7 @@
         {
           "level": 4,
           "name": "Прошу тебя, да будет это просветляющая битва",
-          "desc": "Наносит на <style=\"highlight\">15%</style> больше урона за каждый 1 <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по нерву - Дон Кихот</link></u></color> на цели (До <style=\"highlight\">45%</style>)\nЕсли скорость выше скорости цели<style=\"highlight\">, +1 к Силе монет за каждые 2 единицы разницы в скорости (До 2)</style>\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n- Если на цели есть <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по меридианам - Дон Кихот</link></u></color>, получает ещё 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
+          "desc": "Наносит на <style=\"highlight\">15%</style> больше урона за каждый 1 <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по мередианам - Дон Кихот</link></u></color> на цели (До <style=\"highlight\">45%</style>)\nЕсли скорость выше скорости цели<style=\"highlight\">, +1 к Силе монет за каждые 2 единицы разницы в скорости (До 2)</style>\n[WinDuel] Получает 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>\n- Если на цели есть <sprite name=\"DianxueDonQuixote\"><color=#e30000><u><link=\"DianxueDonQuixote\">Удар по меридианам - Дон Кихот</link></u></color>, получает ещё 3 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Дыхания</link></u></color>",
           "coinlist": [
             {
               "coindescs": [
